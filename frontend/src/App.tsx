@@ -60,7 +60,6 @@ function App() {
 
   // --- LIFECYCLE ---
   useEffect(() => {
-    // Load progress from localStorage once
     const savedProgress = localStorage.getItem('chinese_practice_progress');
     if (savedProgress) {
       try {
@@ -71,6 +70,17 @@ function App() {
       }
     }
   }, []);
+
+  // Keyboard navigation: Enter to next
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Enter' && isFlipped) {
+        nextWord();
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isFlipped, result, activeWord]);
 
   const shuffleArray = (array: any[]) => {
     const newArr = [...array];
@@ -259,7 +269,7 @@ function App() {
   if (!sessionStarted) {
     return (
       <div className="start-screen">
-        <h1>Chinese Practice</h1>
+        <h1>Zhongwen Study Buddy</h1>
         <p>Select your study focus:</p>
         <div className="category-selection">
           <label>
@@ -292,7 +302,7 @@ function App() {
         {statsList.length > 0 && (
           <div className="start-stats">
             <h3>Overall Progress: {statsList.length} words encountered</h3>
-            <button onClick={handleReset} className="reset-btn-small">Reset Progress</button>
+            <button onClick={handleReset} className="reset-btn-small">Reset All Progress</button>
           </div>
         )}
       </div>
@@ -371,7 +381,7 @@ function App() {
                 {!result?.isCorrect && result !== null && (
                     <button onClick={handleManualCorrect} className="manual-correct">I was actually correct</button>
                 )}
-                <button onClick={nextWord} className="next-btn">Next Word</button>
+                <button onClick={nextWord} className="next-btn">Next Word (Enter)</button>
             </div>
           </div>
         </div>
