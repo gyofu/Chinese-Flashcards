@@ -53,6 +53,7 @@ function App() {
   const [drillMode, setDrillMode] = useState<string[]>([]);
   const [isDrilling, setIsDrilling] = useState(false);
   const [activeWord, setActiveWord] = useState<Word | null>(null);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   // Ref to prevent "Enter" key bounce between cards
   const lastFlipTime = useRef(0);
@@ -83,7 +84,7 @@ function App() {
         nextWord();
       }
     };
-    window.addEventListener('keydown', handleKeyDown, true); // Use capture phase
+    window.addEventListener('keydown', handleKeyDown, true);
     return () => window.removeEventListener('keydown', handleKeyDown, true);
   }, [isFlipped, result, activeWord]);
 
@@ -112,6 +113,7 @@ function App() {
     setCurrentIndex(0);
     setDrillMode([]);
     setIsDrilling(false);
+    setSidebarOpen(false);
   };
 
   const toggleCategory = (cat: string) => {
@@ -135,7 +137,6 @@ function App() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     
-    // Guard: Prevent rapid-fire submission (e.g. from the 'Next' Enter key)
     if (isFlipped || !activeWord || Date.now() - lastFlipTime.current < 250) return;
 
     const validPinyins = new Set([...activeWord.pinyin, ...(progress?.corrections[activeWord.char]?.pinyin || [])]);
@@ -295,7 +296,7 @@ function App() {
               checked={selectedCategories.includes('computing')} 
               onChange={() => toggleCategory('computing')} 
             />
-            Computing & Internet
+            Computing
           </label>
           <label>
             <input 
@@ -303,7 +304,7 @@ function App() {
               checked={selectedCategories.includes('business')} 
               onChange={() => toggleCategory('business')} 
             />
-            Business & Corporate
+            Business
           </label>
           <label>
             <input 
@@ -311,14 +312,14 @@ function App() {
               checked={selectedCategories.includes('common')} 
               onChange={() => toggleCategory('common')} 
             />
-            Common 500
+            Common
           </label>
         </div>
         <button className="start-btn" onClick={startSession}>Start Session</button>
         
         {statsList.length > 0 && (
           <div className="start-stats">
-            <h3>Overall Progress: {statsList.length} words encountered</h3>
+            <h3>Overall Progress: {statsList.length} words</h3>
             <button onClick={handleReset} className="reset-btn-small">Reset All Progress</button>
           </div>
         )}
@@ -326,14 +327,21 @@ function App() {
     );
   }
 
-  if (words.length === 0) return <div className="loading">Loading Vocabulary...</div>;
+  if (words.length === 0) return <div className="loading">Loading...</div>;
 
   return (
-    <div className="app-container">
-      <div className="sidebar">
+    <div className={`app-container ${sidebarOpen ? 'sidebar-visible' : ''}`}>
+      <button className="mobile-menu-toggle" onClick={() => setSidebarOpen(!sidebarOpen)}>
+        {sidebarOpen ? '✕' : '☰ Stats'}
+      </button>
+
+      <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
         <div className="sidebar-header">
             <h3>Stats</h3>
-            <button onClick={() => setSessionStarted(false)} className="quit-btn" style={{ background: '#3498db' }}>Menu</button>
+            <div style={{ display: 'flex', gap: '5px' }}>
+              <button onClick={() => setSessionStarted(false)} className="quit-btn" style={{ background: '#3498db' }}>Menu</button>
+              <button className="mobile-only quit-btn" style={{ background: '#7f8c8d' }} onClick={() => setSidebarOpen(false)}>Close</button>
+            </div>
         </div>
         
         <div className="stats-header">
@@ -359,7 +367,7 @@ function App() {
         </div>
       </div>
 
-      <main className="quiz-area">
+      <main className="quiz-area" onClick={() => sidebarOpen && setSidebarOpen(false)}>
         {isDrilling && <div className="drill-banner">DRILL MODE: {drillMode.length} left</div>}
         {!isDrilling && drillMode.length > 0 && <div className="pending-banner">Mistakes: {drillMode.length}/5 before drill loop</div>}
         
@@ -374,7 +382,7 @@ function App() {
             
             <div className="comparison-grid">
               <div className="comp-header">Field</div>
-              <div className="comp-header">Your Answer</div>
+              <div className="comp-header">Answer</div>
               <div className="comp-header">Expected</div>
               
               <div className="comp-label">Pinyin</div>
@@ -396,9 +404,9 @@ function App() {
 
             <div className="card-controls">
                 {!result?.isCorrect && result !== null && (
-                    <button onClick={handleManualCorrect} className="manual-correct">I was actually correct</button>
+                    <button onClick={handleManualCorrect} className="manual-correct">I was correct</button>
                 )}
-                <button onClick={nextWord} className="next-btn">Next Word (Enter)</button>
+                <button onClick={nextWord} className="next-btn">Next (Enter)</button>
             </div>
           </div>
         </div>
@@ -412,6 +420,9 @@ function App() {
               onChange={(e) => setPinyinInput(e.target.value)}
               autoFocus
               autoComplete="off"
+              autoCorrect="off"
+              autoCapitalize="none"
+              spellCheck="false"
             />
             <input 
               type="text" 
@@ -419,6 +430,9 @@ function App() {
               value={englishInput} 
               onChange={(e) => setEnglishInput(e.target.value)}
               autoComplete="off"
+              autoCorrect="off"
+              autoCapitalize="none"
+              spellCheck="false"
             />
             <button type="submit">Submit</button>
           </form>
