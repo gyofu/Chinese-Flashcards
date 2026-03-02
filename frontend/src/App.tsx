@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import './App.css';
 import vocabData from './data/vocabulary.json';
 
@@ -53,6 +53,9 @@ function App() {
   const [drillMode, setDrillMode] = useState<string[]>([]);
   const [isDrilling, setIsDrilling] = useState(false);
   const [activeWord, setActiveWord] = useState<Word | null>(null);
+
+  // Ref to prevent "Enter" key bounce between cards
+  const lastFlipTime = useRef(0);
 
   // Sorting state for the sidebar
   const [sortKey, setSortKey] = useState<SortKey>('acc');
@@ -131,7 +134,9 @@ function App() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    if (isFlipped || !activeWord) return;
+    
+    // Guard: Prevent rapid-fire submission (e.g. from the 'Next' Enter key)
+    if (isFlipped || !activeWord || Date.now() - lastFlipTime.current < 250) return;
 
     const validPinyins = new Set([...activeWord.pinyin, ...(progress?.corrections[activeWord.char]?.pinyin || [])]);
     const validEnglish = new Set([...activeWord.english, ...(progress?.corrections[activeWord.char]?.english || [])]);
@@ -147,8 +152,7 @@ function App() {
       userPinyin: pinyinInput,
       userEnglish: englishInput
     });
-    setIsFlipped(true);
-
+    
     if (!isCorrect) {
       updateProgress(activeWord.char, false);
       if (!drillMode.includes(activeWord.char)) {
@@ -158,6 +162,9 @@ function App() {
     } else {
       updateProgress(activeWord.char, true);
     }
+
+    setIsFlipped(true);
+    lastFlipTime.current = Date.now();
   };
 
   const updateProgress = (char: string, isCorrect: boolean) => {
@@ -185,7 +192,10 @@ function App() {
   const nextWord = () => {
     if (!result || !activeWord) return;
     const wasCorrect = result.isCorrect;
+    
     setIsFlipped(false);
+    lastFlipTime.current = Date.now();
+    
     setResult(null);
     setPinyinInput('');
     setEnglishInput('');
@@ -354,7 +364,7 @@ function App() {
             <h1>{activeWord?.char}</h1>
           </div>
           
-          <div className="card-back">
+          <div className={`card-back ${isFlipped ? '' : 'hidden'}`}>
             <h2>{activeWord?.char}</h2>
             
             <div className="comparison-grid">
