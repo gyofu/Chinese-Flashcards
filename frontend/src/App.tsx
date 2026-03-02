@@ -148,7 +148,7 @@ function App() {
     }
   };
 
-  const updateProgress = (char: string, isCorrect: boolean, isManual: boolean = false) => {
+  const updateProgress = (char: string, isCorrect: boolean) => {
     setProgress(prev => {
       const newProgress = { ...prev };
       
@@ -198,7 +198,7 @@ function App() {
   const handleManualCorrect = () => {
     if (!activeWord) return;
     setResult(prev => prev ? { ...prev, isCorrect: true, message: 'Corrected! (Typo ignored)' } : null);
-    updateProgress(activeWord.char, true, true);
+    updateProgress(activeWord.char, true);
     if (drillMode.includes(activeWord.char)) {
         setDrillMode(prev => prev.filter(c => c !== activeWord.char));
     }
