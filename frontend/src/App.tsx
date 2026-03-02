@@ -75,11 +75,13 @@ function App() {
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === 'Enter' && isFlipped) {
+        e.preventDefault();
+        e.stopPropagation();
         nextWord();
       }
     };
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
+    window.addEventListener('keydown', handleKeyDown, true); // Use capture phase
+    return () => window.removeEventListener('keydown', handleKeyDown, true);
   }, [isFlipped, result, activeWord]);
 
   const shuffleArray = (array: any[]) => {
