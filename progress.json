@@ -1,0 +1,1443 @@
+{
+  "missed": [
+    "聪明",
+    "自行车",
+    "洗手间",
+    "阿根廷",
+    "春天",
+    "海豚",
+    "地板",
+    "纸巾",
+    "鸡肉",
+    "冠军",
+    "简单",
+    "拍照",
+    "叉子",
+    "木工",
+    "礼品",
+    "醋",
+    "退货",
+    "碗",
+    "酸",
+    "湖",
+    "聊天",
+    "姑姑",
+    "输",
+    "虾",
+    "紫色",
+    "孙女",
+    "政治家",
+    "壮丽",
+    "缅甸",
+    "月初",
+    "走路",
+    "日",
+    "换货",
+    "左边",
+    "惊恐",
+    "翻译",
+    "洪水",
+    "美丽",
+    "广场",
+    "孔雀",
+    "青蛙",
+    "警察",
+    "奶奶",
+    "购物中心",
+    "洗衣服",
+    "月底",
+    "热",
+    "缺货",
+    "饮料",
+    "体育",
+    "害怕",
+    "精密",
+    "火锅",
+    "职员",
+    "外套",
+    "音乐",
+    "乌龟",
+    "审计师",
+    "怎么了",
+    "下载",
+    "打印",
+    "另存为",
+    "选项",
+    "菜单",
+    "浏览器",
+    "点击",
+    "账号",
+    "登录",
+    "注册",
+    "设置",
+    "分享",
+    "关注",
+    "取消",
+    "确认",
+    "删除",
+    "更新",
+    "程序",
+    "文件夹",
+    "网络",
+    "链接",
+    "再见",
+    "拜拜",
+    "晚安",
+    "保重",
+    "欢迎",
+    "兴趣",
+    "留学",
+    "姓",
+    "年龄",
+    "出生",
+    "来自",
+    "性别",
+    "邮箱",
+    "毕业",
+    "家乡",
+    "喜欢",
+    "专业",
+    "爱好",
+    "性格",
+    "介绍",
+    "优点",
+    "缺点",
+    "旁边",
+    "中间",
+    "附近",
+    "远",
+    "近",
+    "我",
+    "出生地",
+    "到",
+    "请",
+    "谢谢",
+    "网站",
+    "新西兰",
+    "天空",
+    "什么时候",
+    "外卖",
+    "香",
+    "积分",
+    "宝蓝色",
+    "热情",
+    "平坦",
+    "程序员",
+    "空气",
+    "工匠",
+    "惆怅",
+    "贵",
+    "强壮",
+    "兽医",
+    "找钱",
+    "难过",
+    "泰国",
+    "打羽毛球",
+    "草原",
+    "地震",
+    "点球",
+    "马桶",
+    "打折",
+    "教授",
+    "胡萝卜",
+    "蜘蛛",
+    "激动",
+    "清晰",
+    "标签",
+    "粥",
+    "饭店",
+    "试穿",
+    "画画",
+    "前天",
+    "红绿灯",
+    "网购",
+    "富有",
+    "大使馆",
+    "酒店",
+    "电梯",
+    "下课",
+    "衬衫",
+    "狼",
+    "讨厌",
+    "紧张",
+    "英国",
+    "农民",
+    "心酸",
+    "辣椒",
+    "女儿",
+    "外孙",
+    "保姆",
+    "火龙果",
+    "米饭",
+    "好吃",
+    "健身房",
+    "姐姐",
+    "无聊",
+    "歌手",
+    "厨房",
+    "坡",
+    "电视遥控器",
+    "评价",
+    "菠萝",
+    "便利店",
+    "模特",
+    "银行",
+    "柚子",
+    "不满",
+    "滑冰",
+    "蟑螂",
+    "面包",
+    "学习",
+    "美国",
+    "闪电",
+    "市长",
+    "做运动",
+    "拖鞋",
+    "印度",
+    "裤子",
+    "睡衣",
+    "章鱼",
+    "枕头",
+    "微信支付",
+    "香瓜",
+    "套装",
+    "奇怪",
+    "沙漠",
+    "枣子",
+    "开会",
+    "屋顶"
+  ],
+  "corrections": {
+    "洗手间": {
+      "pinyin": [],
+      "english": [
+        "bathroom"
+      ]
+    },
+    "买东西": {
+      "pinyin": [],
+      "english": [
+        "go shopping"
+      ]
+    },
+    "安全": {
+      "pinyin": [],
+      "english": [
+        "safety"
+      ]
+    },
+    "咖啡色": {
+      "pinyin": [],
+      "english": [
+        "brown"
+      ]
+    },
+    "几月几号": {
+      "pinyin": [],
+      "english": [
+        "which date?"
+      ]
+    },
+    "比赛": {
+      "pinyin": [],
+      "english": [
+        "competition"
+      ]
+    },
+    "怎么了": {
+      "pinyin": [],
+      "english": [
+        "what's the deal?",
+        "what's the deal"
+      ]
+    },
+    "文件": {
+      "pinyin": [],
+      "english": [
+        "document"
+      ]
+    },
+    "程序": {
+      "pinyin": [],
+      "english": [
+        "program"
+      ]
+    },
+    "您好": {
+      "pinyin": [],
+      "english": [
+        "hello"
+      ]
+    },
+    "早上好": {
+      "pinyin": [],
+      "english": [
+        "goodmorning"
+      ]
+    },
+    "不好意思": {
+      "pinyin": [],
+      "english": [
+        "sorry"
+      ]
+    },
+    "请问": {
+      "pinyin": [],
+      "english": [
+        "may i ask?",
+        "may i ask"
+      ]
+    },
+    "我很好": {
+      "pinyin": [],
+      "english": [
+        "i'm well"
+      ]
+    },
+    "不客气": {
+      "pinyin": [],
+      "english": [
+        "no problem"
+      ]
+    },
+    "对不起": {
+      "pinyin": [],
+      "english": [
+        "excuse me"
+      ]
+    },
+    "没关系": {
+      "pinyin": [],
+      "english": [
+        "no problem"
+      ]
+    },
+    "他": {
+      "pinyin": [],
+      "english": [
+        "him"
+      ]
+    },
+    "她": {
+      "pinyin": [],
+      "english": [
+        "her"
+      ]
+    },
+    "我": {
+      "pinyin": [],
+      "english": [
+        "me"
+      ]
+    },
+    "我们": {
+      "pinyin": [],
+      "english": [
+        "us"
+      ]
+    },
+    "他们": {
+      "pinyin": [],
+      "english": [
+        "them"
+      ]
+    },
+    "你们": {
+      "pinyin": [],
+      "english": [
+        "you all"
+      ]
+    },
+    "您": {
+      "pinyin": [],
+      "english": [
+        "you"
+      ]
+    },
+    "加油": {
+      "pinyin": [],
+      "english": [
+        "keep it up!",
+        "keep it up"
+      ]
+    },
+    "一会儿见": {
+      "pinyin": [],
+      "english": [
+        "see you in a bit"
+      ]
+    },
+    "拜拜": {
+      "pinyin": [],
+      "english": [
+        "bye"
+      ]
+    },
+    "网络": {
+      "pinyin": [],
+      "english": [
+        "network"
+      ]
+    },
+    "晚安": {
+      "pinyin": [],
+      "english": [
+        "goodnight"
+      ]
+    },
+    "再见": {
+      "pinyin": [],
+      "english": [
+        "bye"
+      ]
+    },
+    "大学": {
+      "pinyin": [],
+      "english": [
+        "college"
+      ]
+    },
+    "现在": {
+      "pinyin": [],
+      "english": [
+        "now"
+      ]
+    },
+    "岁": {
+      "pinyin": [],
+      "english": [
+        "age"
+      ]
+    },
+    "出生地": {
+      "pinyin": [],
+      "english": [
+        "birthplace"
+      ]
+    },
+    "住在": {
+      "pinyin": [],
+      "english": [
+        "live at"
+      ]
+    },
+    "一点": {
+      "pinyin": [],
+      "english": [
+        "a little bit"
+      ]
+    },
+    "中文": {
+      "pinyin": [],
+      "english": [
+        "chinese"
+      ]
+    },
+    "英文": {
+      "pinyin": [],
+      "english": [
+        "chinese"
+      ]
+    },
+    "专业": {
+      "pinyin": [],
+      "english": [
+        "specialty",
+        "specialization"
+      ]
+    },
+    "喜欢": {
+      "pinyin": [],
+      "english": [
+        "to like"
+      ]
+    },
+    "哪儿": {
+      "pinyin": [
+        "naer"
+      ],
+      "english": []
+    },
+    "上": {
+      "pinyin": [],
+      "english": [
+        "on top",
+        "top"
+      ]
+    },
+    "下": {
+      "pinyin": [],
+      "english": [
+        "below"
+      ]
+    },
+    "前面": {
+      "pinyin": [],
+      "english": [
+        "front"
+      ]
+    },
+    "后面": {
+      "pinyin": [],
+      "english": [
+        "rear"
+      ]
+    },
+    "对面": {
+      "pinyin": [],
+      "english": [
+        "opposite side"
+      ]
+    },
+    "登录": {
+      "pinyin": [
+        "denglv"
+      ],
+      "english": [
+        "sign in"
+      ]
+    },
+    "旁边": {
+      "pinyin": [],
+      "english": [
+        "side"
+      ]
+    },
+    "附近": {
+      "pinyin": [],
+      "english": [
+        "near"
+      ]
+    }
+  },
+  "stats": {
+    "请": {
+      "right": 3,
+      "wrong": 1
+    },
+    "谢谢": {
+      "right": 3,
+      "wrong": 1
+    },
+    "怎么了": {
+      "right": 2,
+      "wrong": 2
+    },
+    "网站": {
+      "right": 3,
+      "wrong": 1
+    },
+    "下载": {
+      "right": 3,
+      "wrong": 1
+    },
+    "打印": {
+      "right": 2,
+      "wrong": 4
+    },
+    "另存为": {
+      "right": 3,
+      "wrong": 1
+    },
+    "选项": {
+      "right": 2,
+      "wrong": 4
+    },
+    "菜单": {
+      "right": 2,
+      "wrong": 2
+    },
+    "网址": {
+      "right": 2,
+      "wrong": 0
+    },
+    "浏览器": {
+      "right": 2,
+      "wrong": 2
+    },
+    "点击": {
+      "right": 2,
+      "wrong": 1
+    },
+    "账号": {
+      "right": 3,
+      "wrong": 1
+    },
+    "密码": {
+      "right": 2,
+      "wrong": 0
+    },
+    "登录": {
+      "right": 3,
+      "wrong": 3
+    },
+    "注册": {
+      "right": 3,
+      "wrong": 2
+    },
+    "设置": {
+      "right": 2,
+      "wrong": 6
+    },
+    "搜索": {
+      "right": 2,
+      "wrong": 0
+    },
+    "分享": {
+      "right": 2,
+      "wrong": 4
+    },
+    "关注": {
+      "right": 2,
+      "wrong": 1
+    },
+    "取消": {
+      "right": 2,
+      "wrong": 5
+    },
+    "确认": {
+      "right": 2,
+      "wrong": 5
+    },
+    "删除": {
+      "right": 3,
+      "wrong": 6
+    },
+    "更新": {
+      "right": 2,
+      "wrong": 1
+    },
+    "软件": {
+      "right": 2,
+      "wrong": 0
+    },
+    "程序": {
+      "right": 1,
+      "wrong": 7
+    },
+    "文件": {
+      "right": 1,
+      "wrong": 1
+    },
+    "文件夹": {
+      "right": 2,
+      "wrong": 2
+    },
+    "网络": {
+      "right": 1,
+      "wrong": 2
+    },
+    "链接": {
+      "right": 2,
+      "wrong": 5
+    },
+    "﻿你好": {
+      "right": 2,
+      "wrong": 0
+    },
+    "您好": {
+      "right": 1,
+      "wrong": 1
+    },
+    "早上好": {
+      "right": 1,
+      "wrong": 1
+    },
+    "下午好": {
+      "right": 3,
+      "wrong": 0
+    },
+    "晚上好": {
+      "right": 2,
+      "wrong": 0
+    },
+    "不好意思": {
+      "right": 1,
+      "wrong": 1
+    },
+    "请问": {
+      "right": 1,
+      "wrong": 1
+    },
+    "明天见": {
+      "right": 3,
+      "wrong": 0
+    },
+    "你好吗？": {
+      "right": 2,
+      "wrong": 0
+    },
+    "我很好": {
+      "right": 1,
+      "wrong": 1
+    },
+    "不客气": {
+      "right": 2,
+      "wrong": 1
+    },
+    "对不起": {
+      "right": 1,
+      "wrong": 1
+    },
+    "没关系": {
+      "right": 1,
+      "wrong": 1
+    },
+    "他": {
+      "right": 1,
+      "wrong": 1
+    },
+    "她": {
+      "right": 1,
+      "wrong": 1
+    },
+    "我": {
+      "right": 1,
+      "wrong": 2
+    },
+    "你": {
+      "right": 2,
+      "wrong": 0
+    },
+    "我们": {
+      "right": 1,
+      "wrong": 1
+    },
+    "他们": {
+      "right": 1,
+      "wrong": 1
+    },
+    "你们": {
+      "right": 2,
+      "wrong": 1
+    },
+    "您": {
+      "right": 1,
+      "wrong": 1
+    },
+    "加油": {
+      "right": 1,
+      "wrong": 1
+    },
+    "再见": {
+      "right": 1,
+      "wrong": 2
+    },
+    "拜拜": {
+      "right": 1,
+      "wrong": 2
+    },
+    "一会儿见": {
+      "right": 1,
+      "wrong": 1
+    },
+    "晚安": {
+      "right": 1,
+      "wrong": 3
+    },
+    "保重": {
+      "right": 2,
+      "wrong": 2
+    },
+    "欢迎": {
+      "right": 2,
+      "wrong": 1
+    },
+    "兴趣": {
+      "right": 2,
+      "wrong": 4
+    },
+    "留学": {
+      "right": 2,
+      "wrong": 2
+    },
+    "大学": {
+      "right": 1,
+      "wrong": 1
+    },
+    "高中": {
+      "right": 3,
+      "wrong": 0
+    },
+    "名字": {
+      "right": 3,
+      "wrong": 0
+    },
+    "姓": {
+      "right": 2,
+      "wrong": 2
+    },
+    "现在": {
+      "right": 2,
+      "wrong": 1
+    },
+    "英文名字": {
+      "right": 2,
+      "wrong": 0
+    },
+    "年龄": {
+      "right": 2,
+      "wrong": 4
+    },
+    "岁": {
+      "right": 1,
+      "wrong": 1
+    },
+    "出生": {
+      "right": 2,
+      "wrong": 1
+    },
+    "出生地": {
+      "right": 1,
+      "wrong": 2
+    },
+    "来自": {
+      "right": 2,
+      "wrong": 1
+    },
+    "国家": {
+      "right": 2,
+      "wrong": 0
+    },
+    "性别": {
+      "right": 3,
+      "wrong": 2
+    },
+    "电话号码": {
+      "right": 2,
+      "wrong": 0
+    },
+    "住在": {
+      "right": 1,
+      "wrong": 1
+    },
+    "地址": {
+      "right": 2,
+      "wrong": 0
+    },
+    "男": {
+      "right": 2,
+      "wrong": 0
+    },
+    "女": {
+      "right": 2,
+      "wrong": 0
+    },
+    "邮箱": {
+      "right": 2,
+      "wrong": 2
+    },
+    "毕业": {
+      "right": 2,
+      "wrong": 1
+    },
+    "家乡": {
+      "right": 2,
+      "wrong": 3
+    },
+    "喜欢": {
+      "right": 1,
+      "wrong": 2
+    },
+    "上班": {
+      "right": 2,
+      "wrong": 0
+    },
+    "专业": {
+      "right": 1,
+      "wrong": 2
+    },
+    "梦想": {
+      "right": 2,
+      "wrong": 0
+    },
+    "语言": {
+      "right": 3,
+      "wrong": 0
+    },
+    "会说": {
+      "right": 2,
+      "wrong": 0
+    },
+    "一点": {
+      "right": 1,
+      "wrong": 1
+    },
+    "中文": {
+      "right": 1,
+      "wrong": 1
+    },
+    "英文": {
+      "right": 1,
+      "wrong": 1
+    },
+    "爱好": {
+      "right": 2,
+      "wrong": 1
+    },
+    "音乐": {
+      "right": 2,
+      "wrong": 0
+    },
+    "性格": {
+      "right": 3,
+      "wrong": 3
+    },
+    "生日": {
+      "right": 2,
+      "wrong": 0
+    },
+    "介绍": {
+      "right": 2,
+      "wrong": 1
+    },
+    "父母": {
+      "right": 2,
+      "wrong": 0
+    },
+    "兄弟姐妹": {
+      "right": 2,
+      "wrong": 0
+    },
+    "优点": {
+      "right": 1,
+      "wrong": 3
+    },
+    "缺点": {
+      "right": 2,
+      "wrong": 1
+    },
+    "这里": {
+      "right": 2,
+      "wrong": 0
+    },
+    "那里": {
+      "right": 2,
+      "wrong": 0
+    },
+    "哪儿": {
+      "right": 1,
+      "wrong": 1
+    },
+    "上": {
+      "right": 1,
+      "wrong": 1
+    },
+    "下": {
+      "right": 1,
+      "wrong": 1
+    },
+    "左边": {
+      "right": 2,
+      "wrong": 0
+    },
+    "右边": {
+      "right": 2,
+      "wrong": 0
+    },
+    "前面": {
+      "right": 1,
+      "wrong": 1
+    },
+    "后面": {
+      "right": 2,
+      "wrong": 1
+    },
+    "旁边": {
+      "right": 2,
+      "wrong": 1
+    },
+    "中间": {
+      "right": 1,
+      "wrong": 3
+    },
+    "对面": {
+      "right": 2,
+      "wrong": 1
+    },
+    "附近": {
+      "right": 2,
+      "wrong": 1
+    },
+    "远": {
+      "right": 1,
+      "wrong": 1
+    },
+    "近": {
+      "right": 1,
+      "wrong": 1
+    },
+    "到": {
+      "right": 1,
+      "wrong": 2
+    },
+    "新西兰": {
+      "right": 1,
+      "wrong": 2
+    },
+    "天空": {
+      "right": 1,
+      "wrong": 2
+    },
+    "什么时候": {
+      "right": 1,
+      "wrong": 1
+    },
+    "外卖": {
+      "right": 1,
+      "wrong": 1
+    },
+    "星期五": {
+      "right": 1,
+      "wrong": 0
+    },
+    "香": {
+      "right": 1,
+      "wrong": 1
+    },
+    "积分": {
+      "right": 2,
+      "wrong": 2
+    },
+    "宝蓝色": {
+      "right": 0,
+      "wrong": 1
+    },
+    "热情": {
+      "right": 1,
+      "wrong": 2
+    },
+    "平坦": {
+      "right": 1,
+      "wrong": 3
+    },
+    "鸟": {
+      "right": 1,
+      "wrong": 0
+    },
+    "程序员": {
+      "right": 1,
+      "wrong": 3
+    },
+    "空气": {
+      "right": 1,
+      "wrong": 1
+    },
+    "缺货": {
+      "right": 1,
+      "wrong": 0
+    },
+    "工匠": {
+      "right": 1,
+      "wrong": 2
+    },
+    "惆怅": {
+      "right": 1,
+      "wrong": 1
+    },
+    "贵": {
+      "right": 1,
+      "wrong": 1
+    },
+    "强壮": {
+      "right": 1,
+      "wrong": 3
+    },
+    "兽医": {
+      "right": 1,
+      "wrong": 2
+    },
+    "找钱": {
+      "right": 2,
+      "wrong": 1
+    },
+    "新鲜": {
+      "right": 1,
+      "wrong": 0
+    },
+    "难过": {
+      "right": 1,
+      "wrong": 1
+    },
+    "东": {
+      "right": 1,
+      "wrong": 0
+    },
+    "泰国": {
+      "right": 1,
+      "wrong": 1
+    },
+    "打羽毛球": {
+      "right": 1,
+      "wrong": 2
+    },
+    "草原": {
+      "right": 0,
+      "wrong": 1
+    },
+    "地震": {
+      "right": 2,
+      "wrong": 1
+    },
+    "点球": {
+      "right": 1,
+      "wrong": 2
+    },
+    "马桶": {
+      "right": 2,
+      "wrong": 3
+    },
+    "可爱": {
+      "right": 1,
+      "wrong": 0
+    },
+    "冰淇淋": {
+      "right": 1,
+      "wrong": 0
+    },
+    "意大利": {
+      "right": 1,
+      "wrong": 0
+    },
+    "打折": {
+      "right": 0,
+      "wrong": 1
+    },
+    "教授": {
+      "right": 1,
+      "wrong": 3
+    },
+    "胡萝卜": {
+      "right": 2,
+      "wrong": 1
+    },
+    "蜘蛛": {
+      "right": 0,
+      "wrong": 2
+    },
+    "激动": {
+      "right": 0,
+      "wrong": 1
+    },
+    "清晰": {
+      "right": 0,
+      "wrong": 1
+    },
+    "标签": {
+      "right": 0,
+      "wrong": 1
+    },
+    "粥": {
+      "right": 0,
+      "wrong": 1
+    },
+    "饭店": {
+      "right": 1,
+      "wrong": 1
+    },
+    "试穿": {
+      "right": 1,
+      "wrong": 1
+    },
+    "画画": {
+      "right": 1,
+      "wrong": 1
+    },
+    "前天": {
+      "right": 1,
+      "wrong": 1
+    },
+    "红绿灯": {
+      "right": 2,
+      "wrong": 1
+    },
+    "网购": {
+      "right": 1,
+      "wrong": 1
+    },
+    "少": {
+      "right": 1,
+      "wrong": 0
+    },
+    "翻译": {
+      "right": 1,
+      "wrong": 3
+    },
+    "富有": {
+      "right": 1,
+      "wrong": 1
+    },
+    "大使馆": {
+      "right": 1,
+      "wrong": 1
+    },
+    "安全": {
+      "right": 1,
+      "wrong": 0
+    },
+    "酒店": {
+      "right": 1,
+      "wrong": 1
+    },
+    "电梯": {
+      "right": 2,
+      "wrong": 1
+    },
+    "下课": {
+      "right": 1,
+      "wrong": 2
+    },
+    "乌龟": {
+      "right": 0,
+      "wrong": 1
+    },
+    "衬衫": {
+      "right": 1,
+      "wrong": 1
+    },
+    "狼": {
+      "right": 1,
+      "wrong": 1
+    },
+    "讨厌": {
+      "right": 2,
+      "wrong": 2
+    },
+    "吃": {
+      "right": 1,
+      "wrong": 0
+    },
+    "紧张": {
+      "right": 1,
+      "wrong": 1
+    },
+    "英国": {
+      "right": 1,
+      "wrong": 2
+    },
+    "农民": {
+      "right": 1,
+      "wrong": 1
+    },
+    "酸": {
+      "right": 0,
+      "wrong": 1
+    },
+    "心酸": {
+      "right": 1,
+      "wrong": 1
+    },
+    "绿色": {
+      "right": 1,
+      "wrong": 0
+    },
+    "辣椒": {
+      "right": 2,
+      "wrong": 1
+    },
+    "北": {
+      "right": 1,
+      "wrong": 0
+    },
+    "越南": {
+      "right": 1,
+      "wrong": 0
+    },
+    "女儿": {
+      "right": 1,
+      "wrong": 1
+    },
+    "外孙": {
+      "right": 1,
+      "wrong": 1
+    },
+    "保姆": {
+      "right": 1,
+      "wrong": 1
+    },
+    "火龙果": {
+      "right": 1,
+      "wrong": 2
+    },
+    "米饭": {
+      "right": 1,
+      "wrong": 1
+    },
+    "好吃": {
+      "right": 1,
+      "wrong": 1
+    },
+    "健身房": {
+      "right": 1,
+      "wrong": 3
+    },
+    "小": {
+      "right": 1,
+      "wrong": 0
+    },
+    "姐姐": {
+      "right": 1,
+      "wrong": 1
+    },
+    "无聊": {
+      "right": 1,
+      "wrong": 2
+    },
+    "歌手": {
+      "right": 1,
+      "wrong": 1
+    },
+    "厨房": {
+      "right": 2,
+      "wrong": 1
+    },
+    "坡": {
+      "right": 1,
+      "wrong": 2
+    },
+    "加拿大": {
+      "right": 1,
+      "wrong": 0
+    },
+    "电视遥控器": {
+      "right": 1,
+      "wrong": 2
+    },
+    "评价": {
+      "right": 0,
+      "wrong": 1
+    },
+    "菠萝": {
+      "right": 0,
+      "wrong": 3
+    },
+    "千": {
+      "right": 1,
+      "wrong": 0
+    },
+    "便利店": {
+      "right": 2,
+      "wrong": 3
+    },
+    "模特": {
+      "right": 0,
+      "wrong": 2
+    },
+    "银行": {
+      "right": 1,
+      "wrong": 1
+    },
+    "柚子": {
+      "right": 1,
+      "wrong": 1
+    },
+    "不满": {
+      "right": 1,
+      "wrong": 1
+    },
+    "滑冰": {
+      "right": 2,
+      "wrong": 2
+    },
+    "蟑螂": {
+      "right": 1,
+      "wrong": 1
+    },
+    "高": {
+      "right": 1,
+      "wrong": 0
+    },
+    "面包": {
+      "right": 1,
+      "wrong": 1
+    },
+    "学习": {
+      "right": 1,
+      "wrong": 2
+    },
+    "美国": {
+      "right": 1,
+      "wrong": 1
+    },
+    "闪电": {
+      "right": 1,
+      "wrong": 1
+    },
+    "市长": {
+      "right": 1,
+      "wrong": 1
+    },
+    "做运动": {
+      "right": 1,
+      "wrong": 1
+    },
+    "拖鞋": {
+      "right": 1,
+      "wrong": 1
+    },
+    "印度": {
+      "right": 1,
+      "wrong": 1
+    },
+    "裤子": {
+      "right": 1,
+      "wrong": 2
+    },
+    "睡衣": {
+      "right": 2,
+      "wrong": 2
+    },
+    "纸巾": {
+      "right": 0,
+      "wrong": 2
+    },
+    "章鱼": {
+      "right": 1,
+      "wrong": 3
+    },
+    "篮球": {
+      "right": 1,
+      "wrong": 0
+    },
+    "枕头": {
+      "right": 1,
+      "wrong": 1
+    },
+    "微信支付": {
+      "right": 1,
+      "wrong": 2
+    },
+    "香瓜": {
+      "right": 2,
+      "wrong": 3
+    },
+    "套装": {
+      "right": 1,
+      "wrong": 2
+    },
+    "水": {
+      "right": 1,
+      "wrong": 0
+    },
+    "奇怪": {
+      "right": 1,
+      "wrong": 2
+    },
+    "沙漠": {
+      "right": 0,
+      "wrong": 1
+    },
+    "枣子": {
+      "right": 1,
+      "wrong": 2
+    },
+    "开会": {
+      "right": 1,
+      "wrong": 1
+    },
+    "屋顶": {
+      "right": 2,
+      "wrong": 2
+    }
+  }
+}

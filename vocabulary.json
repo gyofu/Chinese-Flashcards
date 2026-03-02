@@ -1,0 +1,10068 @@
+{
+  "你好": {
+    "pinyin": [
+      "nihao"
+    ],
+    "english": [
+      "hello"
+    ],
+    "char": "你好",
+    "frequency_index": 530
+  },
+  "您好": {
+    "pinyin": [
+      "ninhao"
+    ],
+    "english": [
+      "hello"
+    ],
+    "char": "您好",
+    "frequency_index": 31
+  },
+  "早上好": {
+    "pinyin": [
+      "zaoshanghao"
+    ],
+    "english": [
+      "good morning"
+    ],
+    "char": "早上好",
+    "frequency_index": 32
+  },
+  "下午好": {
+    "pinyin": [
+      "xiawuhao"
+    ],
+    "english": [
+      "good afternoon"
+    ],
+    "char": "下午好",
+    "frequency_index": 33
+  },
+  "晚上好": {
+    "pinyin": [
+      "wanshanghao"
+    ],
+    "english": [
+      "good evening"
+    ],
+    "char": "晚上好",
+    "frequency_index": 34
+  },
+  "不好意思": {
+    "pinyin": [
+      "buhaoyisi"
+    ],
+    "english": [
+      "excuse me",
+      "sorry"
+    ],
+    "char": "不好意思",
+    "frequency_index": 35
+  },
+  "请问": {
+    "pinyin": [
+      "qingwen"
+    ],
+    "english": [
+      "may i ask…"
+    ],
+    "char": "请问",
+    "frequency_index": 36
+  },
+  "明天见": {
+    "pinyin": [
+      "mingtianjian"
+    ],
+    "english": [
+      "see you tomorrow"
+    ],
+    "char": "明天见",
+    "frequency_index": 37
+  },
+  "你好吗？": {
+    "pinyin": [
+      "nihaoma"
+    ],
+    "english": [
+      "how are you?"
+    ],
+    "char": "你好吗？",
+    "frequency_index": 38
+  },
+  "我很好": {
+    "pinyin": [
+      "wohenhao"
+    ],
+    "english": [
+      "i’m very well"
+    ],
+    "char": "我很好",
+    "frequency_index": 39
+  },
+  "谢谢": {
+    "pinyin": [
+      "xiexie"
+    ],
+    "english": [
+      "thank you"
+    ],
+    "char": "谢谢",
+    "frequency_index": 1
+  },
+  "不客气": {
+    "pinyin": [
+      "bukeqi"
+    ],
+    "english": [
+      "you’re welcome"
+    ],
+    "char": "不客气",
+    "frequency_index": 41
+  },
+  "对不起": {
+    "pinyin": [
+      "duibuqi"
+    ],
+    "english": [
+      "sorry"
+    ],
+    "char": "对不起",
+    "frequency_index": 42
+  },
+  "没关系": {
+    "pinyin": [
+      "meiguanxi"
+    ],
+    "english": [
+      "it’s okay",
+      "no problem"
+    ],
+    "char": "没关系",
+    "frequency_index": 43
+  },
+  "请": {
+    "pinyin": [
+      "qing"
+    ],
+    "english": [
+      "please"
+    ],
+    "char": "请",
+    "frequency_index": 0
+  },
+  "他": {
+    "pinyin": [
+      "ta"
+    ],
+    "english": [
+      "he",
+      "him"
+    ],
+    "char": "他",
+    "frequency_index": 45
+  },
+  "她": {
+    "pinyin": [
+      "ta"
+    ],
+    "english": [
+      "she",
+      "her"
+    ],
+    "char": "她",
+    "frequency_index": 46
+  },
+  "我": {
+    "pinyin": [
+      "wo"
+    ],
+    "english": [
+      "i",
+      "me"
+    ],
+    "char": "我",
+    "frequency_index": 47
+  },
+  "你": {
+    "pinyin": [
+      "ni"
+    ],
+    "english": [
+      "you"
+    ],
+    "char": "你",
+    "frequency_index": 48
+  },
+  "我们": {
+    "pinyin": [
+      "women"
+    ],
+    "english": [
+      "we",
+      "us"
+    ],
+    "char": "我们",
+    "frequency_index": 49
+  },
+  "他们": {
+    "pinyin": [
+      "tamen"
+    ],
+    "english": [
+      "they"
+    ],
+    "char": "他们",
+    "frequency_index": 50
+  },
+  "你们": {
+    "pinyin": [
+      "nimen"
+    ],
+    "english": [
+      "you"
+    ],
+    "char": "你们",
+    "frequency_index": 51
+  },
+  "您": {
+    "pinyin": [
+      "nin"
+    ],
+    "english": [
+      "you (formal",
+      "respectful)"
+    ],
+    "char": "您",
+    "frequency_index": 52
+  },
+  "加油": {
+    "pinyin": [
+      "jiayou"
+    ],
+    "english": [
+      "keep going",
+      "you can do it"
+    ],
+    "char": "加油",
+    "frequency_index": 53
+  },
+  "再见": {
+    "pinyin": [
+      "zaijian"
+    ],
+    "english": [
+      "goodbye"
+    ],
+    "char": "再见",
+    "frequency_index": 54
+  },
+  "拜拜": {
+    "pinyin": [
+      "baibai"
+    ],
+    "english": [
+      "bye bye"
+    ],
+    "char": "拜拜",
+    "frequency_index": 55
+  },
+  "一会儿见": {
+    "pinyin": [
+      "yihuirjian"
+    ],
+    "english": [
+      "see you later"
+    ],
+    "char": "一会儿见",
+    "frequency_index": 56
+  },
+  "晚安": {
+    "pinyin": [
+      "wanan"
+    ],
+    "english": [
+      "good night"
+    ],
+    "char": "晚安",
+    "frequency_index": 57
+  },
+  "保重": {
+    "pinyin": [
+      "baozhong"
+    ],
+    "english": [
+      "take care"
+    ],
+    "char": "保重",
+    "frequency_index": 58
+  },
+  "欢迎": {
+    "pinyin": [
+      "huanying"
+    ],
+    "english": [
+      "welcome"
+    ],
+    "char": "欢迎",
+    "frequency_index": 59
+  },
+  "兴趣": {
+    "pinyin": [
+      "xingqu"
+    ],
+    "english": [
+      "hobby"
+    ],
+    "char": "兴趣",
+    "frequency_index": 60
+  },
+  "学习": {
+    "pinyin": [
+      "xuexi"
+    ],
+    "english": [
+      "studying"
+    ],
+    "char": "学习",
+    "frequency_index": 351
+  },
+  "留学": {
+    "pinyin": [
+      "liuxue"
+    ],
+    "english": [
+      "study abroad"
+    ],
+    "char": "留学",
+    "frequency_index": 62
+  },
+  "大学": {
+    "pinyin": [
+      "daxue"
+    ],
+    "english": [
+      "university"
+    ],
+    "char": "大学",
+    "frequency_index": 63
+  },
+  "高中": {
+    "pinyin": [
+      "gaozhong"
+    ],
+    "english": [
+      "high school"
+    ],
+    "char": "高中",
+    "frequency_index": 64
+  },
+  "名字": {
+    "pinyin": [
+      "mingzi"
+    ],
+    "english": [
+      "name"
+    ],
+    "char": "名字",
+    "frequency_index": 65
+  },
+  "姓": {
+    "pinyin": [
+      "xing"
+    ],
+    "english": [
+      "surname"
+    ],
+    "char": "姓",
+    "frequency_index": 66
+  },
+  "现在": {
+    "pinyin": [
+      "xianzai"
+    ],
+    "english": [
+      "present",
+      "currently"
+    ],
+    "char": "现在",
+    "frequency_index": 67
+  },
+  "英文名字": {
+    "pinyin": [
+      "yingwenmingzi"
+    ],
+    "english": [
+      "english name"
+    ],
+    "char": "英文名字",
+    "frequency_index": 68
+  },
+  "年龄": {
+    "pinyin": [
+      "nianling"
+    ],
+    "english": [
+      "age"
+    ],
+    "char": "年龄",
+    "frequency_index": 69
+  },
+  "岁": {
+    "pinyin": [
+      "sui"
+    ],
+    "english": [
+      "years old"
+    ],
+    "char": "岁",
+    "frequency_index": 70
+  },
+  "出生": {
+    "pinyin": [
+      "chusheng"
+    ],
+    "english": [
+      "born"
+    ],
+    "char": "出生",
+    "frequency_index": 71
+  },
+  "出生地": {
+    "pinyin": [
+      "chushengdi"
+    ],
+    "english": [
+      "place of birth"
+    ],
+    "char": "出生地",
+    "frequency_index": 72
+  },
+  "来自": {
+    "pinyin": [
+      "laizi"
+    ],
+    "english": [
+      "come from"
+    ],
+    "char": "来自",
+    "frequency_index": 73
+  },
+  "国家": {
+    "pinyin": [
+      "guojia"
+    ],
+    "english": [
+      "country"
+    ],
+    "char": "国家",
+    "frequency_index": 74
+  },
+  "性别": {
+    "pinyin": [
+      "xingbie"
+    ],
+    "english": [
+      "gender"
+    ],
+    "char": "性别",
+    "frequency_index": 75
+  },
+  "电话号码": {
+    "pinyin": [
+      "dianhuahaoma"
+    ],
+    "english": [
+      "phone number"
+    ],
+    "char": "电话号码",
+    "frequency_index": 76
+  },
+  "城市": {
+    "pinyin": [
+      "chengshi"
+    ],
+    "english": [
+      "city"
+    ],
+    "char": "城市",
+    "frequency_index": 174
+  },
+  "住在": {
+    "pinyin": [
+      "zhuzai"
+    ],
+    "english": [
+      "live in"
+    ],
+    "char": "住在",
+    "frequency_index": 78
+  },
+  "地址": {
+    "pinyin": [
+      "dizhi"
+    ],
+    "english": [
+      "address"
+    ],
+    "char": "地址",
+    "frequency_index": 79
+  },
+  "男": {
+    "pinyin": [
+      "nan"
+    ],
+    "english": [
+      "male"
+    ],
+    "char": "男",
+    "frequency_index": 80
+  },
+  "女": {
+    "pinyin": [
+      "nv"
+    ],
+    "english": [
+      "female"
+    ],
+    "char": "女",
+    "frequency_index": 81
+  },
+  "邮箱": {
+    "pinyin": [
+      "youxiang"
+    ],
+    "english": [
+      "email"
+    ],
+    "char": "邮箱",
+    "frequency_index": 82
+  },
+  "毕业": {
+    "pinyin": [
+      "biye"
+    ],
+    "english": [
+      "graduate"
+    ],
+    "char": "毕业",
+    "frequency_index": 83
+  },
+  "家乡": {
+    "pinyin": [
+      "jiaxiang"
+    ],
+    "english": [
+      "hometown"
+    ],
+    "char": "家乡",
+    "frequency_index": 84
+  },
+  "公司": {
+    "pinyin": [
+      "gongsi"
+    ],
+    "english": [
+      "company"
+    ],
+    "char": "公司",
+    "frequency_index": 135
+  },
+  "工作": {
+    "pinyin": [
+      "gongzuo"
+    ],
+    "english": [
+      "working"
+    ],
+    "char": "工作",
+    "frequency_index": 355
+  },
+  "喜欢": {
+    "pinyin": [
+      "xihuan"
+    ],
+    "english": [
+      "like"
+    ],
+    "char": "喜欢",
+    "frequency_index": 87
+  },
+  "上班": {
+    "pinyin": [
+      "shangban"
+    ],
+    "english": [
+      "go to work"
+    ],
+    "char": "上班",
+    "frequency_index": 88
+  },
+  "专业": {
+    "pinyin": [
+      "zhuanye"
+    ],
+    "english": [
+      "major"
+    ],
+    "char": "专业",
+    "frequency_index": 89
+  },
+  "梦想": {
+    "pinyin": [
+      "mengxiang"
+    ],
+    "english": [
+      "dream"
+    ],
+    "char": "梦想",
+    "frequency_index": 90
+  },
+  "语言": {
+    "pinyin": [
+      "yuyan"
+    ],
+    "english": [
+      "language"
+    ],
+    "char": "语言",
+    "frequency_index": 91
+  },
+  "会说": {
+    "pinyin": [
+      "huishuo"
+    ],
+    "english": [
+      "can speak"
+    ],
+    "char": "会说",
+    "frequency_index": 92
+  },
+  "一点": {
+    "pinyin": [
+      "yidian"
+    ],
+    "english": [
+      "a little"
+    ],
+    "char": "一点",
+    "frequency_index": 93
+  },
+  "中文": {
+    "pinyin": [
+      "zhongwen"
+    ],
+    "english": [
+      "chinese"
+    ],
+    "char": "中文",
+    "frequency_index": 94
+  },
+  "英文": {
+    "pinyin": [
+      "yingwen"
+    ],
+    "english": [
+      "english"
+    ],
+    "char": "英文",
+    "frequency_index": 95
+  },
+  "爱好": {
+    "pinyin": [
+      "aihao"
+    ],
+    "english": [
+      "hobby"
+    ],
+    "char": "爱好",
+    "frequency_index": 96
+  },
+  "旅游": {
+    "pinyin": [
+      "lvyou"
+    ],
+    "english": [
+      "traveling"
+    ],
+    "char": "旅游",
+    "frequency_index": 377
+  },
+  "音乐": {
+    "pinyin": [
+      "yinyue"
+    ],
+    "english": [
+      "music"
+    ],
+    "char": "音乐",
+    "frequency_index": 98
+  },
+  "看书": {
+    "pinyin": [
+      "kanshu"
+    ],
+    "english": [
+      "reading books"
+    ],
+    "char": "看书",
+    "frequency_index": 349
+  },
+  "听音乐": {
+    "pinyin": [
+      "tingyinyue"
+    ],
+    "english": [
+      "listening to music"
+    ],
+    "char": "听音乐",
+    "frequency_index": 348
+  },
+  "看电影": {
+    "pinyin": [
+      "kandianying"
+    ],
+    "english": [
+      "watching movies"
+    ],
+    "char": "看电影",
+    "frequency_index": 346
+  },
+  "性格": {
+    "pinyin": [
+      "xingge"
+    ],
+    "english": [
+      "personality"
+    ],
+    "char": "性格",
+    "frequency_index": 102
+  },
+  "生日": {
+    "pinyin": [
+      "shengri"
+    ],
+    "english": [
+      "birthday"
+    ],
+    "char": "生日",
+    "frequency_index": 103
+  },
+  "介绍": {
+    "pinyin": [
+      "jieshao"
+    ],
+    "english": [
+      "introduce"
+    ],
+    "char": "介绍",
+    "frequency_index": 104
+  },
+  "家庭": {
+    "pinyin": [
+      "jiating"
+    ],
+    "english": [
+      "family"
+    ],
+    "char": "家庭",
+    "frequency_index": 450
+  },
+  "父母": {
+    "pinyin": [
+      "fumu"
+    ],
+    "english": [
+      "parents"
+    ],
+    "char": "父母",
+    "frequency_index": 106
+  },
+  "兄弟姐妹": {
+    "pinyin": [
+      "xiongdijiemei"
+    ],
+    "english": [
+      "siblings"
+    ],
+    "char": "兄弟姐妹",
+    "frequency_index": 107
+  },
+  "优点": {
+    "pinyin": [
+      "youdian"
+    ],
+    "english": [
+      "strength"
+    ],
+    "char": "优点",
+    "frequency_index": 108
+  },
+  "缺点": {
+    "pinyin": [
+      "quedian"
+    ],
+    "english": [
+      "weakness"
+    ],
+    "char": "缺点",
+    "frequency_index": 109
+  },
+  "这里": {
+    "pinyin": [
+      "zheli"
+    ],
+    "english": [
+      "here"
+    ],
+    "char": "这里",
+    "frequency_index": 110
+  },
+  "那里": {
+    "pinyin": [
+      "nali"
+    ],
+    "english": [
+      "there"
+    ],
+    "char": "那里",
+    "frequency_index": 111
+  },
+  "哪儿": {
+    "pinyin": [
+      "nar"
+    ],
+    "english": [
+      "where"
+    ],
+    "char": "哪儿",
+    "frequency_index": 112
+  },
+  "上": {
+    "pinyin": [
+      "shang"
+    ],
+    "english": [
+      "above",
+      "on"
+    ],
+    "char": "上",
+    "frequency_index": 113
+  },
+  "下": {
+    "pinyin": [
+      "xia"
+    ],
+    "english": [
+      "below",
+      "under"
+    ],
+    "char": "下",
+    "frequency_index": 114
+  },
+  "左边": {
+    "pinyin": [
+      "zuobian"
+    ],
+    "english": [
+      "left side"
+    ],
+    "char": "左边",
+    "frequency_index": 115
+  },
+  "右边": {
+    "pinyin": [
+      "youbian"
+    ],
+    "english": [
+      "right side"
+    ],
+    "char": "右边",
+    "frequency_index": 116
+  },
+  "前面": {
+    "pinyin": [
+      "qianmian"
+    ],
+    "english": [
+      "in front"
+    ],
+    "char": "前面",
+    "frequency_index": 117
+  },
+  "后面": {
+    "pinyin": [
+      "houmian"
+    ],
+    "english": [
+      "behind"
+    ],
+    "char": "后面",
+    "frequency_index": 118
+  },
+  "旁边": {
+    "pinyin": [
+      "pangbian"
+    ],
+    "english": [
+      "beside"
+    ],
+    "char": "旁边",
+    "frequency_index": 119
+  },
+  "中间": {
+    "pinyin": [
+      "zhongjian"
+    ],
+    "english": [
+      "in the middle"
+    ],
+    "char": "中间",
+    "frequency_index": 120
+  },
+  "对面": {
+    "pinyin": [
+      "duimian"
+    ],
+    "english": [
+      "opposite"
+    ],
+    "char": "对面",
+    "frequency_index": 121
+  },
+  "附近": {
+    "pinyin": [
+      "fujin"
+    ],
+    "english": [
+      "nearby"
+    ],
+    "char": "附近",
+    "frequency_index": 122
+  },
+  "远": {
+    "pinyin": [
+      "yuan"
+    ],
+    "english": [
+      "far"
+    ],
+    "char": "远",
+    "frequency_index": 123
+  },
+  "近": {
+    "pinyin": [
+      "jin"
+    ],
+    "english": [
+      "near"
+    ],
+    "char": "近",
+    "frequency_index": 124
+  },
+  "到": {
+    "pinyin": [
+      "dao"
+    ],
+    "english": [
+      "arrive"
+    ],
+    "char": "到",
+    "frequency_index": 125
+  },
+  "出口": {
+    "pinyin": [
+      "chukou"
+    ],
+    "english": [
+      "exit"
+    ],
+    "char": "出口",
+    "frequency_index": 126
+  },
+  "入口": {
+    "pinyin": [
+      "rukou"
+    ],
+    "english": [
+      "entrance"
+    ],
+    "char": "入口",
+    "frequency_index": 127
+  },
+  "花店": {
+    "pinyin": [
+      "huadian"
+    ],
+    "english": [
+      "flower shop"
+    ],
+    "char": "花店",
+    "frequency_index": 128
+  },
+  "药店": {
+    "pinyin": [
+      "yaodian"
+    ],
+    "english": [
+      "pharmacy"
+    ],
+    "char": "药店",
+    "frequency_index": 129
+  },
+  "理发店": {
+    "pinyin": [
+      "lifadian"
+    ],
+    "english": [
+      "barber shop"
+    ],
+    "char": "理发店",
+    "frequency_index": 130
+  },
+  "电影院": {
+    "pinyin": [
+      "dianyingyuan"
+    ],
+    "english": [
+      "cinema"
+    ],
+    "char": "电影院",
+    "frequency_index": 131
+  },
+  "动物园": {
+    "pinyin": [
+      "dongwuyuan"
+    ],
+    "english": [
+      "zoo"
+    ],
+    "char": "动物园",
+    "frequency_index": 132
+  },
+  "洗衣店": {
+    "pinyin": [
+      "xiyidian"
+    ],
+    "english": [
+      "laundry"
+    ],
+    "char": "洗衣店",
+    "frequency_index": 133
+  },
+  "停车场": {
+    "pinyin": [
+      "tingchechang"
+    ],
+    "english": [
+      "parking lot"
+    ],
+    "char": "停车场",
+    "frequency_index": 134
+  },
+  "游泳池": {
+    "pinyin": [
+      "youyongchi"
+    ],
+    "english": [
+      "swimming pool"
+    ],
+    "char": "游泳池",
+    "frequency_index": 136
+  },
+  "体育场": {
+    "pinyin": [
+      "tiyuchang"
+    ],
+    "english": [
+      "stadium"
+    ],
+    "char": "体育场",
+    "frequency_index": 137
+  },
+  "公共汽车站": {
+    "pinyin": [
+      "gonggongqichezhan"
+    ],
+    "english": [
+      "bus stop"
+    ],
+    "char": "公共汽车站",
+    "frequency_index": 138
+  },
+  "地铁站": {
+    "pinyin": [
+      "ditiezhan"
+    ],
+    "english": [
+      "subway station"
+    ],
+    "char": "地铁站",
+    "frequency_index": 139
+  },
+  "火车站": {
+    "pinyin": [
+      "huochezhan"
+    ],
+    "english": [
+      "train station"
+    ],
+    "char": "火车站",
+    "frequency_index": 140
+  },
+  "机场": {
+    "pinyin": [
+      "jichang"
+    ],
+    "english": [
+      "airport"
+    ],
+    "char": "机场",
+    "frequency_index": 141
+  },
+  "天桥": {
+    "pinyin": [
+      "tianqiao"
+    ],
+    "english": [
+      "overpass"
+    ],
+    "char": "天桥",
+    "frequency_index": 142
+  },
+  "市场": {
+    "pinyin": [
+      "shichang"
+    ],
+    "english": [
+      "market"
+    ],
+    "char": "市场",
+    "frequency_index": 281
+  },
+  "银行": {
+    "pinyin": [
+      "yinhang"
+    ],
+    "english": [
+      "bank"
+    ],
+    "char": "银行",
+    "frequency_index": 144
+  },
+  "超市": {
+    "pinyin": [
+      "chaoshi"
+    ],
+    "english": [
+      "supermarket"
+    ],
+    "char": "超市",
+    "frequency_index": 283
+  },
+  "饭店": {
+    "pinyin": [
+      "fandian"
+    ],
+    "english": [
+      "restaurant"
+    ],
+    "char": "饭店",
+    "frequency_index": 146
+  },
+  "工厂": {
+    "pinyin": [
+      "gongchang"
+    ],
+    "english": [
+      "factory"
+    ],
+    "char": "工厂",
+    "frequency_index": 147
+  },
+  "寺庙": {
+    "pinyin": [
+      "simiao"
+    ],
+    "english": [
+      "temple"
+    ],
+    "char": "寺庙",
+    "frequency_index": 148
+  },
+  "商店": {
+    "pinyin": [
+      "shangdian"
+    ],
+    "english": [
+      "shop"
+    ],
+    "char": "商店",
+    "frequency_index": 282
+  },
+  "书店": {
+    "pinyin": [
+      "shudian"
+    ],
+    "english": [
+      "bookstore"
+    ],
+    "char": "书店",
+    "frequency_index": 150
+  },
+  "咖啡馆": {
+    "pinyin": [
+      "kafeiguan"
+    ],
+    "english": [
+      "café"
+    ],
+    "char": "咖啡馆",
+    "frequency_index": 151
+  },
+  "饭馆": {
+    "pinyin": [
+      "fanguan"
+    ],
+    "english": [
+      "eatery"
+    ],
+    "char": "饭馆",
+    "frequency_index": 152
+  },
+  "公园": {
+    "pinyin": [
+      "gongyuan"
+    ],
+    "english": [
+      "park"
+    ],
+    "char": "公园",
+    "frequency_index": 153
+  },
+  "广场": {
+    "pinyin": [
+      "guangchang"
+    ],
+    "english": [
+      "square"
+    ],
+    "char": "广场",
+    "frequency_index": 154
+  },
+  "大使馆": {
+    "pinyin": [
+      "dashiguan"
+    ],
+    "english": [
+      "embassy"
+    ],
+    "char": "大使馆",
+    "frequency_index": 155
+  },
+  "博物馆": {
+    "pinyin": [
+      "bowuguan"
+    ],
+    "english": [
+      "museum"
+    ],
+    "char": "博物馆",
+    "frequency_index": 156
+  },
+  "图书馆": {
+    "pinyin": [
+      "tushuguan"
+    ],
+    "english": [
+      "library"
+    ],
+    "char": "图书馆",
+    "frequency_index": 157
+  },
+  "体育馆": {
+    "pinyin": [
+      "tiyuguan"
+    ],
+    "english": [
+      "gymnasium"
+    ],
+    "char": "体育馆",
+    "frequency_index": 158
+  },
+  "洗手间": {
+    "pinyin": [
+      "xishoujian"
+    ],
+    "english": [
+      "restroom"
+    ],
+    "char": "洗手间",
+    "frequency_index": 159
+  },
+  "游乐场": {
+    "pinyin": [
+      "youlechang"
+    ],
+    "english": [
+      "playground"
+    ],
+    "char": "游乐场",
+    "frequency_index": 160
+  },
+  "电梯": {
+    "pinyin": [
+      "dianti"
+    ],
+    "english": [
+      "elevator"
+    ],
+    "char": "电梯",
+    "frequency_index": 161
+  },
+  "楼梯": {
+    "pinyin": [
+      "louti"
+    ],
+    "english": [
+      "stairs"
+    ],
+    "char": "楼梯",
+    "frequency_index": 162
+  },
+  "一楼": {
+    "pinyin": [
+      "yilou"
+    ],
+    "english": [
+      "first floor"
+    ],
+    "char": "一楼",
+    "frequency_index": 163
+  },
+  "二楼": {
+    "pinyin": [
+      "erlou"
+    ],
+    "english": [
+      "second floor"
+    ],
+    "char": "二楼",
+    "frequency_index": 164
+  },
+  "地下室": {
+    "pinyin": [
+      "dixiashi"
+    ],
+    "english": [
+      "basement"
+    ],
+    "char": "地下室",
+    "frequency_index": 165
+  },
+  "马路": {
+    "pinyin": [
+      "malu"
+    ],
+    "english": [
+      "main road"
+    ],
+    "char": "马路",
+    "frequency_index": 166
+  },
+  "人行道": {
+    "pinyin": [
+      "renxingdao"
+    ],
+    "english": [
+      "sidewalk"
+    ],
+    "char": "人行道",
+    "frequency_index": 167
+  },
+  "红绿灯": {
+    "pinyin": [
+      "honglvdeng"
+    ],
+    "english": [
+      "traffic light"
+    ],
+    "char": "红绿灯",
+    "frequency_index": 168
+  },
+  "方向": {
+    "pinyin": [
+      "fangxiang"
+    ],
+    "english": [
+      "direction"
+    ],
+    "char": "方向",
+    "frequency_index": 169
+  },
+  "山": {
+    "pinyin": [
+      "shan"
+    ],
+    "english": [
+      "mountain"
+    ],
+    "char": "山",
+    "frequency_index": 170
+  },
+  "河": {
+    "pinyin": [
+      "he"
+    ],
+    "english": [
+      "river"
+    ],
+    "char": "河",
+    "frequency_index": 171
+  },
+  "湖": {
+    "pinyin": [
+      "hu"
+    ],
+    "english": [
+      "lake"
+    ],
+    "char": "湖",
+    "frequency_index": 172
+  },
+  "海": {
+    "pinyin": [
+      "hai"
+    ],
+    "english": [
+      "sea"
+    ],
+    "char": "海",
+    "frequency_index": 173
+  },
+  "路": {
+    "pinyin": [
+      "lu"
+    ],
+    "english": [
+      "road"
+    ],
+    "char": "路",
+    "frequency_index": 175
+  },
+  "宿舍": {
+    "pinyin": [
+      "sushe"
+    ],
+    "english": [
+      "dormitory"
+    ],
+    "char": "宿舍",
+    "frequency_index": 176
+  },
+  "房子": {
+    "pinyin": [
+      "fangzi"
+    ],
+    "english": [
+      "house"
+    ],
+    "char": "房子",
+    "frequency_index": 177
+  },
+  "别墅": {
+    "pinyin": [
+      "bieshu"
+    ],
+    "english": [
+      "villa"
+    ],
+    "char": "别墅",
+    "frequency_index": 178
+  },
+  "海关": {
+    "pinyin": [
+      "haiguan"
+    ],
+    "english": [
+      "customs"
+    ],
+    "char": "海关",
+    "frequency_index": 179
+  },
+  "办公室": {
+    "pinyin": [
+      "bangongshi"
+    ],
+    "english": [
+      "office"
+    ],
+    "char": "办公室",
+    "frequency_index": 180
+  },
+  "学校": {
+    "pinyin": [
+      "xuexiao"
+    ],
+    "english": [
+      "school"
+    ],
+    "char": "学校",
+    "frequency_index": 181
+  },
+  "医院": {
+    "pinyin": [
+      "yiyuan"
+    ],
+    "english": [
+      "hospital"
+    ],
+    "char": "医院",
+    "frequency_index": 182
+  },
+  "教堂": {
+    "pinyin": [
+      "jiaotang"
+    ],
+    "english": [
+      "church"
+    ],
+    "char": "教堂",
+    "frequency_index": 183
+  },
+  "酒店": {
+    "pinyin": [
+      "jiudian"
+    ],
+    "english": [
+      "hotel"
+    ],
+    "char": "酒店",
+    "frequency_index": 185
+  },
+  "东": {
+    "pinyin": [
+      "dong"
+    ],
+    "english": [
+      "east"
+    ],
+    "char": "东",
+    "frequency_index": 186
+  },
+  "西": {
+    "pinyin": [
+      "xi"
+    ],
+    "english": [
+      "west"
+    ],
+    "char": "西",
+    "frequency_index": 187
+  },
+  "南": {
+    "pinyin": [
+      "nan"
+    ],
+    "english": [
+      "south"
+    ],
+    "char": "南",
+    "frequency_index": 188
+  },
+  "北": {
+    "pinyin": [
+      "bei"
+    ],
+    "english": [
+      "north"
+    ],
+    "char": "北",
+    "frequency_index": 189
+  },
+  "酒吧": {
+    "pinyin": [
+      "jiuba"
+    ],
+    "english": [
+      "bar"
+    ],
+    "char": "酒吧",
+    "frequency_index": 190
+  },
+  "茶馆": {
+    "pinyin": [
+      "chaguan"
+    ],
+    "english": [
+      "teahouse"
+    ],
+    "char": "茶馆",
+    "frequency_index": 191
+  },
+  "健身房": {
+    "pinyin": [
+      "jianshenfang"
+    ],
+    "english": [
+      "gym"
+    ],
+    "char": "健身房",
+    "frequency_index": 192
+  },
+  "学院": {
+    "pinyin": [
+      "xueyuan"
+    ],
+    "english": [
+      "academy"
+    ],
+    "char": "学院",
+    "frequency_index": 193
+  },
+  "派出所": {
+    "pinyin": [
+      "paichusuo"
+    ],
+    "english": [
+      "police station"
+    ],
+    "char": "派出所",
+    "frequency_index": 194
+  },
+  "法院": {
+    "pinyin": [
+      "fayuan"
+    ],
+    "english": [
+      "court"
+    ],
+    "char": "法院",
+    "frequency_index": 195
+  },
+  "阳台": {
+    "pinyin": [
+      "yangtai"
+    ],
+    "english": [
+      "balcony"
+    ],
+    "char": "阳台",
+    "frequency_index": 196
+  },
+  "面包店": {
+    "pinyin": [
+      "mianbaodian"
+    ],
+    "english": [
+      "bakery"
+    ],
+    "char": "面包店",
+    "frequency_index": 197
+  },
+  "美容院": {
+    "pinyin": [
+      "meirongyuan"
+    ],
+    "english": [
+      "beauty salon"
+    ],
+    "char": "美容院",
+    "frequency_index": 198
+  },
+  "律师事务所": {
+    "pinyin": [
+      "lvshishiwusuo"
+    ],
+    "english": [
+      "law firm"
+    ],
+    "char": "律师事务所",
+    "frequency_index": 199
+  },
+  "医生": {
+    "pinyin": [
+      "yisheng"
+    ],
+    "english": [
+      "doctor"
+    ],
+    "char": "医生",
+    "frequency_index": 200
+  },
+  "护士": {
+    "pinyin": [
+      "hushi"
+    ],
+    "english": [
+      "nurse"
+    ],
+    "char": "护士",
+    "frequency_index": 201
+  },
+  "药剂师": {
+    "pinyin": [
+      "yaojishi"
+    ],
+    "english": [
+      "pharmacist"
+    ],
+    "char": "药剂师",
+    "frequency_index": 202
+  },
+  "理发师": {
+    "pinyin": [
+      "lifashi"
+    ],
+    "english": [
+      "hairdresser"
+    ],
+    "char": "理发师",
+    "frequency_index": 203
+  },
+  "牙医": {
+    "pinyin": [
+      "yayi"
+    ],
+    "english": [
+      "dentist"
+    ],
+    "char": "牙医",
+    "frequency_index": 204
+  },
+  "兽医": {
+    "pinyin": [
+      "shouyi"
+    ],
+    "english": [
+      "veterinarian"
+    ],
+    "char": "兽医",
+    "frequency_index": 205
+  },
+  "老师": {
+    "pinyin": [
+      "laoshi"
+    ],
+    "english": [
+      "teacher"
+    ],
+    "char": "老师",
+    "frequency_index": 206
+  },
+  "教授": {
+    "pinyin": [
+      "jiaoshou"
+    ],
+    "english": [
+      "professor"
+    ],
+    "char": "教授",
+    "frequency_index": 207
+  },
+  "学生": {
+    "pinyin": [
+      "xuesheng"
+    ],
+    "english": [
+      "student"
+    ],
+    "char": "学生",
+    "frequency_index": 208
+  },
+  "校长": {
+    "pinyin": [
+      "xiaozhang"
+    ],
+    "english": [
+      "principal"
+    ],
+    "char": "校长",
+    "frequency_index": 209
+  },
+  "工人": {
+    "pinyin": [
+      "gongren"
+    ],
+    "english": [
+      "worker"
+    ],
+    "char": "工人",
+    "frequency_index": 210
+  },
+  "建筑师": {
+    "pinyin": [
+      "jianzhushi"
+    ],
+    "english": [
+      "architect"
+    ],
+    "char": "建筑师",
+    "frequency_index": 211
+  },
+  "工程师": {
+    "pinyin": [
+      "gongchengshi"
+    ],
+    "english": [
+      "engineer"
+    ],
+    "char": "工程师",
+    "frequency_index": 212
+  },
+  "电工": {
+    "pinyin": [
+      "diangong"
+    ],
+    "english": [
+      "electrician"
+    ],
+    "char": "电工",
+    "frequency_index": 213
+  },
+  "木工": {
+    "pinyin": [
+      "mugong"
+    ],
+    "english": [
+      "carpenter"
+    ],
+    "char": "木工",
+    "frequency_index": 214
+  },
+  "水管工": {
+    "pinyin": [
+      "shuiguangong"
+    ],
+    "english": [
+      "plumber"
+    ],
+    "char": "水管工",
+    "frequency_index": 215
+  },
+  "司机": {
+    "pinyin": [
+      "siji"
+    ],
+    "english": [
+      "driver"
+    ],
+    "char": "司机",
+    "frequency_index": 216
+  },
+  "心理医生": {
+    "pinyin": [
+      "xinliyisheng"
+    ],
+    "english": [
+      "psychologist"
+    ],
+    "char": "心理医生",
+    "frequency_index": 217
+  },
+  "采购员": {
+    "pinyin": [
+      "caigouyuan"
+    ],
+    "english": [
+      "purchasing officer"
+    ],
+    "char": "采购员",
+    "frequency_index": 218
+  },
+  "飞行员": {
+    "pinyin": [
+      "feixingyuan"
+    ],
+    "english": [
+      "pilot"
+    ],
+    "char": "飞行员",
+    "frequency_index": 219
+  },
+  "空姐": {
+    "pinyin": [
+      "kongjie"
+    ],
+    "english": [
+      "flight attendant"
+    ],
+    "char": "空姐",
+    "frequency_index": 220
+  },
+  "空少": {
+    "pinyin": [
+      "kongshao"
+    ],
+    "english": [
+      "flight attendant"
+    ],
+    "char": "空少",
+    "frequency_index": 221
+  },
+  "商人": {
+    "pinyin": [
+      "shangren"
+    ],
+    "english": [
+      "businessperson"
+    ],
+    "char": "商人",
+    "frequency_index": 222
+  },
+  "老板": {
+    "pinyin": [
+      "laoban"
+    ],
+    "english": [
+      "boss"
+    ],
+    "char": "老板",
+    "frequency_index": 223
+  },
+  "经理": {
+    "pinyin": [
+      "jingli"
+    ],
+    "english": [
+      "manager"
+    ],
+    "char": "经理",
+    "frequency_index": 224
+  },
+  "职员": {
+    "pinyin": [
+      "zhiyuan"
+    ],
+    "english": [
+      "office worker"
+    ],
+    "char": "职员",
+    "frequency_index": 225
+  },
+  "秘书": {
+    "pinyin": [
+      "mishu"
+    ],
+    "english": [
+      "secretary"
+    ],
+    "char": "秘书",
+    "frequency_index": 226
+  },
+  "会计": {
+    "pinyin": [
+      "kuaiji"
+    ],
+    "english": [
+      "accountant"
+    ],
+    "char": "会计",
+    "frequency_index": 227
+  },
+  "出纳": {
+    "pinyin": [
+      "chuna"
+    ],
+    "english": [
+      "cashier"
+    ],
+    "char": "出纳",
+    "frequency_index": 228
+  },
+  "人力资源专员": {
+    "pinyin": [
+      "renliziyuanzhuanyuan"
+    ],
+    "english": [
+      "hr specialist"
+    ],
+    "char": "人力资源专员",
+    "frequency_index": 229
+  },
+  "厨师": {
+    "pinyin": [
+      "chushi"
+    ],
+    "english": [
+      "chef"
+    ],
+    "char": "厨师",
+    "frequency_index": 230
+  },
+  "程序员": {
+    "pinyin": [
+      "chengxuyuan"
+    ],
+    "english": [
+      "programmer"
+    ],
+    "char": "程序员",
+    "frequency_index": 231
+  },
+  "动画师": {
+    "pinyin": [
+      "donghuashi"
+    ],
+    "english": [
+      "animator"
+    ],
+    "char": "动画师",
+    "frequency_index": 232
+  },
+  "设计师": {
+    "pinyin": [
+      "shejishi"
+    ],
+    "english": [
+      "designer"
+    ],
+    "char": "设计师",
+    "frequency_index": 233
+  },
+  "咖啡师": {
+    "pinyin": [
+      "kafeishi"
+    ],
+    "english": [
+      "barista"
+    ],
+    "char": "咖啡师",
+    "frequency_index": 234
+  },
+  "顾问": {
+    "pinyin": [
+      "guwen"
+    ],
+    "english": [
+      "consultant"
+    ],
+    "char": "顾问",
+    "frequency_index": 235
+  },
+  "科学家": {
+    "pinyin": [
+      "kexuejia"
+    ],
+    "english": [
+      "scientist"
+    ],
+    "char": "科学家",
+    "frequency_index": 236
+  },
+  "模特": {
+    "pinyin": [
+      "mote"
+    ],
+    "english": [
+      "model"
+    ],
+    "char": "模特",
+    "frequency_index": 237
+  },
+  "艺术家": {
+    "pinyin": [
+      "yishujia"
+    ],
+    "english": [
+      "artist"
+    ],
+    "char": "艺术家",
+    "frequency_index": 238
+  },
+  "演员": {
+    "pinyin": [
+      "yanyuan"
+    ],
+    "english": [
+      "actor"
+    ],
+    "char": "演员",
+    "frequency_index": 239
+  },
+  "歌手": {
+    "pinyin": [
+      "geshou"
+    ],
+    "english": [
+      "singer"
+    ],
+    "char": "歌手",
+    "frequency_index": 240
+  },
+  "音乐家": {
+    "pinyin": [
+      "yinyuejia"
+    ],
+    "english": [
+      "musician"
+    ],
+    "char": "音乐家",
+    "frequency_index": 241
+  },
+  "舞蹈家": {
+    "pinyin": [
+      "wudaojia"
+    ],
+    "english": [
+      "dancer"
+    ],
+    "char": "舞蹈家",
+    "frequency_index": 242
+  },
+  "摄影师": {
+    "pinyin": [
+      "sheyingshi"
+    ],
+    "english": [
+      "photographer"
+    ],
+    "char": "摄影师",
+    "frequency_index": 243
+  },
+  "画家": {
+    "pinyin": [
+      "huajia"
+    ],
+    "english": [
+      "painter"
+    ],
+    "char": "画家",
+    "frequency_index": 244
+  },
+  "作家": {
+    "pinyin": [
+      "zuojia"
+    ],
+    "english": [
+      "writer"
+    ],
+    "char": "作家",
+    "frequency_index": 245
+  },
+  "记者": {
+    "pinyin": [
+      "jizhe"
+    ],
+    "english": [
+      "journalist"
+    ],
+    "char": "记者",
+    "frequency_index": 246
+  },
+  "编辑": {
+    "pinyin": [
+      "bianji"
+    ],
+    "english": [
+      "editor"
+    ],
+    "char": "编辑",
+    "frequency_index": 247
+  },
+  "护理师": {
+    "pinyin": [
+      "hulishi"
+    ],
+    "english": [
+      "caregiver"
+    ],
+    "char": "护理师",
+    "frequency_index": 248
+  },
+  "主持人": {
+    "pinyin": [
+      "zhuchiren"
+    ],
+    "english": [
+      "host",
+      "mc"
+    ],
+    "char": "主持人",
+    "frequency_index": 249
+  },
+  "导演": {
+    "pinyin": [
+      "daoyan"
+    ],
+    "english": [
+      "director"
+    ],
+    "char": "导演",
+    "frequency_index": 250
+  },
+  "编剧": {
+    "pinyin": [
+      "bianju"
+    ],
+    "english": [
+      "screenwriter"
+    ],
+    "char": "编剧",
+    "frequency_index": 251
+  },
+  "翻译": {
+    "pinyin": [
+      "fanyi"
+    ],
+    "english": [
+      "translator"
+    ],
+    "char": "翻译",
+    "frequency_index": 252
+  },
+  "审计师": {
+    "pinyin": [
+      "shenjishi"
+    ],
+    "english": [
+      "auditor"
+    ],
+    "char": "审计师",
+    "frequency_index": 253
+  },
+  "教练": {
+    "pinyin": [
+      "jiaolian"
+    ],
+    "english": [
+      "coach"
+    ],
+    "char": "教练",
+    "frequency_index": 254
+  },
+  "运动员": {
+    "pinyin": [
+      "yundongyuan"
+    ],
+    "english": [
+      "athlete"
+    ],
+    "char": "运动员",
+    "frequency_index": 255
+  },
+  "导游": {
+    "pinyin": [
+      "daoyou"
+    ],
+    "english": [
+      "tour guide"
+    ],
+    "char": "导游",
+    "frequency_index": 256
+  },
+  "服务员": {
+    "pinyin": [
+      "fuwuyuan"
+    ],
+    "english": [
+      "waiter",
+      "waitress"
+    ],
+    "char": "服务员",
+    "frequency_index": 257
+  },
+  "收银员": {
+    "pinyin": [
+      "shouyinyuan"
+    ],
+    "english": [
+      "cashier"
+    ],
+    "char": "收银员",
+    "frequency_index": 258
+  },
+  "保安": {
+    "pinyin": [
+      "baoan"
+    ],
+    "english": [
+      "security guard"
+    ],
+    "char": "保安",
+    "frequency_index": 259
+  },
+  "警察": {
+    "pinyin": [
+      "jingcha"
+    ],
+    "english": [
+      "police officer"
+    ],
+    "char": "警察",
+    "frequency_index": 260
+  },
+  "消防员": {
+    "pinyin": [
+      "xiaofangyuan"
+    ],
+    "english": [
+      "firefighter"
+    ],
+    "char": "消防员",
+    "frequency_index": 261
+  },
+  "律师": {
+    "pinyin": [
+      "lvshi"
+    ],
+    "english": [
+      "lawyer"
+    ],
+    "char": "律师",
+    "frequency_index": 262
+  },
+  "法官": {
+    "pinyin": [
+      "faguan"
+    ],
+    "english": [
+      "judge"
+    ],
+    "char": "法官",
+    "frequency_index": 263
+  },
+  "公务员": {
+    "pinyin": [
+      "gongwuyuan"
+    ],
+    "english": [
+      "civil servant"
+    ],
+    "char": "公务员",
+    "frequency_index": 264
+  },
+  "政治家": {
+    "pinyin": [
+      "zhengzhijia"
+    ],
+    "english": [
+      "politician"
+    ],
+    "char": "政治家",
+    "frequency_index": 265
+  },
+  "总统": {
+    "pinyin": [
+      "zongtong"
+    ],
+    "english": [
+      "president"
+    ],
+    "char": "总统",
+    "frequency_index": 266
+  },
+  "市长": {
+    "pinyin": [
+      "shizhang"
+    ],
+    "english": [
+      "mayor"
+    ],
+    "char": "市长",
+    "frequency_index": 267
+  },
+  "农民": {
+    "pinyin": [
+      "nongmin"
+    ],
+    "english": [
+      "farmer"
+    ],
+    "char": "农民",
+    "frequency_index": 268
+  },
+  "渔民": {
+    "pinyin": [
+      "yumin"
+    ],
+    "english": [
+      "fisherman"
+    ],
+    "char": "渔民",
+    "frequency_index": 269
+  },
+  "工匠": {
+    "pinyin": [
+      "gongjiang"
+    ],
+    "english": [
+      "craftsman"
+    ],
+    "char": "工匠",
+    "frequency_index": 270
+  },
+  "清洁工": {
+    "pinyin": [
+      "qingjiegong"
+    ],
+    "english": [
+      "cleaner"
+    ],
+    "char": "清洁工",
+    "frequency_index": 271
+  },
+  "邮递员": {
+    "pinyin": [
+      "youdiyuan"
+    ],
+    "english": [
+      "mail carrier"
+    ],
+    "char": "邮递员",
+    "frequency_index": 272
+  },
+  "快递员": {
+    "pinyin": [
+      "kuaidiyuan"
+    ],
+    "english": [
+      "courier"
+    ],
+    "char": "快递员",
+    "frequency_index": 273
+  },
+  "保姆": {
+    "pinyin": [
+      "baomu"
+    ],
+    "english": [
+      "nanny"
+    ],
+    "char": "保姆",
+    "frequency_index": 274
+  },
+  "军人": {
+    "pinyin": [
+      "junren"
+    ],
+    "english": [
+      "soldier"
+    ],
+    "char": "军人",
+    "frequency_index": 275
+  },
+  "法医": {
+    "pinyin": [
+      "fayi"
+    ],
+    "english": [
+      "forensic doctor"
+    ],
+    "char": "法医",
+    "frequency_index": 276
+  },
+  "技术员": {
+    "pinyin": [
+      "jishuyuan"
+    ],
+    "english": [
+      "technician"
+    ],
+    "char": "技术员",
+    "frequency_index": 277
+  },
+  "裁缝": {
+    "pinyin": [
+      "caifeng"
+    ],
+    "english": [
+      "tailor"
+    ],
+    "char": "裁缝",
+    "frequency_index": 278
+  },
+  "实习生": {
+    "pinyin": [
+      "shixisheng"
+    ],
+    "english": [
+      "intern"
+    ],
+    "char": "实习生",
+    "frequency_index": 279
+  },
+  "购物": {
+    "pinyin": [
+      "gouwu"
+    ],
+    "english": [
+      "shopping"
+    ],
+    "char": "购物",
+    "frequency_index": 376
+  },
+  "百货商店": {
+    "pinyin": [
+      "baihuoshangdian"
+    ],
+    "english": [
+      "department store"
+    ],
+    "char": "百货商店",
+    "frequency_index": 284
+  },
+  "购物中心": {
+    "pinyin": [
+      "gouwuzhongxin"
+    ],
+    "english": [
+      "shopping mall"
+    ],
+    "char": "购物中心",
+    "frequency_index": 285
+  },
+  "便利店": {
+    "pinyin": [
+      "bianlidian"
+    ],
+    "english": [
+      "convenience store"
+    ],
+    "char": "便利店",
+    "frequency_index": 286
+  },
+  "折扣": {
+    "pinyin": [
+      "zhekou"
+    ],
+    "english": [
+      "discount"
+    ],
+    "char": "折扣",
+    "frequency_index": 287
+  },
+  "顾客": {
+    "pinyin": [
+      "guke"
+    ],
+    "english": [
+      "customer"
+    ],
+    "char": "顾客",
+    "frequency_index": 288
+  },
+  "价格": {
+    "pinyin": [
+      "jiage"
+    ],
+    "english": [
+      "price"
+    ],
+    "char": "价格",
+    "frequency_index": 289
+  },
+  "打折": {
+    "pinyin": [
+      "dazhe"
+    ],
+    "english": [
+      "sale",
+      "to discount"
+    ],
+    "char": "打折",
+    "frequency_index": 290
+  },
+  "便宜": {
+    "pinyin": [
+      "pianyi"
+    ],
+    "english": [
+      "cheap"
+    ],
+    "char": "便宜",
+    "frequency_index": 291
+  },
+  "贵": {
+    "pinyin": [
+      "gui"
+    ],
+    "english": [
+      "expensive"
+    ],
+    "char": "贵",
+    "frequency_index": 292
+  },
+  "大号": {
+    "pinyin": [
+      "dahao"
+    ],
+    "english": [
+      "large size"
+    ],
+    "char": "大号",
+    "frequency_index": 293
+  },
+  "中号": {
+    "pinyin": [
+      "zhonghao"
+    ],
+    "english": [
+      "medium size"
+    ],
+    "char": "中号",
+    "frequency_index": 294
+  },
+  "小号": {
+    "pinyin": [
+      "xiaohao"
+    ],
+    "english": [
+      "small size"
+    ],
+    "char": "小号",
+    "frequency_index": 295
+  },
+  "付款": {
+    "pinyin": [
+      "fukuan"
+    ],
+    "english": [
+      "payment"
+    ],
+    "char": "付款",
+    "frequency_index": 296
+  },
+  "现金": {
+    "pinyin": [
+      "xianjin"
+    ],
+    "english": [
+      "cash"
+    ],
+    "char": "现金",
+    "frequency_index": 297
+  },
+  "信用卡": {
+    "pinyin": [
+      "xinyongka"
+    ],
+    "english": [
+      "credit card"
+    ],
+    "char": "信用卡",
+    "frequency_index": 298
+  },
+  "支付宝": {
+    "pinyin": [
+      "zhifubao"
+    ],
+    "english": [
+      "alipay"
+    ],
+    "char": "支付宝",
+    "frequency_index": 299
+  },
+  "微信支付": {
+    "pinyin": [
+      "weixinzhifu"
+    ],
+    "english": [
+      "wechat pay"
+    ],
+    "char": "微信支付",
+    "frequency_index": 300
+  },
+  "找钱": {
+    "pinyin": [
+      "zhaoqian"
+    ],
+    "english": [
+      "give change"
+    ],
+    "char": "找钱",
+    "frequency_index": 301
+  },
+  "收据": {
+    "pinyin": [
+      "shouju"
+    ],
+    "english": [
+      "receipt"
+    ],
+    "char": "收据",
+    "frequency_index": 302
+  },
+  "发票": {
+    "pinyin": [
+      "fapiao"
+    ],
+    "english": [
+      "invoice"
+    ],
+    "char": "发票",
+    "frequency_index": 303
+  },
+  "退货": {
+    "pinyin": [
+      "tuihuo"
+    ],
+    "english": [
+      "return goods"
+    ],
+    "char": "退货",
+    "frequency_index": 304
+  },
+  "换货": {
+    "pinyin": [
+      "huanhuo"
+    ],
+    "english": [
+      "exchange goods"
+    ],
+    "char": "换货",
+    "frequency_index": 305
+  },
+  "保修": {
+    "pinyin": [
+      "baoxiu"
+    ],
+    "english": [
+      "warranty"
+    ],
+    "char": "保修",
+    "frequency_index": 306
+  },
+  "促销": {
+    "pinyin": [
+      "cuxiao"
+    ],
+    "english": [
+      "promotion"
+    ],
+    "char": "促销",
+    "frequency_index": 307
+  },
+  "包装": {
+    "pinyin": [
+      "baozhuang"
+    ],
+    "english": [
+      "packaging"
+    ],
+    "char": "包装",
+    "frequency_index": 308
+  },
+  "标签": {
+    "pinyin": [
+      "biaoqian"
+    ],
+    "english": [
+      "label"
+    ],
+    "char": "标签",
+    "frequency_index": 309
+  },
+  "商品": {
+    "pinyin": [
+      "shangpin"
+    ],
+    "english": [
+      "product"
+    ],
+    "char": "商品",
+    "frequency_index": 310
+  },
+  "质量": {
+    "pinyin": [
+      "zhiliang"
+    ],
+    "english": [
+      "quality"
+    ],
+    "char": "质量",
+    "frequency_index": 311
+  },
+  "评价": {
+    "pinyin": [
+      "pingjia"
+    ],
+    "english": [
+      "review"
+    ],
+    "char": "评价",
+    "frequency_index": 312
+  },
+  "网购": {
+    "pinyin": [
+      "wanggou"
+    ],
+    "english": [
+      "online shopping"
+    ],
+    "char": "网购",
+    "frequency_index": 313
+  },
+  "快递": {
+    "pinyin": [
+      "kuaidi"
+    ],
+    "english": [
+      "express delivery"
+    ],
+    "char": "快递",
+    "frequency_index": 314
+  },
+  "运费": {
+    "pinyin": [
+      "yunfei"
+    ],
+    "english": [
+      "shipping fee"
+    ],
+    "char": "运费",
+    "frequency_index": 315
+  },
+  "到货": {
+    "pinyin": [
+      "daohuo"
+    ],
+    "english": [
+      "arrival of goods"
+    ],
+    "char": "到货",
+    "frequency_index": 316
+  },
+  "缺货": {
+    "pinyin": [
+      "quehuo"
+    ],
+    "english": [
+      "out of stock"
+    ],
+    "char": "缺货",
+    "frequency_index": 317
+  },
+  "上新": {
+    "pinyin": [
+      "shangxin"
+    ],
+    "english": [
+      "new arrivals"
+    ],
+    "char": "上新",
+    "frequency_index": 318
+  },
+  "尺码": {
+    "pinyin": [
+      "chima"
+    ],
+    "english": [
+      "size (for clothing",
+      "shoes)"
+    ],
+    "char": "尺码",
+    "frequency_index": 319
+  },
+  "试穿": {
+    "pinyin": [
+      "shichuan"
+    ],
+    "english": [
+      "try on"
+    ],
+    "char": "试穿",
+    "frequency_index": 320
+  },
+  "款式": {
+    "pinyin": [
+      "kuanshi"
+    ],
+    "english": [
+      "style"
+    ],
+    "char": "款式",
+    "frequency_index": 321
+  },
+  "颜色": {
+    "pinyin": [
+      "yanse"
+    ],
+    "english": [
+      "color"
+    ],
+    "char": "颜色",
+    "frequency_index": 480
+  },
+  "数量": {
+    "pinyin": [
+      "shuliang"
+    ],
+    "english": [
+      "quantity"
+    ],
+    "char": "数量",
+    "frequency_index": 323
+  },
+  "风格": {
+    "pinyin": [
+      "fengge"
+    ],
+    "english": [
+      "style",
+      "fashion"
+    ],
+    "char": "风格",
+    "frequency_index": 324
+  },
+  "品牌": {
+    "pinyin": [
+      "pinpai"
+    ],
+    "english": [
+      "brand"
+    ],
+    "char": "品牌",
+    "frequency_index": 325
+  },
+  "下单": {
+    "pinyin": [
+      "xiadan"
+    ],
+    "english": [
+      "place an order"
+    ],
+    "char": "下单",
+    "frequency_index": 326
+  },
+  "会员": {
+    "pinyin": [
+      "huiyuan"
+    ],
+    "english": [
+      "member"
+    ],
+    "char": "会员",
+    "frequency_index": 327
+  },
+  "积分": {
+    "pinyin": [
+      "jifen"
+    ],
+    "english": [
+      "reward points"
+    ],
+    "char": "积分",
+    "frequency_index": 328
+  },
+  "礼品": {
+    "pinyin": [
+      "lipin"
+    ],
+    "english": [
+      "gift"
+    ],
+    "char": "礼品",
+    "frequency_index": 329
+  },
+  "跑步": {
+    "pinyin": [
+      "paobu"
+    ],
+    "english": [
+      "jogging"
+    ],
+    "char": "跑步",
+    "frequency_index": 330
+  },
+  "散步": {
+    "pinyin": [
+      "sanbu"
+    ],
+    "english": [
+      "walking"
+    ],
+    "char": "散步",
+    "frequency_index": 331
+  },
+  "游泳": {
+    "pinyin": [
+      "youyong"
+    ],
+    "english": [
+      "swimming"
+    ],
+    "char": "游泳",
+    "frequency_index": 332
+  },
+  "骑车": {
+    "pinyin": [
+      "qiche"
+    ],
+    "english": [
+      "cycling"
+    ],
+    "char": "骑车",
+    "frequency_index": 333
+  },
+  "开车": {
+    "pinyin": [
+      "kaiche"
+    ],
+    "english": [
+      "driving"
+    ],
+    "char": "开车",
+    "frequency_index": 334
+  },
+  "走路": {
+    "pinyin": [
+      "zoulu"
+    ],
+    "english": [
+      "walking"
+    ],
+    "char": "走路",
+    "frequency_index": 335
+  },
+  "打篮球": {
+    "pinyin": [
+      "dalanqiu"
+    ],
+    "english": [
+      "playing basketball"
+    ],
+    "char": "打篮球",
+    "frequency_index": 336
+  },
+  "踢足球": {
+    "pinyin": [
+      "tizuqiu"
+    ],
+    "english": [
+      "playing soccer"
+    ],
+    "char": "踢足球",
+    "frequency_index": 337
+  },
+  "打羽毛球": {
+    "pinyin": [
+      "dayumaoqiu"
+    ],
+    "english": [
+      "playing badminton"
+    ],
+    "char": "打羽毛球",
+    "frequency_index": 338
+  },
+  "打网球": {
+    "pinyin": [
+      "dawangqiu"
+    ],
+    "english": [
+      "playing tennis"
+    ],
+    "char": "打网球",
+    "frequency_index": 339
+  },
+  "爬山": {
+    "pinyin": [
+      "pashan"
+    ],
+    "english": [
+      "hiking"
+    ],
+    "char": "爬山",
+    "frequency_index": 340
+  },
+  "露营": {
+    "pinyin": [
+      "luying"
+    ],
+    "english": [
+      "camping"
+    ],
+    "char": "露营",
+    "frequency_index": 341
+  },
+  "钓鱼": {
+    "pinyin": [
+      "diaoyu"
+    ],
+    "english": [
+      "fishing"
+    ],
+    "char": "钓鱼",
+    "frequency_index": 342
+  },
+  "唱歌": {
+    "pinyin": [
+      "changge"
+    ],
+    "english": [
+      "singing"
+    ],
+    "char": "唱歌",
+    "frequency_index": 343
+  },
+  "跳舞": {
+    "pinyin": [
+      "tiaowu"
+    ],
+    "english": [
+      "dancing"
+    ],
+    "char": "跳舞",
+    "frequency_index": 344
+  },
+  "画画": {
+    "pinyin": [
+      "huahua"
+    ],
+    "english": [
+      "drawing"
+    ],
+    "char": "画画",
+    "frequency_index": 345
+  },
+  "看电视": {
+    "pinyin": [
+      "kandianshi"
+    ],
+    "english": [
+      "watching tv"
+    ],
+    "char": "看电视",
+    "frequency_index": 347
+  },
+  "写字": {
+    "pinyin": [
+      "xiezi"
+    ],
+    "english": [
+      "writing"
+    ],
+    "char": "写字",
+    "frequency_index": 350
+  },
+  "做作业": {
+    "pinyin": [
+      "zuozuoye"
+    ],
+    "english": [
+      "doing homework"
+    ],
+    "char": "做作业",
+    "frequency_index": 352
+  },
+  "上课": {
+    "pinyin": [
+      "shangke"
+    ],
+    "english": [
+      "attending class"
+    ],
+    "char": "上课",
+    "frequency_index": 353
+  },
+  "下课": {
+    "pinyin": [
+      "xiake"
+    ],
+    "english": [
+      "finishing class"
+    ],
+    "char": "下课",
+    "frequency_index": 354
+  },
+  "加班": {
+    "pinyin": [
+      "jiaban"
+    ],
+    "english": [
+      "overtime"
+    ],
+    "char": "加班",
+    "frequency_index": 356
+  },
+  "开会": {
+    "pinyin": [
+      "kaihui"
+    ],
+    "english": [
+      "having a meeting"
+    ],
+    "char": "开会",
+    "frequency_index": 357
+  },
+  "做饭": {
+    "pinyin": [
+      "zuofan"
+    ],
+    "english": [
+      "cook"
+    ],
+    "char": "做饭",
+    "frequency_index": 382
+  },
+  "吃饭": {
+    "pinyin": [
+      "chifan"
+    ],
+    "english": [
+      "eating"
+    ],
+    "char": "吃饭",
+    "frequency_index": 359
+  },
+  "喝水": {
+    "pinyin": [
+      "heshui"
+    ],
+    "english": [
+      "drinking water"
+    ],
+    "char": "喝水",
+    "frequency_index": 360
+  },
+  "睡觉": {
+    "pinyin": [
+      "shuijiao"
+    ],
+    "english": [
+      "sleeping"
+    ],
+    "char": "睡觉",
+    "frequency_index": 361
+  },
+  "起床": {
+    "pinyin": [
+      "qichuang"
+    ],
+    "english": [
+      "getting up"
+    ],
+    "char": "起床",
+    "frequency_index": 362
+  },
+  "洗澡": {
+    "pinyin": [
+      "xizao"
+    ],
+    "english": [
+      "taking a shower"
+    ],
+    "char": "洗澡",
+    "frequency_index": 363
+  },
+  "刷牙": {
+    "pinyin": [
+      "shuaya"
+    ],
+    "english": [
+      "brushing teeth"
+    ],
+    "char": "刷牙",
+    "frequency_index": 364
+  },
+  "洗脸": {
+    "pinyin": [
+      "xilian"
+    ],
+    "english": [
+      "washing face"
+    ],
+    "char": "洗脸",
+    "frequency_index": 365
+  },
+  "洗衣服": {
+    "pinyin": [
+      "xiyifu"
+    ],
+    "english": [
+      "doing laundry"
+    ],
+    "char": "洗衣服",
+    "frequency_index": 366
+  },
+  "参观": {
+    "pinyin": [
+      "canguan"
+    ],
+    "english": [
+      "visiting"
+    ],
+    "char": "参观",
+    "frequency_index": 367
+  },
+  "收拾": {
+    "pinyin": [
+      "shoushi"
+    ],
+    "english": [
+      "tidying up"
+    ],
+    "char": "收拾",
+    "frequency_index": 368
+  },
+  "买东西": {
+    "pinyin": [
+      "maidongxi"
+    ],
+    "english": [
+      "shopping"
+    ],
+    "char": "买东西",
+    "frequency_index": 369
+  },
+  "上网": {
+    "pinyin": [
+      "shangwang"
+    ],
+    "english": [
+      "surfing the internet"
+    ],
+    "char": "上网",
+    "frequency_index": 373
+  },
+  "聊天": {
+    "pinyin": [
+      "liaotian"
+    ],
+    "english": [
+      "chatting"
+    ],
+    "char": "聊天",
+    "frequency_index": 371
+  },
+  "拍照": {
+    "pinyin": [
+      "paizhao"
+    ],
+    "english": [
+      "taking photos"
+    ],
+    "char": "拍照",
+    "frequency_index": 372
+  },
+  "玩手机": {
+    "pinyin": [
+      "wanshouji"
+    ],
+    "english": [
+      "using the phone"
+    ],
+    "char": "玩手机",
+    "frequency_index": 374
+  },
+  "玩游戏": {
+    "pinyin": [
+      "wanyouxi"
+    ],
+    "english": [
+      "playing games"
+    ],
+    "char": "玩游戏",
+    "frequency_index": 375
+  },
+  "拍视频": {
+    "pinyin": [
+      "paishipin"
+    ],
+    "english": [
+      "filming videos"
+    ],
+    "char": "拍视频",
+    "frequency_index": 378
+  },
+  "做运动": {
+    "pinyin": [
+      "zuoyundong"
+    ],
+    "english": [
+      "exercising"
+    ],
+    "char": "做运动",
+    "frequency_index": 379
+  },
+  "吃": {
+    "pinyin": [
+      "chi"
+    ],
+    "english": [
+      "eat"
+    ],
+    "char": "吃",
+    "frequency_index": 380
+  },
+  "喝": {
+    "pinyin": [
+      "he"
+    ],
+    "english": [
+      "drink"
+    ],
+    "char": "喝",
+    "frequency_index": 381
+  },
+  "煮": {
+    "pinyin": [
+      "zhu"
+    ],
+    "english": [
+      "boil"
+    ],
+    "char": "煮",
+    "frequency_index": 383
+  },
+  "炒": {
+    "pinyin": [
+      "chao"
+    ],
+    "english": [
+      "stir-fry"
+    ],
+    "char": "炒",
+    "frequency_index": 384
+  },
+  "烧": {
+    "pinyin": [
+      "shao"
+    ],
+    "english": [
+      "braise"
+    ],
+    "char": "烧",
+    "frequency_index": 385
+  },
+  "烤": {
+    "pinyin": [
+      "kao"
+    ],
+    "english": [
+      "roast"
+    ],
+    "char": "烤",
+    "frequency_index": 386
+  },
+  "蒸": {
+    "pinyin": [
+      "zheng"
+    ],
+    "english": [
+      "steam"
+    ],
+    "char": "蒸",
+    "frequency_index": 387
+  },
+  "炖": {
+    "pinyin": [
+      "dun"
+    ],
+    "english": [
+      "stew"
+    ],
+    "char": "炖",
+    "frequency_index": 388
+  },
+  "切": {
+    "pinyin": [
+      "qie"
+    ],
+    "english": [
+      "cut"
+    ],
+    "char": "切",
+    "frequency_index": 389
+  },
+  "剥": {
+    "pinyin": [
+      "bao"
+    ],
+    "english": [
+      "peel"
+    ],
+    "char": "剥",
+    "frequency_index": 390
+  },
+  "搅拌": {
+    "pinyin": [
+      "jiaoban"
+    ],
+    "english": [
+      "stir"
+    ],
+    "char": "搅拌",
+    "frequency_index": 391
+  },
+  "倒": {
+    "pinyin": [
+      "dao"
+    ],
+    "english": [
+      "pour"
+    ],
+    "char": "倒",
+    "frequency_index": 392
+  },
+  "饿": {
+    "pinyin": [
+      "e"
+    ],
+    "english": [
+      "hungry"
+    ],
+    "char": "饿",
+    "frequency_index": 393
+  },
+  "饱": {
+    "pinyin": [
+      "bao"
+    ],
+    "english": [
+      "full"
+    ],
+    "char": "饱",
+    "frequency_index": 394
+  },
+  "渴": {
+    "pinyin": [
+      "ke"
+    ],
+    "english": [
+      "thirsty"
+    ],
+    "char": "渴",
+    "frequency_index": 395
+  },
+  "好吃": {
+    "pinyin": [
+      "haochi"
+    ],
+    "english": [
+      "delicious"
+    ],
+    "char": "好吃",
+    "frequency_index": 396
+  },
+  "点菜": {
+    "pinyin": [
+      "diancai"
+    ],
+    "english": [
+      "order food"
+    ],
+    "char": "点菜",
+    "frequency_index": 397
+  },
+  "结账": {
+    "pinyin": [
+      "jiezhang"
+    ],
+    "english": [
+      "pay bill"
+    ],
+    "char": "结账",
+    "frequency_index": 398
+  },
+  "外卖": {
+    "pinyin": [
+      "waimai"
+    ],
+    "english": [
+      "takeout"
+    ],
+    "char": "外卖",
+    "frequency_index": 399
+  },
+  "菜单": {
+    "pinyin": [
+      "caidan"
+    ],
+    "english": [
+      "menu"
+    ],
+    "char": "菜单",
+    "frequency_index": 8
+  },
+  "甜": {
+    "pinyin": [
+      "tian"
+    ],
+    "english": [
+      "sweet"
+    ],
+    "char": "甜",
+    "frequency_index": 401
+  },
+  "咸": {
+    "pinyin": [
+      "xian"
+    ],
+    "english": [
+      "salty"
+    ],
+    "char": "咸",
+    "frequency_index": 402
+  },
+  "酸": {
+    "pinyin": [
+      "suan"
+    ],
+    "english": [
+      "sour"
+    ],
+    "char": "酸",
+    "frequency_index": 403
+  },
+  "辣": {
+    "pinyin": [
+      "la"
+    ],
+    "english": [
+      "spicy"
+    ],
+    "char": "辣",
+    "frequency_index": 404
+  },
+  "苦": {
+    "pinyin": [
+      "ku"
+    ],
+    "english": [
+      "bitter"
+    ],
+    "char": "苦",
+    "frequency_index": 405
+  },
+  "淡": {
+    "pinyin": [
+      "dan"
+    ],
+    "english": [
+      "light taste"
+    ],
+    "char": "淡",
+    "frequency_index": 406
+  },
+  "清淡": {
+    "pinyin": [
+      "qingdan"
+    ],
+    "english": [
+      "mild"
+    ],
+    "char": "清淡",
+    "frequency_index": 407
+  },
+  "零食": {
+    "pinyin": [
+      "lingshi"
+    ],
+    "english": [
+      "snacks"
+    ],
+    "char": "零食",
+    "frequency_index": 408
+  },
+  "饮料": {
+    "pinyin": [
+      "yinliao"
+    ],
+    "english": [
+      "beverage"
+    ],
+    "char": "饮料",
+    "frequency_index": 409
+  },
+  "水": {
+    "pinyin": [
+      "shui"
+    ],
+    "english": [
+      "water"
+    ],
+    "char": "水",
+    "frequency_index": 410
+  },
+  "茶": {
+    "pinyin": [
+      "cha"
+    ],
+    "english": [
+      "tea"
+    ],
+    "char": "茶",
+    "frequency_index": 411
+  },
+  "咖啡": {
+    "pinyin": [
+      "kafei"
+    ],
+    "english": [
+      "coffee"
+    ],
+    "char": "咖啡",
+    "frequency_index": 412
+  },
+  "果汁": {
+    "pinyin": [
+      "guozhi"
+    ],
+    "english": [
+      "juice"
+    ],
+    "char": "果汁",
+    "frequency_index": 413
+  },
+  "牛奶": {
+    "pinyin": [
+      "niunai"
+    ],
+    "english": [
+      "milk"
+    ],
+    "char": "牛奶",
+    "frequency_index": 414
+  },
+  "啤酒": {
+    "pinyin": [
+      "pijiu"
+    ],
+    "english": [
+      "beer"
+    ],
+    "char": "啤酒",
+    "frequency_index": 415
+  },
+  "饭": {
+    "pinyin": [
+      "fan"
+    ],
+    "english": [
+      "rice",
+      "meal"
+    ],
+    "char": "饭",
+    "frequency_index": 416
+  },
+  "米饭": {
+    "pinyin": [
+      "mifan"
+    ],
+    "english": [
+      "white rice"
+    ],
+    "char": "米饭",
+    "frequency_index": 417
+  },
+  "面条": {
+    "pinyin": [
+      "miantiao"
+    ],
+    "english": [
+      "noodles"
+    ],
+    "char": "面条",
+    "frequency_index": 418
+  },
+  "粥": {
+    "pinyin": [
+      "zhou"
+    ],
+    "english": [
+      "porridge"
+    ],
+    "char": "粥",
+    "frequency_index": 419
+  },
+  "汤": {
+    "pinyin": [
+      "tang"
+    ],
+    "english": [
+      "soup"
+    ],
+    "char": "汤",
+    "frequency_index": 420
+  },
+  "包子": {
+    "pinyin": [
+      "baozi"
+    ],
+    "english": [
+      "steamed bun"
+    ],
+    "char": "包子",
+    "frequency_index": 421
+  },
+  "饺子": {
+    "pinyin": [
+      "jiaozi"
+    ],
+    "english": [
+      "dumplings"
+    ],
+    "char": "饺子",
+    "frequency_index": 422
+  },
+  "面包": {
+    "pinyin": [
+      "mianbao"
+    ],
+    "english": [
+      "bread"
+    ],
+    "char": "面包",
+    "frequency_index": 423
+  },
+  "鸡蛋": {
+    "pinyin": [
+      "jidan"
+    ],
+    "english": [
+      "egg"
+    ],
+    "char": "鸡蛋",
+    "frequency_index": 424
+  },
+  "鸡肉": {
+    "pinyin": [
+      "jirou"
+    ],
+    "english": [
+      "chicken"
+    ],
+    "char": "鸡肉",
+    "frequency_index": 425
+  },
+  "牛肉": {
+    "pinyin": [
+      "niurou"
+    ],
+    "english": [
+      "beef"
+    ],
+    "char": "牛肉",
+    "frequency_index": 426
+  },
+  "猪肉": {
+    "pinyin": [
+      "zhurou"
+    ],
+    "english": [
+      "pork"
+    ],
+    "char": "猪肉",
+    "frequency_index": 427
+  },
+  "鱼": {
+    "pinyin": [
+      "yu"
+    ],
+    "english": [
+      "fish"
+    ],
+    "char": "鱼",
+    "frequency_index": 428
+  },
+  "虾": {
+    "pinyin": [
+      "xia"
+    ],
+    "english": [
+      "shrimp"
+    ],
+    "char": "虾",
+    "frequency_index": 429
+  },
+  "蔬菜": {
+    "pinyin": [
+      "shucai"
+    ],
+    "english": [
+      "vegetables"
+    ],
+    "char": "蔬菜",
+    "frequency_index": 430
+  },
+  "土豆": {
+    "pinyin": [
+      "tudou"
+    ],
+    "english": [
+      "potato"
+    ],
+    "char": "土豆",
+    "frequency_index": 431
+  },
+  "胡萝卜": {
+    "pinyin": [
+      "huluobo"
+    ],
+    "english": [
+      "carrot"
+    ],
+    "char": "胡萝卜",
+    "frequency_index": 432
+  },
+  "西红柿": {
+    "pinyin": [
+      "xihongshi"
+    ],
+    "english": [
+      "tomato"
+    ],
+    "char": "西红柿",
+    "frequency_index": 433
+  },
+  "洋葱": {
+    "pinyin": [
+      "yangcong"
+    ],
+    "english": [
+      "onion"
+    ],
+    "char": "洋葱",
+    "frequency_index": 434
+  },
+  "辣椒": {
+    "pinyin": [
+      "lajiao"
+    ],
+    "english": [
+      "chili"
+    ],
+    "char": "辣椒",
+    "frequency_index": 435
+  },
+  "酱油": {
+    "pinyin": [
+      "jiangyou"
+    ],
+    "english": [
+      "soy sauce"
+    ],
+    "char": "酱油",
+    "frequency_index": 436
+  },
+  "醋": {
+    "pinyin": [
+      "cu"
+    ],
+    "english": [
+      "vinegar"
+    ],
+    "char": "醋",
+    "frequency_index": 437
+  },
+  "盐": {
+    "pinyin": [
+      "yan"
+    ],
+    "english": [
+      "salt"
+    ],
+    "char": "盐",
+    "frequency_index": 438
+  },
+  "糖": {
+    "pinyin": [
+      "tang"
+    ],
+    "english": [
+      "sugar"
+    ],
+    "char": "糖",
+    "frequency_index": 439
+  },
+  "火锅": {
+    "pinyin": [
+      "huoguo"
+    ],
+    "english": [
+      "hotpot"
+    ],
+    "char": "火锅",
+    "frequency_index": 440
+  },
+  "烧烤": {
+    "pinyin": [
+      "shaokao"
+    ],
+    "english": [
+      "barbecue"
+    ],
+    "char": "烧烤",
+    "frequency_index": 441
+  },
+  "炸鸡": {
+    "pinyin": [
+      "zhaji"
+    ],
+    "english": [
+      "fried chicken"
+    ],
+    "char": "炸鸡",
+    "frequency_index": 442
+  },
+  "巧克力": {
+    "pinyin": [
+      "qiaokeli"
+    ],
+    "english": [
+      "chocolate"
+    ],
+    "char": "巧克力",
+    "frequency_index": 443
+  },
+  "冰淇淋": {
+    "pinyin": [
+      "bingqilin"
+    ],
+    "english": [
+      "ice cream"
+    ],
+    "char": "冰淇淋",
+    "frequency_index": 444
+  },
+  "新鲜": {
+    "pinyin": [
+      "xinxian"
+    ],
+    "english": [
+      "fresh"
+    ],
+    "char": "新鲜",
+    "frequency_index": 445
+  },
+  "筷子": {
+    "pinyin": [
+      "kuaizi"
+    ],
+    "english": [
+      "chopsticks"
+    ],
+    "char": "筷子",
+    "frequency_index": 446
+  },
+  "勺子": {
+    "pinyin": [
+      "shaozi"
+    ],
+    "english": [
+      "spoon"
+    ],
+    "char": "勺子",
+    "frequency_index": 447
+  },
+  "味道": {
+    "pinyin": [
+      "weidao"
+    ],
+    "english": [
+      "taste"
+    ],
+    "char": "味道",
+    "frequency_index": 448
+  },
+  "香": {
+    "pinyin": [
+      "xiang"
+    ],
+    "english": [
+      "fragrant"
+    ],
+    "char": "香",
+    "frequency_index": 449
+  },
+  "家人": {
+    "pinyin": [
+      "jiaren"
+    ],
+    "english": [
+      "family members"
+    ],
+    "char": "家人",
+    "frequency_index": 451
+  },
+  "父亲": {
+    "pinyin": [
+      "fuqin"
+    ],
+    "english": [
+      "father"
+    ],
+    "char": "父亲",
+    "frequency_index": 452
+  },
+  "母亲": {
+    "pinyin": [
+      "muqin"
+    ],
+    "english": [
+      "mother"
+    ],
+    "char": "母亲",
+    "frequency_index": 453
+  },
+  "爸爸": {
+    "pinyin": [
+      "baba"
+    ],
+    "english": [
+      "dad"
+    ],
+    "char": "爸爸",
+    "frequency_index": 454
+  },
+  "妈妈": {
+    "pinyin": [
+      "mama"
+    ],
+    "english": [
+      "mom"
+    ],
+    "char": "妈妈",
+    "frequency_index": 455
+  },
+  "爷爷": {
+    "pinyin": [
+      "yeye"
+    ],
+    "english": [
+      "grandfather"
+    ],
+    "char": "爷爷",
+    "frequency_index": 456
+  },
+  "奶奶": {
+    "pinyin": [
+      "nainai"
+    ],
+    "english": [
+      "grandmother"
+    ],
+    "char": "奶奶",
+    "frequency_index": 457
+  },
+  "外公": {
+    "pinyin": [
+      "waigong"
+    ],
+    "english": [
+      "grandfather"
+    ],
+    "char": "外公",
+    "frequency_index": 458
+  },
+  "外婆": {
+    "pinyin": [
+      "waipo"
+    ],
+    "english": [
+      "grandmother"
+    ],
+    "char": "外婆",
+    "frequency_index": 459
+  },
+  "哥哥": {
+    "pinyin": [
+      "gege"
+    ],
+    "english": [
+      "older brother"
+    ],
+    "char": "哥哥",
+    "frequency_index": 460
+  },
+  "弟弟": {
+    "pinyin": [
+      "didi"
+    ],
+    "english": [
+      "younger brother"
+    ],
+    "char": "弟弟",
+    "frequency_index": 461
+  },
+  "姐姐": {
+    "pinyin": [
+      "jiejie"
+    ],
+    "english": [
+      "older sister"
+    ],
+    "char": "姐姐",
+    "frequency_index": 462
+  },
+  "妹妹": {
+    "pinyin": [
+      "meimei"
+    ],
+    "english": [
+      "younger sister"
+    ],
+    "char": "妹妹",
+    "frequency_index": 463
+  },
+  "兄弟": {
+    "pinyin": [
+      "xiongdi"
+    ],
+    "english": [
+      "brothers"
+    ],
+    "char": "兄弟",
+    "frequency_index": 464
+  },
+  "姐妹": {
+    "pinyin": [
+      "jiemei"
+    ],
+    "english": [
+      "sisters"
+    ],
+    "char": "姐妹",
+    "frequency_index": 465
+  },
+  "儿子": {
+    "pinyin": [
+      "erzi"
+    ],
+    "english": [
+      "son"
+    ],
+    "char": "儿子",
+    "frequency_index": 466
+  },
+  "女儿": {
+    "pinyin": [
+      "nver"
+    ],
+    "english": [
+      "daughter"
+    ],
+    "char": "女儿",
+    "frequency_index": 467
+  },
+  "孙子": {
+    "pinyin": [
+      "sunzi"
+    ],
+    "english": [
+      "grandson"
+    ],
+    "char": "孙子",
+    "frequency_index": 468
+  },
+  "孙女": {
+    "pinyin": [
+      "sunnv"
+    ],
+    "english": [
+      "granddaughter"
+    ],
+    "char": "孙女",
+    "frequency_index": 469
+  },
+  "外孙": {
+    "pinyin": [
+      "waisun"
+    ],
+    "english": [
+      "grandson"
+    ],
+    "char": "外孙",
+    "frequency_index": 470
+  },
+  "外孙女": {
+    "pinyin": [
+      "waisunnv"
+    ],
+    "english": [
+      "granddaughter"
+    ],
+    "char": "外孙女",
+    "frequency_index": 471
+  },
+  "丈夫": {
+    "pinyin": [
+      "zhangfu"
+    ],
+    "english": [
+      "husband"
+    ],
+    "char": "丈夫",
+    "frequency_index": 472
+  },
+  "妻子": {
+    "pinyin": [
+      "qizi"
+    ],
+    "english": [
+      "wife"
+    ],
+    "char": "妻子",
+    "frequency_index": 473
+  },
+  "伯伯": {
+    "pinyin": [
+      "bobo"
+    ],
+    "english": [
+      "uncle"
+    ],
+    "char": "伯伯",
+    "frequency_index": 474
+  },
+  "叔叔": {
+    "pinyin": [
+      "shushu"
+    ],
+    "english": [
+      "uncle"
+    ],
+    "char": "叔叔",
+    "frequency_index": 475
+  },
+  "阿姨": {
+    "pinyin": [
+      "ayi"
+    ],
+    "english": [
+      "aunt"
+    ],
+    "char": "阿姨",
+    "frequency_index": 476
+  },
+  "舅舅": {
+    "pinyin": [
+      "jiujiu"
+    ],
+    "english": [
+      "uncle"
+    ],
+    "char": "舅舅",
+    "frequency_index": 477
+  },
+  "姑姑": {
+    "pinyin": [
+      "gugu"
+    ],
+    "english": [
+      "aunt"
+    ],
+    "char": "姑姑",
+    "frequency_index": 478
+  },
+  "堂兄弟姐妹": {
+    "pinyin": [
+      "tangxiongdijiemei"
+    ],
+    "english": [
+      "cousins"
+    ],
+    "char": "堂兄弟姐妹",
+    "frequency_index": 479
+  },
+  "红色": {
+    "pinyin": [
+      "hongse"
+    ],
+    "english": [
+      "red"
+    ],
+    "char": "红色",
+    "frequency_index": 481
+  },
+  "蓝色": {
+    "pinyin": [
+      "lanse"
+    ],
+    "english": [
+      "blue"
+    ],
+    "char": "蓝色",
+    "frequency_index": 482
+  },
+  "黄色": {
+    "pinyin": [
+      "huangse"
+    ],
+    "english": [
+      "yellow"
+    ],
+    "char": "黄色",
+    "frequency_index": 483
+  },
+  "绿色": {
+    "pinyin": [
+      "lvse"
+    ],
+    "english": [
+      "green"
+    ],
+    "char": "绿色",
+    "frequency_index": 484
+  },
+  "黑色": {
+    "pinyin": [
+      "heise"
+    ],
+    "english": [
+      "black"
+    ],
+    "char": "黑色",
+    "frequency_index": 485
+  },
+  "白色": {
+    "pinyin": [
+      "baise"
+    ],
+    "english": [
+      "white"
+    ],
+    "char": "白色",
+    "frequency_index": 486
+  },
+  "灰色": {
+    "pinyin": [
+      "huise"
+    ],
+    "english": [
+      "gray"
+    ],
+    "char": "灰色",
+    "frequency_index": 487
+  },
+  "棕色": {
+    "pinyin": [
+      "zongse"
+    ],
+    "english": [
+      "brown"
+    ],
+    "char": "棕色",
+    "frequency_index": 488
+  },
+  "橙色": {
+    "pinyin": [
+      "chengse"
+    ],
+    "english": [
+      "orange"
+    ],
+    "char": "橙色",
+    "frequency_index": 489
+  },
+  "紫色": {
+    "pinyin": [
+      "zise"
+    ],
+    "english": [
+      "purple"
+    ],
+    "char": "紫色",
+    "frequency_index": 490
+  },
+  "粉红色": {
+    "pinyin": [
+      "fenhongse"
+    ],
+    "english": [
+      "pink"
+    ],
+    "char": "粉红色",
+    "frequency_index": 491
+  },
+  "银色": {
+    "pinyin": [
+      "yinse"
+    ],
+    "english": [
+      "silver"
+    ],
+    "char": "银色",
+    "frequency_index": 492
+  },
+  "金色": {
+    "pinyin": [
+      "jinse"
+    ],
+    "english": [
+      "gold"
+    ],
+    "char": "金色",
+    "frequency_index": 493
+  },
+  "深色": {
+    "pinyin": [
+      "shense"
+    ],
+    "english": [
+      "dark color"
+    ],
+    "char": "深色",
+    "frequency_index": 494
+  },
+  "浅色": {
+    "pinyin": [
+      "qianse"
+    ],
+    "english": [
+      "light color"
+    ],
+    "char": "浅色",
+    "frequency_index": 495
+  },
+  "彩色": {
+    "pinyin": [
+      "caise"
+    ],
+    "english": [
+      "multicolored"
+    ],
+    "char": "彩色",
+    "frequency_index": 496
+  },
+  "米色": {
+    "pinyin": [
+      "mise"
+    ],
+    "english": [
+      "beige"
+    ],
+    "char": "米色",
+    "frequency_index": 497
+  },
+  "青色": {
+    "pinyin": [
+      "qingse"
+    ],
+    "english": [
+      "cyan"
+    ],
+    "char": "青色",
+    "frequency_index": 498
+  },
+  "天蓝色": {
+    "pinyin": [
+      "tianlanse"
+    ],
+    "english": [
+      "sky blue"
+    ],
+    "char": "天蓝色",
+    "frequency_index": 499
+  },
+  "宝蓝色": {
+    "pinyin": [
+      "baolanse"
+    ],
+    "english": [
+      "cobalt blue"
+    ],
+    "char": "宝蓝色",
+    "frequency_index": 500
+  },
+  "橄榄绿": {
+    "pinyin": [
+      "ganlanlv"
+    ],
+    "english": [
+      "olive green"
+    ],
+    "char": "橄榄绿",
+    "frequency_index": 501
+  },
+  "咖啡色": {
+    "pinyin": [
+      "kafeise"
+    ],
+    "english": [
+      "coffee color"
+    ],
+    "char": "咖啡色",
+    "frequency_index": 502
+  },
+  "驼色": {
+    "pinyin": [
+      "tuose"
+    ],
+    "english": [
+      "camel color"
+    ],
+    "char": "驼色",
+    "frequency_index": 503
+  },
+  "亮色": {
+    "pinyin": [
+      "liangse"
+    ],
+    "english": [
+      "bright color"
+    ],
+    "char": "亮色",
+    "frequency_index": 504
+  },
+  "暗色": {
+    "pinyin": [
+      "anse"
+    ],
+    "english": [
+      "dark color"
+    ],
+    "char": "暗色",
+    "frequency_index": 505
+  },
+  "柠檬黄": {
+    "pinyin": [
+      "ningmenghuang"
+    ],
+    "english": [
+      "lemon yellow"
+    ],
+    "char": "柠檬黄",
+    "frequency_index": 506
+  },
+  "珊瑚红": {
+    "pinyin": [
+      "shanhuhong"
+    ],
+    "english": [
+      "coral red"
+    ],
+    "char": "珊瑚红",
+    "frequency_index": 507
+  },
+  "酒红色": {
+    "pinyin": [
+      "jiuhongse"
+    ],
+    "english": [
+      "wine red"
+    ],
+    "char": "酒红色",
+    "frequency_index": 508
+  },
+  "烟灰色": {
+    "pinyin": [
+      "yanhuise"
+    ],
+    "english": [
+      "smoky gray"
+    ],
+    "char": "烟灰色",
+    "frequency_index": 509
+  },
+  "水果": {
+    "pinyin": [
+      "shuiguo"
+    ],
+    "english": [
+      "fruit"
+    ],
+    "char": "水果",
+    "frequency_index": 510
+  },
+  "苹果": {
+    "pinyin": [
+      "pingguo"
+    ],
+    "english": [
+      "apple"
+    ],
+    "char": "苹果",
+    "frequency_index": 511
+  },
+  "香蕉": {
+    "pinyin": [
+      "xiangjiao"
+    ],
+    "english": [
+      "banana"
+    ],
+    "char": "香蕉",
+    "frequency_index": 512
+  },
+  "西瓜": {
+    "pinyin": [
+      "xigua"
+    ],
+    "english": [
+      "watermelon"
+    ],
+    "char": "西瓜",
+    "frequency_index": 513
+  },
+  "葡萄": {
+    "pinyin": [
+      "putao"
+    ],
+    "english": [
+      "grape"
+    ],
+    "char": "葡萄",
+    "frequency_index": 514
+  },
+  "橙子": {
+    "pinyin": [
+      "chengzi"
+    ],
+    "english": [
+      "orange"
+    ],
+    "char": "橙子",
+    "frequency_index": 515
+  },
+  "柠檬": {
+    "pinyin": [
+      "ningmeng"
+    ],
+    "english": [
+      "lemon"
+    ],
+    "char": "柠檬",
+    "frequency_index": 516
+  },
+  "柚子": {
+    "pinyin": [
+      "youzi"
+    ],
+    "english": [
+      "pomelo"
+    ],
+    "char": "柚子",
+    "frequency_index": 517
+  },
+  "芒果": {
+    "pinyin": [
+      "mangguo"
+    ],
+    "english": [
+      "mango"
+    ],
+    "char": "芒果",
+    "frequency_index": 518
+  },
+  "草莓": {
+    "pinyin": [
+      "caomei"
+    ],
+    "english": [
+      "strawberry"
+    ],
+    "char": "草莓",
+    "frequency_index": 519
+  },
+  "蓝莓": {
+    "pinyin": [
+      "lanmei"
+    ],
+    "english": [
+      "blueberry"
+    ],
+    "char": "蓝莓",
+    "frequency_index": 520
+  },
+  "樱桃": {
+    "pinyin": [
+      "yingtao"
+    ],
+    "english": [
+      "cherry"
+    ],
+    "char": "樱桃",
+    "frequency_index": 521
+  },
+  "荔枝": {
+    "pinyin": [
+      "lizhi"
+    ],
+    "english": [
+      "lychee"
+    ],
+    "char": "荔枝",
+    "frequency_index": 522
+  },
+  "龙眼": {
+    "pinyin": [
+      "longyan"
+    ],
+    "english": [
+      "longan"
+    ],
+    "char": "龙眼",
+    "frequency_index": 523
+  },
+  "榴莲": {
+    "pinyin": [
+      "liulian"
+    ],
+    "english": [
+      "durian"
+    ],
+    "char": "榴莲",
+    "frequency_index": 524
+  },
+  "火龙果": {
+    "pinyin": [
+      "huolongguo"
+    ],
+    "english": [
+      "dragon fruit"
+    ],
+    "char": "火龙果",
+    "frequency_index": 525
+  },
+  "石榴": {
+    "pinyin": [
+      "shiliu"
+    ],
+    "english": [
+      "pomegranate"
+    ],
+    "char": "石榴",
+    "frequency_index": 526
+  },
+  "猕猴桃": {
+    "pinyin": [
+      "mihoutao"
+    ],
+    "english": [
+      "kiwi"
+    ],
+    "char": "猕猴桃",
+    "frequency_index": 527
+  },
+  "哈密瓜": {
+    "pinyin": [
+      "hamigua"
+    ],
+    "english": [
+      "hami melon"
+    ],
+    "char": "哈密瓜",
+    "frequency_index": 528
+  },
+  "木瓜": {
+    "pinyin": [
+      "mugua"
+    ],
+    "english": [
+      "papaya"
+    ],
+    "char": "木瓜",
+    "frequency_index": 529
+  },
+  "梨": {
+    "pinyin": [
+      "li"
+    ],
+    "english": [
+      "pear"
+    ],
+    "char": "梨",
+    "frequency_index": 1030
+  },
+  "椰子": {
+    "pinyin": [
+      "yezi"
+    ],
+    "english": [
+      "coconut"
+    ],
+    "char": "椰子",
+    "frequency_index": 1031
+  },
+  "梅子": {
+    "pinyin": [
+      "meizi"
+    ],
+    "english": [
+      "plum"
+    ],
+    "char": "梅子",
+    "frequency_index": 1032
+  },
+  "菠萝": {
+    "pinyin": [
+      "boluo"
+    ],
+    "english": [
+      "pineapple"
+    ],
+    "char": "菠萝",
+    "frequency_index": 1033
+  },
+  "覆盆子": {
+    "pinyin": [
+      "fupenzi"
+    ],
+    "english": [
+      "raspberry"
+    ],
+    "char": "覆盆子",
+    "frequency_index": 1034
+  },
+  "甘蔗": {
+    "pinyin": [
+      "ganzhe"
+    ],
+    "english": [
+      "sugarcane"
+    ],
+    "char": "甘蔗",
+    "frequency_index": 1035
+  },
+  "桔子": {
+    "pinyin": [
+      "juzi"
+    ],
+    "english": [
+      "tangerine"
+    ],
+    "char": "桔子",
+    "frequency_index": 1036
+  },
+  "山竹": {
+    "pinyin": [
+      "shanzhu"
+    ],
+    "english": [
+      "mangosteen"
+    ],
+    "char": "山竹",
+    "frequency_index": 1037
+  },
+  "桑葚": {
+    "pinyin": [
+      "sangshen"
+    ],
+    "english": [
+      "mulberry"
+    ],
+    "char": "桑葚",
+    "frequency_index": 1038
+  },
+  "枣子": {
+    "pinyin": [
+      "zaozi"
+    ],
+    "english": [
+      "jujube"
+    ],
+    "char": "枣子",
+    "frequency_index": 1039
+  },
+  "柿子": {
+    "pinyin": [
+      "shizi"
+    ],
+    "english": [
+      "persimmon"
+    ],
+    "char": "柿子",
+    "frequency_index": 1040
+  },
+  "黄桃": {
+    "pinyin": [
+      "huangtao"
+    ],
+    "english": [
+      "yellow peach"
+    ],
+    "char": "黄桃",
+    "frequency_index": 1041
+  },
+  "百香果": {
+    "pinyin": [
+      "baixiangguo"
+    ],
+    "english": [
+      "passion fruit"
+    ],
+    "char": "百香果",
+    "frequency_index": 1042
+  },
+  "菠萝蜜": {
+    "pinyin": [
+      "boluomi"
+    ],
+    "english": [
+      "jackfruit"
+    ],
+    "char": "菠萝蜜",
+    "frequency_index": 1043
+  },
+  "椰枣": {
+    "pinyin": [
+      "yezao"
+    ],
+    "english": [
+      "date"
+    ],
+    "char": "椰枣",
+    "frequency_index": 1044
+  },
+  "葡萄柚": {
+    "pinyin": [
+      "putaoyou"
+    ],
+    "english": [
+      "grapefruit"
+    ],
+    "char": "葡萄柚",
+    "frequency_index": 1045
+  },
+  "红毛丹": {
+    "pinyin": [
+      "hongmaodan"
+    ],
+    "english": [
+      "rambutan"
+    ],
+    "char": "红毛丹",
+    "frequency_index": 1046
+  },
+  "牛油果": {
+    "pinyin": [
+      "niuyouguo"
+    ],
+    "english": [
+      "avocado"
+    ],
+    "char": "牛油果",
+    "frequency_index": 1047
+  },
+  "番石榴": {
+    "pinyin": [
+      "fanshiliu"
+    ],
+    "english": [
+      "guava"
+    ],
+    "char": "番石榴",
+    "frequency_index": 1048
+  },
+  "杨桃": {
+    "pinyin": [
+      "yangtao"
+    ],
+    "english": [
+      "starfruit"
+    ],
+    "char": "杨桃",
+    "frequency_index": 1049
+  },
+  "香瓜": {
+    "pinyin": [
+      "xianggua"
+    ],
+    "english": [
+      "honeydew melon"
+    ],
+    "char": "香瓜",
+    "frequency_index": 1050
+  },
+  "释迦果": {
+    "pinyin": [
+      "shijiaguo"
+    ],
+    "english": [
+      "custard apple"
+    ],
+    "char": "释迦果",
+    "frequency_index": 1051
+  },
+  "杏子": {
+    "pinyin": [
+      "xingzi"
+    ],
+    "english": [
+      "apricot"
+    ],
+    "char": "杏子",
+    "frequency_index": 1052
+  },
+  "蓝莓干": {
+    "pinyin": [
+      "lanmeigan"
+    ],
+    "english": [
+      "dried blueberry"
+    ],
+    "char": "蓝莓干",
+    "frequency_index": 1053
+  },
+  "人心果": {
+    "pinyin": [
+      "renxinguo"
+    ],
+    "english": [
+      "sapodilla"
+    ],
+    "char": "人心果",
+    "frequency_index": 1054
+  },
+  "年": {
+    "pinyin": [
+      "nian"
+    ],
+    "english": [
+      "year"
+    ],
+    "char": "年",
+    "frequency_index": 1055
+  },
+  "月": {
+    "pinyin": [
+      "yue"
+    ],
+    "english": [
+      "month"
+    ],
+    "char": "月",
+    "frequency_index": 1056
+  },
+  "日": {
+    "pinyin": [
+      "ri"
+    ],
+    "english": [
+      "day"
+    ],
+    "char": "日",
+    "frequency_index": 1057
+  },
+  "号": {
+    "pinyin": [
+      "hao"
+    ],
+    "english": [
+      "day"
+    ],
+    "char": "号",
+    "frequency_index": 1058
+  },
+  "星期": {
+    "pinyin": [
+      "xingqi"
+    ],
+    "english": [
+      "week"
+    ],
+    "char": "星期",
+    "frequency_index": 1059
+  },
+  "星期一": {
+    "pinyin": [
+      "xingqiyi"
+    ],
+    "english": [
+      "monday"
+    ],
+    "char": "星期一",
+    "frequency_index": 1060
+  },
+  "星期二": {
+    "pinyin": [
+      "xingqier"
+    ],
+    "english": [
+      "tuesday"
+    ],
+    "char": "星期二",
+    "frequency_index": 1061
+  },
+  "星期三": {
+    "pinyin": [
+      "xingqisan"
+    ],
+    "english": [
+      "wednesday"
+    ],
+    "char": "星期三",
+    "frequency_index": 1062
+  },
+  "星期四": {
+    "pinyin": [
+      "xingqisi"
+    ],
+    "english": [
+      "thursday"
+    ],
+    "char": "星期四",
+    "frequency_index": 1063
+  },
+  "星期五": {
+    "pinyin": [
+      "xingqiwu"
+    ],
+    "english": [
+      "friday"
+    ],
+    "char": "星期五",
+    "frequency_index": 1064
+  },
+  "星期六": {
+    "pinyin": [
+      "xingqiliu"
+    ],
+    "english": [
+      "saturday"
+    ],
+    "char": "星期六",
+    "frequency_index": 1065
+  },
+  "星期天 / 星期日": {
+    "pinyin": [
+      "xingqitianri"
+    ],
+    "english": [
+      "sunday"
+    ],
+    "char": "星期天 / 星期日",
+    "frequency_index": 1066
+  },
+  "今天": {
+    "pinyin": [
+      "jintian"
+    ],
+    "english": [
+      "today"
+    ],
+    "char": "今天",
+    "frequency_index": 1067
+  },
+  "明天": {
+    "pinyin": [
+      "mingtian"
+    ],
+    "english": [
+      "tomorrow"
+    ],
+    "char": "明天",
+    "frequency_index": 1068
+  },
+  "昨天": {
+    "pinyin": [
+      "zuotian"
+    ],
+    "english": [
+      "yesterday"
+    ],
+    "char": "昨天",
+    "frequency_index": 1069
+  },
+  "后天": {
+    "pinyin": [
+      "houtian"
+    ],
+    "english": [
+      "the day after tomorrow"
+    ],
+    "char": "后天",
+    "frequency_index": 1070
+  },
+  "前天": {
+    "pinyin": [
+      "qiantian"
+    ],
+    "english": [
+      "the day before yesterday"
+    ],
+    "char": "前天",
+    "frequency_index": 1071
+  },
+  "每天": {
+    "pinyin": [
+      "meitian"
+    ],
+    "english": [
+      "every day"
+    ],
+    "char": "每天",
+    "frequency_index": 1072
+  },
+  "每月": {
+    "pinyin": [
+      "meiyue"
+    ],
+    "english": [
+      "every month"
+    ],
+    "char": "每月",
+    "frequency_index": 1073
+  },
+  "每年": {
+    "pinyin": [
+      "meinian"
+    ],
+    "english": [
+      "every year"
+    ],
+    "char": "每年",
+    "frequency_index": 1074
+  },
+  "今年": {
+    "pinyin": [
+      "jinnian"
+    ],
+    "english": [
+      "this year"
+    ],
+    "char": "今年",
+    "frequency_index": 1075
+  },
+  "明年": {
+    "pinyin": [
+      "mingnian"
+    ],
+    "english": [
+      "next year"
+    ],
+    "char": "明年",
+    "frequency_index": 1076
+  },
+  "去年": {
+    "pinyin": [
+      "qunian"
+    ],
+    "english": [
+      "last year"
+    ],
+    "char": "去年",
+    "frequency_index": 1077
+  },
+  "上个月": {
+    "pinyin": [
+      "shanggeyue"
+    ],
+    "english": [
+      "last month"
+    ],
+    "char": "上个月",
+    "frequency_index": 1078
+  },
+  "下个月": {
+    "pinyin": [
+      "xiageyue"
+    ],
+    "english": [
+      "next month"
+    ],
+    "char": "下个月",
+    "frequency_index": 1079
+  },
+  "月初": {
+    "pinyin": [
+      "yuechu"
+    ],
+    "english": [
+      "beginning of the month"
+    ],
+    "char": "月初",
+    "frequency_index": 1080
+  },
+  "月中": {
+    "pinyin": [
+      "yuezhong"
+    ],
+    "english": [
+      "middle of the month"
+    ],
+    "char": "月中",
+    "frequency_index": 1081
+  },
+  "月底": {
+    "pinyin": [
+      "yuedi"
+    ],
+    "english": [
+      "end of the month"
+    ],
+    "char": "月底",
+    "frequency_index": 1082
+  },
+  "日历": {
+    "pinyin": [
+      "rili"
+    ],
+    "english": [
+      "calendar"
+    ],
+    "char": "日历",
+    "frequency_index": 1083
+  },
+  "时间": {
+    "pinyin": [
+      "shijian"
+    ],
+    "english": [
+      "time"
+    ],
+    "char": "时间",
+    "frequency_index": 1084
+  },
+  "日期": {
+    "pinyin": [
+      "riqi"
+    ],
+    "english": [
+      "date"
+    ],
+    "char": "日期",
+    "frequency_index": 1085
+  },
+  "什么时候": {
+    "pinyin": [
+      "shenmeshihou"
+    ],
+    "english": [
+      "when?"
+    ],
+    "char": "什么时候",
+    "frequency_index": 1086
+  },
+  "几月几号": {
+    "pinyin": [
+      "jiyuejihao"
+    ],
+    "english": [
+      "what month and day?"
+    ],
+    "char": "几月几号",
+    "frequency_index": 1087
+  },
+  "几点": {
+    "pinyin": [
+      "jidian"
+    ],
+    "english": [
+      "what time?"
+    ],
+    "char": "几点",
+    "frequency_index": 1088
+  },
+  "时钟": {
+    "pinyin": [
+      "shizhong"
+    ],
+    "english": [
+      "clock"
+    ],
+    "char": "时钟",
+    "frequency_index": 1089
+  },
+  "一": {
+    "pinyin": [
+      "yi"
+    ],
+    "english": [
+      "one"
+    ],
+    "char": "一",
+    "frequency_index": 1090
+  },
+  "二": {
+    "pinyin": [
+      "er"
+    ],
+    "english": [
+      "two"
+    ],
+    "char": "二",
+    "frequency_index": 1091
+  },
+  "三": {
+    "pinyin": [
+      "san"
+    ],
+    "english": [
+      "three"
+    ],
+    "char": "三",
+    "frequency_index": 1092
+  },
+  "四": {
+    "pinyin": [
+      "si"
+    ],
+    "english": [
+      "four"
+    ],
+    "char": "四",
+    "frequency_index": 1093
+  },
+  "五": {
+    "pinyin": [
+      "wu"
+    ],
+    "english": [
+      "five"
+    ],
+    "char": "五",
+    "frequency_index": 1094
+  },
+  "六": {
+    "pinyin": [
+      "liu"
+    ],
+    "english": [
+      "six"
+    ],
+    "char": "六",
+    "frequency_index": 1095
+  },
+  "七": {
+    "pinyin": [
+      "qi"
+    ],
+    "english": [
+      "seven"
+    ],
+    "char": "七",
+    "frequency_index": 1096
+  },
+  "八": {
+    "pinyin": [
+      "ba"
+    ],
+    "english": [
+      "eight"
+    ],
+    "char": "八",
+    "frequency_index": 1097
+  },
+  "九": {
+    "pinyin": [
+      "jiu"
+    ],
+    "english": [
+      "nine"
+    ],
+    "char": "九",
+    "frequency_index": 1098
+  },
+  "十": {
+    "pinyin": [
+      "shi"
+    ],
+    "english": [
+      "ten"
+    ],
+    "char": "十",
+    "frequency_index": 1099
+  },
+  "百": {
+    "pinyin": [
+      "bai"
+    ],
+    "english": [
+      "hundred"
+    ],
+    "char": "百",
+    "frequency_index": 1100
+  },
+  "千": {
+    "pinyin": [
+      "qian"
+    ],
+    "english": [
+      "thousand"
+    ],
+    "char": "千",
+    "frequency_index": 1101
+  },
+  "万": {
+    "pinyin": [
+      "wan"
+    ],
+    "english": [
+      "ten thousand"
+    ],
+    "char": "万",
+    "frequency_index": 1102
+  },
+  "亿": {
+    "pinyin": [
+      "yi"
+    ],
+    "english": [
+      "hundred million"
+    ],
+    "char": "亿",
+    "frequency_index": 1103
+  },
+  "第": {
+    "pinyin": [
+      "di"
+    ],
+    "english": [
+      "prefix for ordinal numbers"
+    ],
+    "char": "第",
+    "frequency_index": 1104
+  },
+  "零": {
+    "pinyin": [
+      "ling"
+    ],
+    "english": [
+      "zero"
+    ],
+    "char": "零",
+    "frequency_index": 1105
+  },
+  "一半": {
+    "pinyin": [
+      "yiban"
+    ],
+    "english": [
+      "half"
+    ],
+    "char": "一半",
+    "frequency_index": 1106
+  },
+  "双": {
+    "pinyin": [
+      "shuang"
+    ],
+    "english": [
+      "pair"
+    ],
+    "char": "双",
+    "frequency_index": 1107
+  },
+  "两": {
+    "pinyin": [
+      "liang"
+    ],
+    "english": [
+      "two"
+    ],
+    "char": "两",
+    "frequency_index": 1108
+  },
+  "半": {
+    "pinyin": [
+      "ban"
+    ],
+    "english": [
+      "half"
+    ],
+    "char": "半",
+    "frequency_index": 1109
+  },
+  "多": {
+    "pinyin": [
+      "duo"
+    ],
+    "english": [
+      "many"
+    ],
+    "char": "多",
+    "frequency_index": 1110
+  },
+  "少": {
+    "pinyin": [
+      "shao"
+    ],
+    "english": [
+      "few"
+    ],
+    "char": "少",
+    "frequency_index": 1111
+  },
+  "幾": {
+    "pinyin": [
+      "ji"
+    ],
+    "english": [
+      "how many",
+      "several"
+    ],
+    "char": "幾",
+    "frequency_index": 1112
+  },
+  "成千上万": {
+    "pinyin": [
+      "chengqianshangwan"
+    ],
+    "english": [
+      "thousands upon thousands"
+    ],
+    "char": "成千上万",
+    "frequency_index": 1113
+  },
+  "开心": {
+    "pinyin": [
+      "kaixin"
+    ],
+    "english": [
+      "happy"
+    ],
+    "char": "开心",
+    "frequency_index": 1114
+  },
+  "难过": {
+    "pinyin": [
+      "nanguo"
+    ],
+    "english": [
+      "sad"
+    ],
+    "char": "难过",
+    "frequency_index": 1115
+  },
+  "生气": {
+    "pinyin": [
+      "shengqi"
+    ],
+    "english": [
+      "angry"
+    ],
+    "char": "生气",
+    "frequency_index": 1116
+  },
+  "紧张": {
+    "pinyin": [
+      "jinzhang"
+    ],
+    "english": [
+      "nervous"
+    ],
+    "char": "紧张",
+    "frequency_index": 1117
+  },
+  "不安": {
+    "pinyin": [
+      "buan"
+    ],
+    "english": [
+      "uneasy"
+    ],
+    "char": "不安",
+    "frequency_index": 1118
+  },
+  "兴奋": {
+    "pinyin": [
+      "xingfen"
+    ],
+    "english": [
+      "excited"
+    ],
+    "char": "兴奋",
+    "frequency_index": 1119
+  },
+  "失望": {
+    "pinyin": [
+      "shiwang"
+    ],
+    "english": [
+      "disappointed"
+    ],
+    "char": "失望",
+    "frequency_index": 1120
+  },
+  "满意": {
+    "pinyin": [
+      "manyi"
+    ],
+    "english": [
+      "satisfied"
+    ],
+    "char": "满意",
+    "frequency_index": 1121
+  },
+  "害怕": {
+    "pinyin": [
+      "haipa"
+    ],
+    "english": [
+      "afraid"
+    ],
+    "char": "害怕",
+    "frequency_index": 1122
+  },
+  "惊讶": {
+    "pinyin": [
+      "jingya"
+    ],
+    "english": [
+      "surprised"
+    ],
+    "char": "惊讶",
+    "frequency_index": 1123
+  },
+  "痛苦": {
+    "pinyin": [
+      "tongku"
+    ],
+    "english": [
+      "in pain"
+    ],
+    "char": "痛苦",
+    "frequency_index": 1124
+  },
+  "悲伤": {
+    "pinyin": [
+      "beishang"
+    ],
+    "english": [
+      "sorrowful"
+    ],
+    "char": "悲伤",
+    "frequency_index": 1125
+  },
+  "幸福": {
+    "pinyin": [
+      "xingfu"
+    ],
+    "english": [
+      "happy"
+    ],
+    "char": "幸福",
+    "frequency_index": 1126
+  },
+  "忧虑": {
+    "pinyin": [
+      "youlv"
+    ],
+    "english": [
+      "worried"
+    ],
+    "char": "忧虑",
+    "frequency_index": 1127
+  },
+  "安心": {
+    "pinyin": [
+      "anxin"
+    ],
+    "english": [
+      "at ease"
+    ],
+    "char": "安心",
+    "frequency_index": 1128
+  },
+  "愤怒": {
+    "pinyin": [
+      "fennu"
+    ],
+    "english": [
+      "furious"
+    ],
+    "char": "愤怒",
+    "frequency_index": 1129
+  },
+  "孤单": {
+    "pinyin": [
+      "gudan"
+    ],
+    "english": [
+      "lonely"
+    ],
+    "char": "孤单",
+    "frequency_index": 1130
+  },
+  "烦恼": {
+    "pinyin": [
+      "fannao"
+    ],
+    "english": [
+      "troubled"
+    ],
+    "char": "烦恼",
+    "frequency_index": 1131
+  },
+  "羞愧": {
+    "pinyin": [
+      "xiukui"
+    ],
+    "english": [
+      "ashamed"
+    ],
+    "char": "羞愧",
+    "frequency_index": 1132
+  },
+  "后悔": {
+    "pinyin": [
+      "houhui"
+    ],
+    "english": [
+      "regret"
+    ],
+    "char": "后悔",
+    "frequency_index": 1133
+  },
+  "同情": {
+    "pinyin": [
+      "tongqing"
+    ],
+    "english": [
+      "sympathetic"
+    ],
+    "char": "同情",
+    "frequency_index": 1134
+  },
+  "无聊": {
+    "pinyin": [
+      "wuliao"
+    ],
+    "english": [
+      "bored"
+    ],
+    "char": "无聊",
+    "frequency_index": 1135
+  },
+  "嫉妒": {
+    "pinyin": [
+      "jidu"
+    ],
+    "english": [
+      "jealous"
+    ],
+    "char": "嫉妒",
+    "frequency_index": 1136
+  },
+  "惆怅": {
+    "pinyin": [
+      "chouchang"
+    ],
+    "english": [
+      "melancholic"
+    ],
+    "char": "惆怅",
+    "frequency_index": 1137
+  },
+  "期待": {
+    "pinyin": [
+      "qidai"
+    ],
+    "english": [
+      "look forward to"
+    ],
+    "char": "期待",
+    "frequency_index": 1138
+  },
+  "想念": {
+    "pinyin": [
+      "xiangnian"
+    ],
+    "english": [
+      "miss (someone",
+      "something)"
+    ],
+    "char": "想念",
+    "frequency_index": 1139
+  },
+  "忧伤": {
+    "pinyin": [
+      "youshang"
+    ],
+    "english": [
+      "sorrowful"
+    ],
+    "char": "忧伤",
+    "frequency_index": 1140
+  },
+  "感动": {
+    "pinyin": [
+      "gandong"
+    ],
+    "english": [
+      "touched"
+    ],
+    "char": "感动",
+    "frequency_index": 1141
+  },
+  "恐惧": {
+    "pinyin": [
+      "kongju"
+    ],
+    "english": [
+      "terrified"
+    ],
+    "char": "恐惧",
+    "frequency_index": 1142
+  },
+  "满足": {
+    "pinyin": [
+      "manzu"
+    ],
+    "english": [
+      "content"
+    ],
+    "char": "满足",
+    "frequency_index": 1143
+  },
+  "难堪": {
+    "pinyin": [
+      "nankan"
+    ],
+    "english": [
+      "embarrassed"
+    ],
+    "char": "难堪",
+    "frequency_index": 1144
+  },
+  "焦虑": {
+    "pinyin": [
+      "jiaolv"
+    ],
+    "english": [
+      "anxious"
+    ],
+    "char": "焦虑",
+    "frequency_index": 1145
+  },
+  "不满": {
+    "pinyin": [
+      "buman"
+    ],
+    "english": [
+      "dissatisfied"
+    ],
+    "char": "不满",
+    "frequency_index": 1146
+  },
+  "惊恐": {
+    "pinyin": [
+      "jingkong"
+    ],
+    "english": [
+      "panic"
+    ],
+    "char": "惊恐",
+    "frequency_index": 1147
+  },
+  "欣慰": {
+    "pinyin": [
+      "xinwei"
+    ],
+    "english": [
+      "comforted"
+    ],
+    "char": "欣慰",
+    "frequency_index": 1148
+  },
+  "失落": {
+    "pinyin": [
+      "shiluo"
+    ],
+    "english": [
+      "lost"
+    ],
+    "char": "失落",
+    "frequency_index": 1149
+  },
+  "恼火": {
+    "pinyin": [
+      "naohuo"
+    ],
+    "english": [
+      "annoyed"
+    ],
+    "char": "恼火",
+    "frequency_index": 1150
+  },
+  "绝望": {
+    "pinyin": [
+      "juewang"
+    ],
+    "english": [
+      "desperate"
+    ],
+    "char": "绝望",
+    "frequency_index": 1151
+  },
+  "心酸": {
+    "pinyin": [
+      "xinsuan"
+    ],
+    "english": [
+      "bitter"
+    ],
+    "char": "心酸",
+    "frequency_index": 1152
+  },
+  "恶心": {
+    "pinyin": [
+      "exin"
+    ],
+    "english": [
+      "nauseated",
+      "disgusted"
+    ],
+    "char": "恶心",
+    "frequency_index": 1153
+  },
+  "激动": {
+    "pinyin": [
+      "jidong"
+    ],
+    "english": [
+      "stirred",
+      "excited"
+    ],
+    "char": "激动",
+    "frequency_index": 1154
+  },
+  "心动": {
+    "pinyin": [
+      "xindong"
+    ],
+    "english": [
+      "moved"
+    ],
+    "char": "心动",
+    "frequency_index": 1155
+  },
+  "讨厌": {
+    "pinyin": [
+      "taoyan"
+    ],
+    "english": [
+      "dislike"
+    ],
+    "char": "讨厌",
+    "frequency_index": 1156
+  },
+  "怀疑": {
+    "pinyin": [
+      "huaiyi"
+    ],
+    "english": [
+      "doubt"
+    ],
+    "char": "怀疑",
+    "frequency_index": 1157
+  },
+  "热情": {
+    "pinyin": [
+      "reqing"
+    ],
+    "english": [
+      "enthusiastic"
+    ],
+    "char": "热情",
+    "frequency_index": 1158
+  },
+  "冷静": {
+    "pinyin": [
+      "lengjing"
+    ],
+    "english": [
+      "calm"
+    ],
+    "char": "冷静",
+    "frequency_index": 1159
+  },
+  "体育": {
+    "pinyin": [
+      "tiyu"
+    ],
+    "english": [
+      "sports"
+    ],
+    "char": "体育",
+    "frequency_index": 1160
+  },
+  "足球": {
+    "pinyin": [
+      "zuqiu"
+    ],
+    "english": [
+      "soccer"
+    ],
+    "char": "足球",
+    "frequency_index": 1161
+  },
+  "篮球": {
+    "pinyin": [
+      "lanqiu"
+    ],
+    "english": [
+      "basketball"
+    ],
+    "char": "篮球",
+    "frequency_index": 1162
+  },
+  "排球": {
+    "pinyin": [
+      "paiqiu"
+    ],
+    "english": [
+      "volleyball"
+    ],
+    "char": "排球",
+    "frequency_index": 1163
+  },
+  "网球": {
+    "pinyin": [
+      "wangqiu"
+    ],
+    "english": [
+      "tennis"
+    ],
+    "char": "网球",
+    "frequency_index": 1164
+  },
+  "乒乓球": {
+    "pinyin": [
+      "pingpangqiu"
+    ],
+    "english": [
+      "table tennis"
+    ],
+    "char": "乒乓球",
+    "frequency_index": 1165
+  },
+  "羽毛球": {
+    "pinyin": [
+      "yumaoqiu"
+    ],
+    "english": [
+      "badminton"
+    ],
+    "char": "羽毛球",
+    "frequency_index": 1166
+  },
+  "棒球": {
+    "pinyin": [
+      "bangqiu"
+    ],
+    "english": [
+      "baseball"
+    ],
+    "char": "棒球",
+    "frequency_index": 1167
+  },
+  "高尔夫球": {
+    "pinyin": [
+      "gaoerfuqiu"
+    ],
+    "english": [
+      "golf"
+    ],
+    "char": "高尔夫球",
+    "frequency_index": 1168
+  },
+  "跳远": {
+    "pinyin": [
+      "tiaoyuan"
+    ],
+    "english": [
+      "long jump"
+    ],
+    "char": "跳远",
+    "frequency_index": 1171
+  },
+  "跳高": {
+    "pinyin": [
+      "tiaogao"
+    ],
+    "english": [
+      "high jump"
+    ],
+    "char": "跳高",
+    "frequency_index": 1172
+  },
+  "举重": {
+    "pinyin": [
+      "juzhong"
+    ],
+    "english": [
+      "weightlifting"
+    ],
+    "char": "举重",
+    "frequency_index": 1173
+  },
+  "拳击": {
+    "pinyin": [
+      "quanji"
+    ],
+    "english": [
+      "boxing"
+    ],
+    "char": "拳击",
+    "frequency_index": 1174
+  },
+  "摔跤": {
+    "pinyin": [
+      "shuaijiao"
+    ],
+    "english": [
+      "wrestling"
+    ],
+    "char": "摔跤",
+    "frequency_index": 1175
+  },
+  "滑冰": {
+    "pinyin": [
+      "huabing"
+    ],
+    "english": [
+      "ice skating"
+    ],
+    "char": "滑冰",
+    "frequency_index": 1176
+  },
+  "滑雪": {
+    "pinyin": [
+      "huaxue"
+    ],
+    "english": [
+      "skiing"
+    ],
+    "char": "滑雪",
+    "frequency_index": 1177
+  },
+  "射箭": {
+    "pinyin": [
+      "shejian"
+    ],
+    "english": [
+      "archery"
+    ],
+    "char": "射箭",
+    "frequency_index": 1178
+  },
+  "体操": {
+    "pinyin": [
+      "ticao"
+    ],
+    "english": [
+      "gymnastics"
+    ],
+    "char": "体操",
+    "frequency_index": 1179
+  },
+  "自行车": {
+    "pinyin": [
+      "zixingche"
+    ],
+    "english": [
+      "bicycle"
+    ],
+    "char": "自行车",
+    "frequency_index": 1180
+  },
+  "马拉松": {
+    "pinyin": [
+      "malasong"
+    ],
+    "english": [
+      "marathon"
+    ],
+    "char": "马拉松",
+    "frequency_index": 1181
+  },
+  "赛车": {
+    "pinyin": [
+      "saiche"
+    ],
+    "english": [
+      "racing"
+    ],
+    "char": "赛车",
+    "frequency_index": 1182
+  },
+  "竞走": {
+    "pinyin": [
+      "jingzou"
+    ],
+    "english": [
+      "race walking"
+    ],
+    "char": "竞走",
+    "frequency_index": 1183
+  },
+  "跳水": {
+    "pinyin": [
+      "tiaoshui"
+    ],
+    "english": [
+      "diving"
+    ],
+    "char": "跳水",
+    "frequency_index": 1184
+  },
+  "射击": {
+    "pinyin": [
+      "sheji"
+    ],
+    "english": [
+      "shooting"
+    ],
+    "char": "射击",
+    "frequency_index": 1185
+  },
+  "冲浪": {
+    "pinyin": [
+      "chonglang"
+    ],
+    "english": [
+      "surfing"
+    ],
+    "char": "冲浪",
+    "frequency_index": 1186
+  },
+  "举办": {
+    "pinyin": [
+      "juban"
+    ],
+    "english": [
+      "to host"
+    ],
+    "char": "举办",
+    "frequency_index": 1187
+  },
+  "运动会": {
+    "pinyin": [
+      "yundonghui"
+    ],
+    "english": [
+      "sports meet"
+    ],
+    "char": "运动会",
+    "frequency_index": 1188
+  },
+  "田径": {
+    "pinyin": [
+      "tianjing"
+    ],
+    "english": [
+      "track and field"
+    ],
+    "char": "田径",
+    "frequency_index": 1189
+  },
+  "裁判": {
+    "pinyin": [
+      "caipan"
+    ],
+    "english": [
+      "referee"
+    ],
+    "char": "裁判",
+    "frequency_index": 1190
+  },
+  "球队": {
+    "pinyin": [
+      "qiudui"
+    ],
+    "english": [
+      "sports team"
+    ],
+    "char": "球队",
+    "frequency_index": 1191
+  },
+  "比赛": {
+    "pinyin": [
+      "bisai"
+    ],
+    "english": [
+      "match"
+    ],
+    "char": "比赛",
+    "frequency_index": 1192
+  },
+  "进球": {
+    "pinyin": [
+      "jinqiu"
+    ],
+    "english": [
+      "score a goal"
+    ],
+    "char": "进球",
+    "frequency_index": 1193
+  },
+  "输": {
+    "pinyin": [
+      "shu"
+    ],
+    "english": [
+      "lose"
+    ],
+    "char": "输",
+    "frequency_index": 1194
+  },
+  "赢": {
+    "pinyin": [
+      "ying"
+    ],
+    "english": [
+      "win"
+    ],
+    "char": "赢",
+    "frequency_index": 1195
+  },
+  "平局": {
+    "pinyin": [
+      "pingju"
+    ],
+    "english": [
+      "draw"
+    ],
+    "char": "平局",
+    "frequency_index": 1196
+  },
+  "耐力": {
+    "pinyin": [
+      "naili"
+    ],
+    "english": [
+      "endurance"
+    ],
+    "char": "耐力",
+    "frequency_index": 1197
+  },
+  "速度": {
+    "pinyin": [
+      "sudu"
+    ],
+    "english": [
+      "speed"
+    ],
+    "char": "速度",
+    "frequency_index": 1198
+  },
+  "热身": {
+    "pinyin": [
+      "reshen"
+    ],
+    "english": [
+      "warm-up"
+    ],
+    "char": "热身",
+    "frequency_index": 1199
+  },
+  "拉伸": {
+    "pinyin": [
+      "lashen"
+    ],
+    "english": [
+      "stretch"
+    ],
+    "char": "拉伸",
+    "frequency_index": 1200
+  },
+  "锻炼": {
+    "pinyin": [
+      "duanlian"
+    ],
+    "english": [
+      "exercise"
+    ],
+    "char": "锻炼",
+    "frequency_index": 1201
+  },
+  "训练": {
+    "pinyin": [
+      "xunlian"
+    ],
+    "english": [
+      "training"
+    ],
+    "char": "训练",
+    "frequency_index": 1202
+  },
+  "冠军": {
+    "pinyin": [
+      "guanjun"
+    ],
+    "english": [
+      "champion"
+    ],
+    "char": "冠军",
+    "frequency_index": 1203
+  },
+  "亚军": {
+    "pinyin": [
+      "yajun"
+    ],
+    "english": [
+      "runner-up"
+    ],
+    "char": "亚军",
+    "frequency_index": 1204
+  },
+  "季军": {
+    "pinyin": [
+      "jijun"
+    ],
+    "english": [
+      "third place"
+    ],
+    "char": "季军",
+    "frequency_index": 1205
+  },
+  "金牌": {
+    "pinyin": [
+      "jinpai"
+    ],
+    "english": [
+      "gold medal"
+    ],
+    "char": "金牌",
+    "frequency_index": 1206
+  },
+  "银牌": {
+    "pinyin": [
+      "yinpai"
+    ],
+    "english": [
+      "silver medal"
+    ],
+    "char": "银牌",
+    "frequency_index": 1207
+  },
+  "铜牌": {
+    "pinyin": [
+      "tongpai"
+    ],
+    "english": [
+      "bronze medal"
+    ],
+    "char": "铜牌",
+    "frequency_index": 1208
+  },
+  "世界杯": {
+    "pinyin": [
+      "shijiebei"
+    ],
+    "english": [
+      "world cup"
+    ],
+    "char": "世界杯",
+    "frequency_index": 1209
+  },
+  "奥运会": {
+    "pinyin": [
+      "aoyunhui"
+    ],
+    "english": [
+      "olympic games"
+    ],
+    "char": "奥运会",
+    "frequency_index": 1210
+  },
+  "接力赛": {
+    "pinyin": [
+      "jielisai"
+    ],
+    "english": [
+      "relay race"
+    ],
+    "char": "接力赛",
+    "frequency_index": 1211
+  },
+  "障碍赛": {
+    "pinyin": [
+      "zhangaisai"
+    ],
+    "english": [
+      "obstacle race"
+    ],
+    "char": "障碍赛",
+    "frequency_index": 1212
+  },
+  "比分": {
+    "pinyin": [
+      "bifen"
+    ],
+    "english": [
+      "score"
+    ],
+    "char": "比分",
+    "frequency_index": 1213
+  },
+  "观众": {
+    "pinyin": [
+      "guanzhong"
+    ],
+    "english": [
+      "audience"
+    ],
+    "char": "观众",
+    "frequency_index": 1214
+  },
+  "加时赛": {
+    "pinyin": [
+      "jiashisai"
+    ],
+    "english": [
+      "overtime"
+    ],
+    "char": "加时赛",
+    "frequency_index": 1215
+  },
+  "点球": {
+    "pinyin": [
+      "dianqiu"
+    ],
+    "english": [
+      "penalty kick"
+    ],
+    "char": "点球",
+    "frequency_index": 1216
+  },
+  "红牌": {
+    "pinyin": [
+      "hongpai"
+    ],
+    "english": [
+      "red card"
+    ],
+    "char": "红牌",
+    "frequency_index": 1217
+  },
+  "黄牌": {
+    "pinyin": [
+      "huangpai"
+    ],
+    "english": [
+      "yellow card"
+    ],
+    "char": "黄牌",
+    "frequency_index": 1218
+  },
+  "球场": {
+    "pinyin": [
+      "qiuchang"
+    ],
+    "english": [
+      "sports field"
+    ],
+    "char": "球场",
+    "frequency_index": 1219
+  },
+  "大": {
+    "pinyin": [
+      "da"
+    ],
+    "english": [
+      "big"
+    ],
+    "char": "大",
+    "frequency_index": 1220
+  },
+  "小": {
+    "pinyin": [
+      "xiao"
+    ],
+    "english": [
+      "small"
+    ],
+    "char": "小",
+    "frequency_index": 1221
+  },
+  "长": {
+    "pinyin": [
+      "chang"
+    ],
+    "english": [
+      "long"
+    ],
+    "char": "长",
+    "frequency_index": 1222
+  },
+  "短": {
+    "pinyin": [
+      "duan"
+    ],
+    "english": [
+      "short"
+    ],
+    "char": "短",
+    "frequency_index": 1223
+  },
+  "高": {
+    "pinyin": [
+      "gao"
+    ],
+    "english": [
+      "tall",
+      "high"
+    ],
+    "char": "高",
+    "frequency_index": 1224
+  },
+  "低": {
+    "pinyin": [
+      "di"
+    ],
+    "english": [
+      "low"
+    ],
+    "char": "低",
+    "frequency_index": 1225
+  },
+  "宽": {
+    "pinyin": [
+      "kuan"
+    ],
+    "english": [
+      "wide"
+    ],
+    "char": "宽",
+    "frequency_index": 1226
+  },
+  "狭窄": {
+    "pinyin": [
+      "xiazhai"
+    ],
+    "english": [
+      "narrow"
+    ],
+    "char": "狭窄",
+    "frequency_index": 1227
+  },
+  "重": {
+    "pinyin": [
+      "zhong"
+    ],
+    "english": [
+      "heavy"
+    ],
+    "char": "重",
+    "frequency_index": 1228
+  },
+  "轻": {
+    "pinyin": [
+      "qing"
+    ],
+    "english": [
+      "light"
+    ],
+    "char": "轻",
+    "frequency_index": 1229
+  },
+  "深": {
+    "pinyin": [
+      "shen"
+    ],
+    "english": [
+      "deep"
+    ],
+    "char": "深",
+    "frequency_index": 1230
+  },
+  "浅": {
+    "pinyin": [
+      "qian"
+    ],
+    "english": [
+      "shallow"
+    ],
+    "char": "浅",
+    "frequency_index": 1231
+  },
+  "亮": {
+    "pinyin": [
+      "liang"
+    ],
+    "english": [
+      "bright"
+    ],
+    "char": "亮",
+    "frequency_index": 1232
+  },
+  "暗": {
+    "pinyin": [
+      "an"
+    ],
+    "english": [
+      "dark"
+    ],
+    "char": "暗",
+    "frequency_index": 1233
+  },
+  "清晰": {
+    "pinyin": [
+      "qingxi"
+    ],
+    "english": [
+      "clear"
+    ],
+    "char": "清晰",
+    "frequency_index": 1234
+  },
+  "模糊": {
+    "pinyin": [
+      "mohu"
+    ],
+    "english": [
+      "blurry"
+    ],
+    "char": "模糊",
+    "frequency_index": 1235
+  },
+  "软": {
+    "pinyin": [
+      "ruan"
+    ],
+    "english": [
+      "soft"
+    ],
+    "char": "软",
+    "frequency_index": 1236
+  },
+  "硬": {
+    "pinyin": [
+      "ying"
+    ],
+    "english": [
+      "hard"
+    ],
+    "char": "硬",
+    "frequency_index": 1237
+  },
+  "瘦": {
+    "pinyin": [
+      "shou"
+    ],
+    "english": [
+      "thin"
+    ],
+    "char": "瘦",
+    "frequency_index": 1238
+  },
+  "胖": {
+    "pinyin": [
+      "pang"
+    ],
+    "english": [
+      "fat"
+    ],
+    "char": "胖",
+    "frequency_index": 1239
+  },
+  "美丽": {
+    "pinyin": [
+      "meili"
+    ],
+    "english": [
+      "beautiful"
+    ],
+    "char": "美丽",
+    "frequency_index": 1240
+  },
+  "丑": {
+    "pinyin": [
+      "chou"
+    ],
+    "english": [
+      "ugly"
+    ],
+    "char": "丑",
+    "frequency_index": 1241
+  },
+  "模样": {
+    "pinyin": [
+      "muyang"
+    ],
+    "english": [
+      "appearance"
+    ],
+    "char": "模样",
+    "frequency_index": 1242
+  },
+  "粗糙": {
+    "pinyin": [
+      "cucao"
+    ],
+    "english": [
+      "rough"
+    ],
+    "char": "粗糙",
+    "frequency_index": 1243
+  },
+  "漂亮": {
+    "pinyin": [
+      "piaoliang"
+    ],
+    "english": [
+      "pretty"
+    ],
+    "char": "漂亮",
+    "frequency_index": 1244
+  },
+  "可爱": {
+    "pinyin": [
+      "keai"
+    ],
+    "english": [
+      "cute"
+    ],
+    "char": "可爱",
+    "frequency_index": 1245
+  },
+  "容易": {
+    "pinyin": [
+      "rongyi"
+    ],
+    "english": [
+      "easy"
+    ],
+    "char": "容易",
+    "frequency_index": 1246
+  },
+  "难": {
+    "pinyin": [
+      "nan"
+    ],
+    "english": [
+      "difficult"
+    ],
+    "char": "难",
+    "frequency_index": 1247
+  },
+  "快": {
+    "pinyin": [
+      "kuai"
+    ],
+    "english": [
+      "fast"
+    ],
+    "char": "快",
+    "frequency_index": 1248
+  },
+  "慢": {
+    "pinyin": [
+      "man"
+    ],
+    "english": [
+      "slow"
+    ],
+    "char": "慢",
+    "frequency_index": 1249
+  },
+  "热": {
+    "pinyin": [
+      "re"
+    ],
+    "english": [
+      "hot"
+    ],
+    "char": "热",
+    "frequency_index": 1250
+  },
+  "冷": {
+    "pinyin": [
+      "leng"
+    ],
+    "english": [
+      "cold"
+    ],
+    "char": "冷",
+    "frequency_index": 1251
+  },
+  "粗": {
+    "pinyin": [
+      "cu"
+    ],
+    "english": [
+      "coarse"
+    ],
+    "char": "粗",
+    "frequency_index": 1252
+  },
+  "湿": {
+    "pinyin": [
+      "shi"
+    ],
+    "english": [
+      "wet"
+    ],
+    "char": "湿",
+    "frequency_index": 1253
+  },
+  "干": {
+    "pinyin": [
+      "gan"
+    ],
+    "english": [
+      "dry"
+    ],
+    "char": "干",
+    "frequency_index": 1254
+  },
+  "直": {
+    "pinyin": [
+      "zhi"
+    ],
+    "english": [
+      "straight"
+    ],
+    "char": "直",
+    "frequency_index": 1255
+  },
+  "弯": {
+    "pinyin": [
+      "wan"
+    ],
+    "english": [
+      "curved"
+    ],
+    "char": "弯",
+    "frequency_index": 1256
+  },
+  "平坦": {
+    "pinyin": [
+      "pingtan"
+    ],
+    "english": [
+      "flat"
+    ],
+    "char": "平坦",
+    "frequency_index": 1257
+  },
+  "坡": {
+    "pinyin": [
+      "po"
+    ],
+    "english": [
+      "slope"
+    ],
+    "char": "坡",
+    "frequency_index": 1258
+  },
+  "透明": {
+    "pinyin": [
+      "touming"
+    ],
+    "english": [
+      "transparent"
+    ],
+    "char": "透明",
+    "frequency_index": 1259
+  },
+  "难吃": {
+    "pinyin": [
+      "nanchi"
+    ],
+    "english": [
+      "bad tasting"
+    ],
+    "char": "难吃",
+    "frequency_index": 1261
+  },
+  "流畅": {
+    "pinyin": [
+      "liuchang"
+    ],
+    "english": [
+      "fluent"
+    ],
+    "char": "流畅",
+    "frequency_index": 1262
+  },
+  "健康": {
+    "pinyin": [
+      "jiankang"
+    ],
+    "english": [
+      "healthy"
+    ],
+    "char": "健康",
+    "frequency_index": 1263
+  },
+  "聪明": {
+    "pinyin": [
+      "congming"
+    ],
+    "english": [
+      "smart"
+    ],
+    "char": "聪明",
+    "frequency_index": 1264
+  },
+  "清新": {
+    "pinyin": [
+      "qingxin"
+    ],
+    "english": [
+      "fresh"
+    ],
+    "char": "清新",
+    "frequency_index": 1265
+  },
+  "肮脏": {
+    "pinyin": [
+      "angzang"
+    ],
+    "english": [
+      "dirty"
+    ],
+    "char": "肮脏",
+    "frequency_index": 1266
+  },
+  "安全": {
+    "pinyin": [
+      "anquan"
+    ],
+    "english": [
+      "safe"
+    ],
+    "char": "安全",
+    "frequency_index": 1267
+  },
+  "危险": {
+    "pinyin": [
+      "weixian"
+    ],
+    "english": [
+      "dangerous"
+    ],
+    "char": "危险",
+    "frequency_index": 1268
+  },
+  "高贵": {
+    "pinyin": [
+      "gaogui"
+    ],
+    "english": [
+      "noble"
+    ],
+    "char": "高贵",
+    "frequency_index": 1269
+  },
+  "稳定": {
+    "pinyin": [
+      "wending"
+    ],
+    "english": [
+      "stable"
+    ],
+    "char": "稳定",
+    "frequency_index": 1270
+  },
+  "精致": {
+    "pinyin": [
+      "jingzhi"
+    ],
+    "english": [
+      "exquisite"
+    ],
+    "char": "精致",
+    "frequency_index": 1271
+  },
+  "奇怪": {
+    "pinyin": [
+      "qiguai"
+    ],
+    "english": [
+      "strange"
+    ],
+    "char": "奇怪",
+    "frequency_index": 1272
+  },
+  "精密": {
+    "pinyin": [
+      "jingmi"
+    ],
+    "english": [
+      "precise"
+    ],
+    "char": "精密",
+    "frequency_index": 1273
+  },
+  "复杂": {
+    "pinyin": [
+      "fuza"
+    ],
+    "english": [
+      "complex"
+    ],
+    "char": "复杂",
+    "frequency_index": 1274
+  },
+  "简单": {
+    "pinyin": [
+      "jiandan"
+    ],
+    "english": [
+      "simple"
+    ],
+    "char": "简单",
+    "frequency_index": 1275
+  },
+  "喧闹": {
+    "pinyin": [
+      "xuannao"
+    ],
+    "english": [
+      "noisy"
+    ],
+    "char": "喧闹",
+    "frequency_index": 1276
+  },
+  "安静": {
+    "pinyin": [
+      "anjing"
+    ],
+    "english": [
+      "quiet"
+    ],
+    "char": "安静",
+    "frequency_index": 1277
+  },
+  "英俊": {
+    "pinyin": [
+      "yingjun"
+    ],
+    "english": [
+      "handsome"
+    ],
+    "char": "英俊",
+    "frequency_index": 1278
+  },
+  "端庄": {
+    "pinyin": [
+      "duanzhuang"
+    ],
+    "english": [
+      "graceful"
+    ],
+    "char": "端庄",
+    "frequency_index": 1279
+  },
+  "传统": {
+    "pinyin": [
+      "chuantong"
+    ],
+    "english": [
+      "traditional"
+    ],
+    "char": "传统",
+    "frequency_index": 1280
+  },
+  "现代": {
+    "pinyin": [
+      "xiandai"
+    ],
+    "english": [
+      "modern"
+    ],
+    "char": "现代",
+    "frequency_index": 1281
+  },
+  "平凡": {
+    "pinyin": [
+      "pingfan"
+    ],
+    "english": [
+      "ordinary"
+    ],
+    "char": "平凡",
+    "frequency_index": 1282
+  },
+  "壮丽": {
+    "pinyin": [
+      "zhuangli"
+    ],
+    "english": [
+      "magnificent"
+    ],
+    "char": "壮丽",
+    "frequency_index": 1283
+  },
+  "富有": {
+    "pinyin": [
+      "fuyou"
+    ],
+    "english": [
+      "wealthy"
+    ],
+    "char": "富有",
+    "frequency_index": 1284
+  },
+  "贫穷": {
+    "pinyin": [
+      "pinqiong"
+    ],
+    "english": [
+      "poor"
+    ],
+    "char": "贫穷",
+    "frequency_index": 1285
+  },
+  "朦胧": {
+    "pinyin": [
+      "menglong"
+    ],
+    "english": [
+      "hazy"
+    ],
+    "char": "朦胧",
+    "frequency_index": 1286
+  },
+  "明朗": {
+    "pinyin": [
+      "minglang"
+    ],
+    "english": [
+      "bright and clear"
+    ],
+    "char": "明朗",
+    "frequency_index": 1287
+  },
+  "强壮": {
+    "pinyin": [
+      "qiangzhuang"
+    ],
+    "english": [
+      "strong"
+    ],
+    "char": "强壮",
+    "frequency_index": 1288
+  },
+  "虚弱": {
+    "pinyin": [
+      "xuruo"
+    ],
+    "english": [
+      "weak"
+    ],
+    "char": "虚弱",
+    "frequency_index": 1289
+  },
+  "中国": {
+    "pinyin": [
+      "zhongguo"
+    ],
+    "english": [
+      "china"
+    ],
+    "char": "中国",
+    "frequency_index": 1290
+  },
+  "越南": {
+    "pinyin": [
+      "yuenan"
+    ],
+    "english": [
+      "vietnam"
+    ],
+    "char": "越南",
+    "frequency_index": 1291
+  },
+  "日本": {
+    "pinyin": [
+      "riben"
+    ],
+    "english": [
+      "japan"
+    ],
+    "char": "日本",
+    "frequency_index": 1292
+  },
+  "韩国": {
+    "pinyin": [
+      "hanguo"
+    ],
+    "english": [
+      "south korea"
+    ],
+    "char": "韩国",
+    "frequency_index": 1293
+  },
+  "朝鲜": {
+    "pinyin": [
+      "chaoxian"
+    ],
+    "english": [
+      "north korea"
+    ],
+    "char": "朝鲜",
+    "frequency_index": 1294
+  },
+  "泰国": {
+    "pinyin": [
+      "taiguo"
+    ],
+    "english": [
+      "thailand"
+    ],
+    "char": "泰国",
+    "frequency_index": 1295
+  },
+  "老挝": {
+    "pinyin": [
+      "laowo"
+    ],
+    "english": [
+      "laos"
+    ],
+    "char": "老挝",
+    "frequency_index": 1296
+  },
+  "柬埔寨": {
+    "pinyin": [
+      "jianpuzhai"
+    ],
+    "english": [
+      "cambodia"
+    ],
+    "char": "柬埔寨",
+    "frequency_index": 1297
+  },
+  "缅甸": {
+    "pinyin": [
+      "miandian"
+    ],
+    "english": [
+      "myanmar"
+    ],
+    "char": "缅甸",
+    "frequency_index": 1298
+  },
+  "印度": {
+    "pinyin": [
+      "yindu"
+    ],
+    "english": [
+      "india"
+    ],
+    "char": "印度",
+    "frequency_index": 1299
+  },
+  "马来西亚": {
+    "pinyin": [
+      "malaixiya"
+    ],
+    "english": [
+      "malaysia"
+    ],
+    "char": "马来西亚",
+    "frequency_index": 1300
+  },
+  "新加坡": {
+    "pinyin": [
+      "xinjiapo"
+    ],
+    "english": [
+      "singapore"
+    ],
+    "char": "新加坡",
+    "frequency_index": 1301
+  },
+  "印度尼西亚": {
+    "pinyin": [
+      "yindunixiya"
+    ],
+    "english": [
+      "indonesia"
+    ],
+    "char": "印度尼西亚",
+    "frequency_index": 1302
+  },
+  "菲律宾": {
+    "pinyin": [
+      "feilvbin"
+    ],
+    "english": [
+      "philippines"
+    ],
+    "char": "菲律宾",
+    "frequency_index": 1303
+  },
+  "澳大利亚": {
+    "pinyin": [
+      "aodaliya"
+    ],
+    "english": [
+      "australia"
+    ],
+    "char": "澳大利亚",
+    "frequency_index": 1304
+  },
+  "新西兰": {
+    "pinyin": [
+      "xinxilan"
+    ],
+    "english": [
+      "new zealand"
+    ],
+    "char": "新西兰",
+    "frequency_index": 1305
+  },
+  "美国": {
+    "pinyin": [
+      "meiguo"
+    ],
+    "english": [
+      "united states"
+    ],
+    "char": "美国",
+    "frequency_index": 1306
+  },
+  "加拿大": {
+    "pinyin": [
+      "jianada"
+    ],
+    "english": [
+      "canada"
+    ],
+    "char": "加拿大",
+    "frequency_index": 1307
+  },
+  "墨西哥": {
+    "pinyin": [
+      "moxige"
+    ],
+    "english": [
+      "mexico"
+    ],
+    "char": "墨西哥",
+    "frequency_index": 1308
+  },
+  "巴西": {
+    "pinyin": [
+      "baxi"
+    ],
+    "english": [
+      "brazil"
+    ],
+    "char": "巴西",
+    "frequency_index": 1309
+  },
+  "阿根廷": {
+    "pinyin": [
+      "agenting"
+    ],
+    "english": [
+      "argentina"
+    ],
+    "char": "阿根廷",
+    "frequency_index": 1310
+  },
+  "智利": {
+    "pinyin": [
+      "zhili"
+    ],
+    "english": [
+      "chile"
+    ],
+    "char": "智利",
+    "frequency_index": 1311
+  },
+  "秘鲁": {
+    "pinyin": [
+      "bilu"
+    ],
+    "english": [
+      "peru"
+    ],
+    "char": "秘鲁",
+    "frequency_index": 1312
+  },
+  "哥伦比亚": {
+    "pinyin": [
+      "gelunbiya"
+    ],
+    "english": [
+      "colombia"
+    ],
+    "char": "哥伦比亚",
+    "frequency_index": 1313
+  },
+  "英国": {
+    "pinyin": [
+      "yingguo"
+    ],
+    "english": [
+      "united kingdom"
+    ],
+    "char": "英国",
+    "frequency_index": 1314
+  },
+  "法国": {
+    "pinyin": [
+      "faguo"
+    ],
+    "english": [
+      "france"
+    ],
+    "char": "法国",
+    "frequency_index": 1315
+  },
+  "德国": {
+    "pinyin": [
+      "deguo"
+    ],
+    "english": [
+      "germany"
+    ],
+    "char": "德国",
+    "frequency_index": 1316
+  },
+  "意大利": {
+    "pinyin": [
+      "yidali"
+    ],
+    "english": [
+      "italy"
+    ],
+    "char": "意大利",
+    "frequency_index": 1317
+  },
+  "西班牙": {
+    "pinyin": [
+      "xibanya"
+    ],
+    "english": [
+      "spain"
+    ],
+    "char": "西班牙",
+    "frequency_index": 1318
+  },
+  "葡萄牙": {
+    "pinyin": [
+      "putaoya"
+    ],
+    "english": [
+      "portugal"
+    ],
+    "char": "葡萄牙",
+    "frequency_index": 1319
+  },
+  "荷兰": {
+    "pinyin": [
+      "helan"
+    ],
+    "english": [
+      "netherlands"
+    ],
+    "char": "荷兰",
+    "frequency_index": 1320
+  },
+  "瑞士": {
+    "pinyin": [
+      "ruishi"
+    ],
+    "english": [
+      "switzerland"
+    ],
+    "char": "瑞士",
+    "frequency_index": 1321
+  },
+  "奥地利": {
+    "pinyin": [
+      "aodili"
+    ],
+    "english": [
+      "austria"
+    ],
+    "char": "奥地利",
+    "frequency_index": 1322
+  },
+  "比利时": {
+    "pinyin": [
+      "bilishi"
+    ],
+    "english": [
+      "belgium"
+    ],
+    "char": "比利时",
+    "frequency_index": 1323
+  },
+  "挪威": {
+    "pinyin": [
+      "nuowei"
+    ],
+    "english": [
+      "norway"
+    ],
+    "char": "挪威",
+    "frequency_index": 1324
+  },
+  "瑞典": {
+    "pinyin": [
+      "ruidian"
+    ],
+    "english": [
+      "sweden"
+    ],
+    "char": "瑞典",
+    "frequency_index": 1325
+  },
+  "芬兰": {
+    "pinyin": [
+      "fenlan"
+    ],
+    "english": [
+      "finland"
+    ],
+    "char": "芬兰",
+    "frequency_index": 1326
+  },
+  "丹麦": {
+    "pinyin": [
+      "danmai"
+    ],
+    "english": [
+      "denmark"
+    ],
+    "char": "丹麦",
+    "frequency_index": 1327
+  },
+  "希腊": {
+    "pinyin": [
+      "xila"
+    ],
+    "english": [
+      "greece"
+    ],
+    "char": "希腊",
+    "frequency_index": 1328
+  },
+  "波兰": {
+    "pinyin": [
+      "bolan"
+    ],
+    "english": [
+      "poland"
+    ],
+    "char": "波兰",
+    "frequency_index": 1329
+  },
+  "捷克": {
+    "pinyin": [
+      "jieke"
+    ],
+    "english": [
+      "czech republic"
+    ],
+    "char": "捷克",
+    "frequency_index": 1330
+  },
+  "匈牙利": {
+    "pinyin": [
+      "xiongyali"
+    ],
+    "english": [
+      "hungary"
+    ],
+    "char": "匈牙利",
+    "frequency_index": 1331
+  },
+  "俄罗斯": {
+    "pinyin": [
+      "eluosi"
+    ],
+    "english": [
+      "russia"
+    ],
+    "char": "俄罗斯",
+    "frequency_index": 1332
+  },
+  "乌克兰": {
+    "pinyin": [
+      "wukelan"
+    ],
+    "english": [
+      "ukraine"
+    ],
+    "char": "乌克兰",
+    "frequency_index": 1333
+  },
+  "土耳其": {
+    "pinyin": [
+      "tuerqi"
+    ],
+    "english": [
+      "turkey"
+    ],
+    "char": "土耳其",
+    "frequency_index": 1334
+  },
+  "埃及": {
+    "pinyin": [
+      "aiji"
+    ],
+    "english": [
+      "egypt"
+    ],
+    "char": "埃及",
+    "frequency_index": 1335
+  },
+  "南非": {
+    "pinyin": [
+      "nanfei"
+    ],
+    "english": [
+      "south africa"
+    ],
+    "char": "南非",
+    "frequency_index": 1336
+  },
+  "摩洛哥": {
+    "pinyin": [
+      "moluoge"
+    ],
+    "english": [
+      "morocco"
+    ],
+    "char": "摩洛哥",
+    "frequency_index": 1337
+  },
+  "阿尔及利亚": {
+    "pinyin": [
+      "aerjiliya"
+    ],
+    "english": [
+      "algeria"
+    ],
+    "char": "阿尔及利亚",
+    "frequency_index": 1338
+  },
+  "尼日利亚": {
+    "pinyin": [
+      "niriliya"
+    ],
+    "english": [
+      "nigeria"
+    ],
+    "char": "尼日利亚",
+    "frequency_index": 1339
+  },
+  "狗": {
+    "pinyin": [
+      "gou"
+    ],
+    "english": [
+      "dog"
+    ],
+    "char": "狗",
+    "frequency_index": 1340
+  },
+  "猫": {
+    "pinyin": [
+      "mao"
+    ],
+    "english": [
+      "cat"
+    ],
+    "char": "猫",
+    "frequency_index": 1341
+  },
+  "鸟": {
+    "pinyin": [
+      "niao"
+    ],
+    "english": [
+      "bird"
+    ],
+    "char": "鸟",
+    "frequency_index": 1342
+  },
+  "马": {
+    "pinyin": [
+      "ma"
+    ],
+    "english": [
+      "horse"
+    ],
+    "char": "马",
+    "frequency_index": 1344
+  },
+  "牛": {
+    "pinyin": [
+      "niu"
+    ],
+    "english": [
+      "cow"
+    ],
+    "char": "牛",
+    "frequency_index": 1345
+  },
+  "羊": {
+    "pinyin": [
+      "yang"
+    ],
+    "english": [
+      "sheep"
+    ],
+    "char": "羊",
+    "frequency_index": 1346
+  },
+  "鸡": {
+    "pinyin": [
+      "ji"
+    ],
+    "english": [
+      "chicken"
+    ],
+    "char": "鸡",
+    "frequency_index": 1347
+  },
+  "猪": {
+    "pinyin": [
+      "zhu"
+    ],
+    "english": [
+      "pig"
+    ],
+    "char": "猪",
+    "frequency_index": 1348
+  },
+  "老虎": {
+    "pinyin": [
+      "laohu"
+    ],
+    "english": [
+      "tiger"
+    ],
+    "char": "老虎",
+    "frequency_index": 1349
+  },
+  "狮子": {
+    "pinyin": [
+      "shizi"
+    ],
+    "english": [
+      "lion"
+    ],
+    "char": "狮子",
+    "frequency_index": 1350
+  },
+  "大象": {
+    "pinyin": [
+      "daxiang"
+    ],
+    "english": [
+      "elephant"
+    ],
+    "char": "大象",
+    "frequency_index": 1351
+  },
+  "熊": {
+    "pinyin": [
+      "xiong"
+    ],
+    "english": [
+      "bear"
+    ],
+    "char": "熊",
+    "frequency_index": 1352
+  },
+  "狼": {
+    "pinyin": [
+      "lang"
+    ],
+    "english": [
+      "wolf"
+    ],
+    "char": "狼",
+    "frequency_index": 1353
+  },
+  "蛇": {
+    "pinyin": [
+      "she"
+    ],
+    "english": [
+      "snake"
+    ],
+    "char": "蛇",
+    "frequency_index": 1354
+  },
+  "兔子": {
+    "pinyin": [
+      "tuzi"
+    ],
+    "english": [
+      "rabbit"
+    ],
+    "char": "兔子",
+    "frequency_index": 1355
+  },
+  "青蛙": {
+    "pinyin": [
+      "qingwa"
+    ],
+    "english": [
+      "frog"
+    ],
+    "char": "青蛙",
+    "frequency_index": 1356
+  },
+  "乌龟": {
+    "pinyin": [
+      "wugui"
+    ],
+    "english": [
+      "tortoise"
+    ],
+    "char": "乌龟",
+    "frequency_index": 1357
+  },
+  "鸭子": {
+    "pinyin": [
+      "yazi"
+    ],
+    "english": [
+      "duck"
+    ],
+    "char": "鸭子",
+    "frequency_index": 1358
+  },
+  "鹅": {
+    "pinyin": [
+      "e"
+    ],
+    "english": [
+      "goose"
+    ],
+    "char": "鹅",
+    "frequency_index": 1359
+  },
+  "猴子": {
+    "pinyin": [
+      "houzi"
+    ],
+    "english": [
+      "monkey"
+    ],
+    "char": "猴子",
+    "frequency_index": 1360
+  },
+  "松鼠": {
+    "pinyin": [
+      "songshu"
+    ],
+    "english": [
+      "squirrel"
+    ],
+    "char": "松鼠",
+    "frequency_index": 1361
+  },
+  "蟒蛇": {
+    "pinyin": [
+      "mangshe"
+    ],
+    "english": [
+      "python"
+    ],
+    "char": "蟒蛇",
+    "frequency_index": 1362
+  },
+  "猫头鹰": {
+    "pinyin": [
+      "maotouying"
+    ],
+    "english": [
+      "owl"
+    ],
+    "char": "猫头鹰",
+    "frequency_index": 1363
+  },
+  "海豚": {
+    "pinyin": [
+      "haitun"
+    ],
+    "english": [
+      "dolphin"
+    ],
+    "char": "海豚",
+    "frequency_index": 1364
+  },
+  "鲸鱼": {
+    "pinyin": [
+      "jingyu"
+    ],
+    "english": [
+      "whale"
+    ],
+    "char": "鲸鱼",
+    "frequency_index": 1365
+  },
+  "鲨鱼": {
+    "pinyin": [
+      "shayu"
+    ],
+    "english": [
+      "shark"
+    ],
+    "char": "鲨鱼",
+    "frequency_index": 1366
+  },
+  "章鱼": {
+    "pinyin": [
+      "zhangyu"
+    ],
+    "english": [
+      "octopus"
+    ],
+    "char": "章鱼",
+    "frequency_index": 1367
+  },
+  "螃蟹": {
+    "pinyin": [
+      "pangxie"
+    ],
+    "english": [
+      "crab"
+    ],
+    "char": "螃蟹",
+    "frequency_index": 1368
+  },
+  "龙虾": {
+    "pinyin": [
+      "longxia"
+    ],
+    "english": [
+      "lobster"
+    ],
+    "char": "龙虾",
+    "frequency_index": 1369
+  },
+  "蜜蜂": {
+    "pinyin": [
+      "mifeng"
+    ],
+    "english": [
+      "bee"
+    ],
+    "char": "蜜蜂",
+    "frequency_index": 1370
+  },
+  "蝴蝶": {
+    "pinyin": [
+      "hudie"
+    ],
+    "english": [
+      "butterfly"
+    ],
+    "char": "蝴蝶",
+    "frequency_index": 1371
+  },
+  "蚂蚁": {
+    "pinyin": [
+      "mayi"
+    ],
+    "english": [
+      "ant"
+    ],
+    "char": "蚂蚁",
+    "frequency_index": 1372
+  },
+  "蚊子": {
+    "pinyin": [
+      "wenzi"
+    ],
+    "english": [
+      "mosquito"
+    ],
+    "char": "蚊子",
+    "frequency_index": 1373
+  },
+  "苍蝇": {
+    "pinyin": [
+      "cangying"
+    ],
+    "english": [
+      "fly"
+    ],
+    "char": "苍蝇",
+    "frequency_index": 1374
+  },
+  "蟑螂": {
+    "pinyin": [
+      "zhanglang"
+    ],
+    "english": [
+      "cockroach"
+    ],
+    "char": "蟑螂",
+    "frequency_index": 1375
+  },
+  "河马": {
+    "pinyin": [
+      "hema"
+    ],
+    "english": [
+      "hippopotamus"
+    ],
+    "char": "河马",
+    "frequency_index": 1376
+  },
+  "犀牛": {
+    "pinyin": [
+      "xiniu"
+    ],
+    "english": [
+      "rhinoceros"
+    ],
+    "char": "犀牛",
+    "frequency_index": 1377
+  },
+  "驴": {
+    "pinyin": [
+      "lv"
+    ],
+    "english": [
+      "donkey"
+    ],
+    "char": "驴",
+    "frequency_index": 1378
+  },
+  "骆驼": {
+    "pinyin": [
+      "luotuo"
+    ],
+    "english": [
+      "camel"
+    ],
+    "char": "骆驼",
+    "frequency_index": 1379
+  },
+  "老鼠": {
+    "pinyin": [
+      "laoshu"
+    ],
+    "english": [
+      "mouse"
+    ],
+    "char": "老鼠",
+    "frequency_index": 1380
+  },
+  "蝙蝠": {
+    "pinyin": [
+      "bianfu"
+    ],
+    "english": [
+      "bat"
+    ],
+    "char": "蝙蝠",
+    "frequency_index": 1381
+  },
+  "蜘蛛": {
+    "pinyin": [
+      "zhizhu"
+    ],
+    "english": [
+      "spider"
+    ],
+    "char": "蜘蛛",
+    "frequency_index": 1382
+  },
+  "海星": {
+    "pinyin": [
+      "haixing"
+    ],
+    "english": [
+      "starfish"
+    ],
+    "char": "海星",
+    "frequency_index": 1383
+  },
+  "海马": {
+    "pinyin": [
+      "haima"
+    ],
+    "english": [
+      "seahorse"
+    ],
+    "char": "海马",
+    "frequency_index": 1384
+  },
+  "珊瑚": {
+    "pinyin": [
+      "shanhu"
+    ],
+    "english": [
+      "coral"
+    ],
+    "char": "珊瑚",
+    "frequency_index": 1385
+  },
+  "海龟": {
+    "pinyin": [
+      "haigui"
+    ],
+    "english": [
+      "sea turtle"
+    ],
+    "char": "海龟",
+    "frequency_index": 1386
+  },
+  "鹤": {
+    "pinyin": [
+      "he"
+    ],
+    "english": [
+      "crane"
+    ],
+    "char": "鹤",
+    "frequency_index": 1387
+  },
+  "孔雀": {
+    "pinyin": [
+      "kongque"
+    ],
+    "english": [
+      "peacock"
+    ],
+    "char": "孔雀",
+    "frequency_index": 1388
+  },
+  "蜥蜴": {
+    "pinyin": [
+      "xiyi"
+    ],
+    "english": [
+      "lizard"
+    ],
+    "char": "蜥蜴",
+    "frequency_index": 1389
+  },
+  "天气": {
+    "pinyin": [
+      "tianqi"
+    ],
+    "english": [
+      "weather"
+    ],
+    "char": "天气",
+    "frequency_index": 1390
+  },
+  "晴天": {
+    "pinyin": [
+      "qingtian"
+    ],
+    "english": [
+      "sunny day"
+    ],
+    "char": "晴天",
+    "frequency_index": 1391
+  },
+  "阴天": {
+    "pinyin": [
+      "yintian"
+    ],
+    "english": [
+      "cloudy day"
+    ],
+    "char": "阴天",
+    "frequency_index": 1392
+  },
+  "多云": {
+    "pinyin": [
+      "duoyun"
+    ],
+    "english": [
+      "overcast"
+    ],
+    "char": "多云",
+    "frequency_index": 1393
+  },
+  "雨": {
+    "pinyin": [
+      "yu"
+    ],
+    "english": [
+      "rain"
+    ],
+    "char": "雨",
+    "frequency_index": 1394
+  },
+  "空气": {
+    "pinyin": [
+      "kongqi"
+    ],
+    "english": [
+      "air"
+    ],
+    "char": "空气",
+    "frequency_index": 1395
+  },
+  "干旱": {
+    "pinyin": [
+      "ganhan"
+    ],
+    "english": [
+      "drought"
+    ],
+    "char": "干旱",
+    "frequency_index": 1396
+  },
+  "雷雨": {
+    "pinyin": [
+      "leiyu"
+    ],
+    "english": [
+      "thunderstorm"
+    ],
+    "char": "雷雨",
+    "frequency_index": 1397
+  },
+  "台风": {
+    "pinyin": [
+      "taifeng"
+    ],
+    "english": [
+      "typhoon"
+    ],
+    "char": "台风",
+    "frequency_index": 1398
+  },
+  "风": {
+    "pinyin": [
+      "feng"
+    ],
+    "english": [
+      "wind"
+    ],
+    "char": "风",
+    "frequency_index": 1399
+  },
+  "微风": {
+    "pinyin": [
+      "weifeng"
+    ],
+    "english": [
+      "breeze"
+    ],
+    "char": "微风",
+    "frequency_index": 1400
+  },
+  "强风": {
+    "pinyin": [
+      "qiangfeng"
+    ],
+    "english": [
+      "strong wind"
+    ],
+    "char": "强风",
+    "frequency_index": 1401
+  },
+  "雪": {
+    "pinyin": [
+      "xue"
+    ],
+    "english": [
+      "snow"
+    ],
+    "char": "雪",
+    "frequency_index": 1402
+  },
+  "海洋": {
+    "pinyin": [
+      "haiyang"
+    ],
+    "english": [
+      "ocean"
+    ],
+    "char": "海洋",
+    "frequency_index": 1403
+  },
+  "热带": {
+    "pinyin": [
+      "redai"
+    ],
+    "english": [
+      "tropics"
+    ],
+    "char": "热带",
+    "frequency_index": 1404
+  },
+  "暖和": {
+    "pinyin": [
+      "nuanhuo"
+    ],
+    "english": [
+      "warm"
+    ],
+    "char": "暖和",
+    "frequency_index": 1405
+  },
+  "寒冷": {
+    "pinyin": [
+      "hanleng"
+    ],
+    "english": [
+      "cold"
+    ],
+    "char": "寒冷",
+    "frequency_index": 1406
+  },
+  "太阳": {
+    "pinyin": [
+      "taiyang"
+    ],
+    "english": [
+      "sun"
+    ],
+    "char": "太阳",
+    "frequency_index": 1407
+  },
+  "月亮": {
+    "pinyin": [
+      "yueliang"
+    ],
+    "english": [
+      "moon"
+    ],
+    "char": "月亮",
+    "frequency_index": 1408
+  },
+  "天空": {
+    "pinyin": [
+      "tiankong"
+    ],
+    "english": [
+      "sky"
+    ],
+    "char": "天空",
+    "frequency_index": 1409
+  },
+  "星": {
+    "pinyin": [
+      "xing"
+    ],
+    "english": [
+      "star"
+    ],
+    "char": "星",
+    "frequency_index": 1410
+  },
+  "风暴": {
+    "pinyin": [
+      "fengbao"
+    ],
+    "english": [
+      "storm"
+    ],
+    "char": "风暴",
+    "frequency_index": 1411
+  },
+  "闪电": {
+    "pinyin": [
+      "shandian"
+    ],
+    "english": [
+      "lightning"
+    ],
+    "char": "闪电",
+    "frequency_index": 1412
+  },
+  "雷声": {
+    "pinyin": [
+      "leisheng"
+    ],
+    "english": [
+      "thunder"
+    ],
+    "char": "雷声",
+    "frequency_index": 1413
+  },
+  "彩虹": {
+    "pinyin": [
+      "caihong"
+    ],
+    "english": [
+      "rainbow"
+    ],
+    "char": "彩虹",
+    "frequency_index": 1414
+  },
+  "雾": {
+    "pinyin": [
+      "wu"
+    ],
+    "english": [
+      "fog"
+    ],
+    "char": "雾",
+    "frequency_index": 1415
+  },
+  "霜": {
+    "pinyin": [
+      "shuang"
+    ],
+    "english": [
+      "frost"
+    ],
+    "char": "霜",
+    "frequency_index": 1416
+  },
+  "熔岩": {
+    "pinyin": [
+      "rongyan"
+    ],
+    "english": [
+      "lava"
+    ],
+    "char": "熔岩",
+    "frequency_index": 1417
+  },
+  "温度": {
+    "pinyin": [
+      "wendu"
+    ],
+    "english": [
+      "temperature"
+    ],
+    "char": "温度",
+    "frequency_index": 1418
+  },
+  "地震": {
+    "pinyin": [
+      "dizhen"
+    ],
+    "english": [
+      "earthquake"
+    ],
+    "char": "地震",
+    "frequency_index": 1419
+  },
+  "气候": {
+    "pinyin": [
+      "qihou"
+    ],
+    "english": [
+      "climate"
+    ],
+    "char": "气候",
+    "frequency_index": 1420
+  },
+  "极光": {
+    "pinyin": [
+      "jiguang"
+    ],
+    "english": [
+      "aurora"
+    ],
+    "char": "极光",
+    "frequency_index": 1421
+  },
+  "洪水": {
+    "pinyin": [
+      "hongshui"
+    ],
+    "english": [
+      "flood"
+    ],
+    "char": "洪水",
+    "frequency_index": 1422
+  },
+  "春天": {
+    "pinyin": [
+      "chuntian"
+    ],
+    "english": [
+      "spring"
+    ],
+    "char": "春天",
+    "frequency_index": 1423
+  },
+  "夏天": {
+    "pinyin": [
+      "xiatian"
+    ],
+    "english": [
+      "summer"
+    ],
+    "char": "夏天",
+    "frequency_index": 1424
+  },
+  "秋天": {
+    "pinyin": [
+      "qiutian"
+    ],
+    "english": [
+      "autumn"
+    ],
+    "char": "秋天",
+    "frequency_index": 1425
+  },
+  "冬天": {
+    "pinyin": [
+      "dongtian"
+    ],
+    "english": [
+      "winter"
+    ],
+    "char": "冬天",
+    "frequency_index": 1426
+  },
+  "沙漠": {
+    "pinyin": [
+      "shamo"
+    ],
+    "english": [
+      "desert"
+    ],
+    "char": "沙漠",
+    "frequency_index": 1427
+  },
+  "草原": {
+    "pinyin": [
+      "caoyuan"
+    ],
+    "english": [
+      "grassland"
+    ],
+    "char": "草原",
+    "frequency_index": 1428
+  },
+  "岛屿": {
+    "pinyin": [
+      "daoyu"
+    ],
+    "english": [
+      "island"
+    ],
+    "char": "岛屿",
+    "frequency_index": 1429
+  },
+  "家": {
+    "pinyin": [
+      "jia"
+    ],
+    "english": [
+      "home, family"
+    ],
+    "char": "家",
+    "frequency_index": 1431
+  },
+  "客厅": {
+    "pinyin": [
+      "keting"
+    ],
+    "english": [
+      "living room"
+    ],
+    "char": "客厅",
+    "frequency_index": 1432
+  },
+  "卧室": {
+    "pinyin": [
+      "woshi"
+    ],
+    "english": [
+      "bedroom"
+    ],
+    "char": "卧室",
+    "frequency_index": 1433
+  },
+  "厨房": {
+    "pinyin": [
+      "chufang"
+    ],
+    "english": [
+      "kitchen"
+    ],
+    "char": "厨房",
+    "frequency_index": 1434
+  },
+  "浴室": {
+    "pinyin": [
+      "yushi"
+    ],
+    "english": [
+      "bathroom"
+    ],
+    "char": "浴室",
+    "frequency_index": 1435
+  },
+  "餐厅": {
+    "pinyin": [
+      "canting"
+    ],
+    "english": [
+      "dining room"
+    ],
+    "char": "餐厅",
+    "frequency_index": 1436
+  },
+  "书房": {
+    "pinyin": [
+      "shufang"
+    ],
+    "english": [
+      "study room"
+    ],
+    "char": "书房",
+    "frequency_index": 1437
+  },
+  "走廊": {
+    "pinyin": [
+      "zoulang"
+    ],
+    "english": [
+      "hallway"
+    ],
+    "char": "走廊",
+    "frequency_index": 1439
+  },
+  "门": {
+    "pinyin": [
+      "men"
+    ],
+    "english": [
+      "door"
+    ],
+    "char": "门",
+    "frequency_index": 1440
+  },
+  "窗户": {
+    "pinyin": [
+      "chuanghu"
+    ],
+    "english": [
+      "window"
+    ],
+    "char": "窗户",
+    "frequency_index": 1441
+  },
+  "屋顶": {
+    "pinyin": [
+      "wuding"
+    ],
+    "english": [
+      "roof"
+    ],
+    "char": "屋顶",
+    "frequency_index": 1442
+  },
+  "地板": {
+    "pinyin": [
+      "diban"
+    ],
+    "english": [
+      "floor"
+    ],
+    "char": "地板",
+    "frequency_index": 1443
+  },
+  "墙": {
+    "pinyin": [
+      "qiang"
+    ],
+    "english": [
+      "wall"
+    ],
+    "char": "墙",
+    "frequency_index": 1444
+  },
+  "地毯": {
+    "pinyin": [
+      "ditan"
+    ],
+    "english": [
+      "carpet"
+    ],
+    "char": "地毯",
+    "frequency_index": 1445
+  },
+  "家具": {
+    "pinyin": [
+      "jiaju"
+    ],
+    "english": [
+      "furniture"
+    ],
+    "char": "家具",
+    "frequency_index": 1446
+  },
+  "沙发": {
+    "pinyin": [
+      "shafa"
+    ],
+    "english": [
+      "sofa"
+    ],
+    "char": "沙发",
+    "frequency_index": 1447
+  },
+  "椅子": {
+    "pinyin": [
+      "yizi"
+    ],
+    "english": [
+      "chair"
+    ],
+    "char": "椅子",
+    "frequency_index": 1448
+  },
+  "桌子": {
+    "pinyin": [
+      "zhuozi"
+    ],
+    "english": [
+      "table"
+    ],
+    "char": "桌子",
+    "frequency_index": 1449
+  },
+  "床": {
+    "pinyin": [
+      "chuang"
+    ],
+    "english": [
+      "bed"
+    ],
+    "char": "床",
+    "frequency_index": 1450
+  },
+  "衣柜": {
+    "pinyin": [
+      "yigui"
+    ],
+    "english": [
+      "wardrobe"
+    ],
+    "char": "衣柜",
+    "frequency_index": 1451
+  },
+  "餐桌": {
+    "pinyin": [
+      "canzhuo"
+    ],
+    "english": [
+      "dining table"
+    ],
+    "char": "餐桌",
+    "frequency_index": 1452
+  },
+  "茶几": {
+    "pinyin": [
+      "chaji"
+    ],
+    "english": [
+      "coffee table"
+    ],
+    "char": "茶几",
+    "frequency_index": 1453
+  },
+  "电视": {
+    "pinyin": [
+      "dianshi"
+    ],
+    "english": [
+      "tv"
+    ],
+    "char": "电视",
+    "frequency_index": 1454
+  },
+  "空调": {
+    "pinyin": [
+      "kongtiao"
+    ],
+    "english": [
+      "air conditioner"
+    ],
+    "char": "空调",
+    "frequency_index": 1455
+  },
+  "风扇": {
+    "pinyin": [
+      "fengshan"
+    ],
+    "english": [
+      "fan"
+    ],
+    "char": "风扇",
+    "frequency_index": 1456
+  },
+  "冰箱": {
+    "pinyin": [
+      "bingxiang"
+    ],
+    "english": [
+      "refrigerator"
+    ],
+    "char": "冰箱",
+    "frequency_index": 1457
+  },
+  "微波炉": {
+    "pinyin": [
+      "weibolu"
+    ],
+    "english": [
+      "microwave"
+    ],
+    "char": "微波炉",
+    "frequency_index": 1458
+  },
+  "洗衣机": {
+    "pinyin": [
+      "xiyiji"
+    ],
+    "english": [
+      "washing machine"
+    ],
+    "char": "洗衣机",
+    "frequency_index": 1459
+  },
+  "洗碗机": {
+    "pinyin": [
+      "xiwanji"
+    ],
+    "english": [
+      "dishwasher"
+    ],
+    "char": "洗碗机",
+    "frequency_index": 1460
+  },
+  "烤箱": {
+    "pinyin": [
+      "kaoxiang"
+    ],
+    "english": [
+      "oven"
+    ],
+    "char": "烤箱",
+    "frequency_index": 1461
+  },
+  "电炉": {
+    "pinyin": [
+      "dianlu"
+    ],
+    "english": [
+      "electric stove"
+    ],
+    "char": "电炉",
+    "frequency_index": 1462
+  },
+  "炉子": {
+    "pinyin": [
+      "luzi"
+    ],
+    "english": [
+      "gas stove"
+    ],
+    "char": "炉子",
+    "frequency_index": 1463
+  },
+  "水槽": {
+    "pinyin": [
+      "shuicao"
+    ],
+    "english": [
+      "sink"
+    ],
+    "char": "水槽",
+    "frequency_index": 1464
+  },
+  "热水器": {
+    "pinyin": [
+      "reshuiqi"
+    ],
+    "english": [
+      "water heater"
+    ],
+    "char": "热水器",
+    "frequency_index": 1465
+  },
+  "厕所": {
+    "pinyin": [
+      "cesuo"
+    ],
+    "english": [
+      "toilet"
+    ],
+    "char": "厕所",
+    "frequency_index": 1466
+  },
+  "浴缸": {
+    "pinyin": [
+      "yugang"
+    ],
+    "english": [
+      "bathtub"
+    ],
+    "char": "浴缸",
+    "frequency_index": 1467
+  },
+  "马桶": {
+    "pinyin": [
+      "matong"
+    ],
+    "english": [
+      "toilet bowl"
+    ],
+    "char": "马桶",
+    "frequency_index": 1468
+  },
+  "洗手池": {
+    "pinyin": [
+      "xishouchi"
+    ],
+    "english": [
+      "washbasin"
+    ],
+    "char": "洗手池",
+    "frequency_index": 1469
+  },
+  "镜子": {
+    "pinyin": [
+      "jingzi"
+    ],
+    "english": [
+      "mirror"
+    ],
+    "char": "镜子",
+    "frequency_index": 1470
+  },
+  "毛巾": {
+    "pinyin": [
+      "maojin"
+    ],
+    "english": [
+      "towel"
+    ],
+    "char": "毛巾",
+    "frequency_index": 1471
+  },
+  "牙刷": {
+    "pinyin": [
+      "yashua"
+    ],
+    "english": [
+      "toothbrush"
+    ],
+    "char": "牙刷",
+    "frequency_index": 1472
+  },
+  "牙膏": {
+    "pinyin": [
+      "yagao"
+    ],
+    "english": [
+      "toothpaste"
+    ],
+    "char": "牙膏",
+    "frequency_index": 1473
+  },
+  "香皂": {
+    "pinyin": [
+      "xiangzao"
+    ],
+    "english": [
+      "soap"
+    ],
+    "char": "香皂",
+    "frequency_index": 1474
+  },
+  "手纸": {
+    "pinyin": [
+      "shouzhi"
+    ],
+    "english": [
+      "toilet paper"
+    ],
+    "char": "手纸",
+    "frequency_index": 1475
+  },
+  "洗发水": {
+    "pinyin": [
+      "xifashui"
+    ],
+    "english": [
+      "shampoo"
+    ],
+    "char": "洗发水",
+    "frequency_index": 1476
+  },
+  "沐浴露": {
+    "pinyin": [
+      "muyulu"
+    ],
+    "english": [
+      "body wash"
+    ],
+    "char": "沐浴露",
+    "frequency_index": 1477
+  },
+  "抱枕": {
+    "pinyin": [
+      "baozhen"
+    ],
+    "english": [
+      "hugging pillow"
+    ],
+    "char": "抱枕",
+    "frequency_index": 1478
+  },
+  "被子": {
+    "pinyin": [
+      "beizi"
+    ],
+    "english": [
+      "blanket"
+    ],
+    "char": "被子",
+    "frequency_index": 1479
+  },
+  "床单": {
+    "pinyin": [
+      "chuangdan"
+    ],
+    "english": [
+      "bedsheet"
+    ],
+    "char": "床单",
+    "frequency_index": 1480
+  },
+  "枕头": {
+    "pinyin": [
+      "zhentou"
+    ],
+    "english": [
+      "pillow"
+    ],
+    "char": "枕头",
+    "frequency_index": 1481
+  },
+  "电视遥控器": {
+    "pinyin": [
+      "dianshiyaokongqi"
+    ],
+    "english": [
+      "tv remote"
+    ],
+    "char": "电视遥控器",
+    "frequency_index": 1482
+  },
+  "电话": {
+    "pinyin": [
+      "dianhua"
+    ],
+    "english": [
+      "telephone"
+    ],
+    "char": "电话",
+    "frequency_index": 1483
+  },
+  "书架": {
+    "pinyin": [
+      "shujia"
+    ],
+    "english": [
+      "bookshelf"
+    ],
+    "char": "书架",
+    "frequency_index": 1484
+  },
+  "灯": {
+    "pinyin": [
+      "deng"
+    ],
+    "english": [
+      "lamp"
+    ],
+    "char": "灯",
+    "frequency_index": 1485
+  },
+  "照相机": {
+    "pinyin": [
+      "zhaoxiangji"
+    ],
+    "english": [
+      "camera"
+    ],
+    "char": "照相机",
+    "frequency_index": 1486
+  },
+  "电脑": {
+    "pinyin": [
+      "diannao"
+    ],
+    "english": [
+      "computer"
+    ],
+    "char": "电脑",
+    "frequency_index": 1487
+  },
+  "书": {
+    "pinyin": [
+      "shu"
+    ],
+    "english": [
+      "book"
+    ],
+    "char": "书",
+    "frequency_index": 1488
+  },
+  "杯子": {
+    "pinyin": [
+      "beizi"
+    ],
+    "english": [
+      "cup"
+    ],
+    "char": "杯子",
+    "frequency_index": 1489
+  },
+  "碗": {
+    "pinyin": [
+      "wan"
+    ],
+    "english": [
+      "bowl"
+    ],
+    "char": "碗",
+    "frequency_index": 1490
+  },
+  "盘子": {
+    "pinyin": [
+      "panzi"
+    ],
+    "english": [
+      "plate"
+    ],
+    "char": "盘子",
+    "frequency_index": 1491
+  },
+  "刀子": {
+    "pinyin": [
+      "daozi"
+    ],
+    "english": [
+      "knife"
+    ],
+    "char": "刀子",
+    "frequency_index": 1492
+  },
+  "叉子": {
+    "pinyin": [
+      "chazi"
+    ],
+    "english": [
+      "fork"
+    ],
+    "char": "叉子",
+    "frequency_index": 1494
+  },
+  "锅": {
+    "pinyin": [
+      "guo"
+    ],
+    "english": [
+      "pot"
+    ],
+    "char": "锅",
+    "frequency_index": 1495
+  },
+  "纸巾": {
+    "pinyin": [
+      "zhijin"
+    ],
+    "english": [
+      "tissue, napkin"
+    ],
+    "char": "纸巾",
+    "frequency_index": 1496
+  },
+  "梳子": {
+    "pinyin": [
+      "shuzi"
+    ],
+    "english": [
+      "comb"
+    ],
+    "char": "梳子",
+    "frequency_index": 1497
+  },
+  "熨斗": {
+    "pinyin": [
+      "yundou"
+    ],
+    "english": [
+      "iron"
+    ],
+    "char": "熨斗",
+    "frequency_index": 1498
+  },
+  "垃圾桶": {
+    "pinyin": [
+      "lajitong"
+    ],
+    "english": [
+      "trash bin"
+    ],
+    "char": "垃圾桶",
+    "frequency_index": 1499
+  },
+  "衣服": {
+    "pinyin": [
+      "yifu"
+    ],
+    "english": [
+      "clothes"
+    ],
+    "char": "衣服",
+    "frequency_index": 1500
+  },
+  "衬衫": {
+    "pinyin": [
+      "chenshan"
+    ],
+    "english": [
+      "shirt"
+    ],
+    "char": "衬衫",
+    "frequency_index": 1501
+  },
+  "T恤": {
+    "pinyin": [
+      "txu"
+    ],
+    "english": [
+      "t-shirt"
+    ],
+    "char": "T恤",
+    "frequency_index": 1502
+  },
+  "裙子": {
+    "pinyin": [
+      "qunzi"
+    ],
+    "english": [
+      "skirt"
+    ],
+    "char": "裙子",
+    "frequency_index": 1503
+  },
+  "裤子": {
+    "pinyin": [
+      "kuzi"
+    ],
+    "english": [
+      "pants"
+    ],
+    "char": "裤子",
+    "frequency_index": 1504
+  },
+  "外套": {
+    "pinyin": [
+      "waitao"
+    ],
+    "english": [
+      "coat"
+    ],
+    "char": "外套",
+    "frequency_index": 1505
+  },
+  "羽绒服": {
+    "pinyin": [
+      "yurongfu"
+    ],
+    "english": [
+      "down jacket"
+    ],
+    "char": "羽绒服",
+    "frequency_index": 1506
+  },
+  "连衣裙": {
+    "pinyin": [
+      "lianyiqun"
+    ],
+    "english": [
+      "dress"
+    ],
+    "char": "连衣裙",
+    "frequency_index": 1507
+  },
+  "西装": {
+    "pinyin": [
+      "xizhuang"
+    ],
+    "english": [
+      "suit"
+    ],
+    "char": "西装",
+    "frequency_index": 1508
+  },
+  "套装": {
+    "pinyin": [
+      "taozhuang"
+    ],
+    "english": [
+      "outfit"
+    ],
+    "char": "套装",
+    "frequency_index": 1509
+  },
+  "牛仔裤": {
+    "pinyin": [
+      "niuzaiku"
+    ],
+    "english": [
+      "jeans"
+    ],
+    "char": "牛仔裤",
+    "frequency_index": 1510
+  },
+  "运动鞋": {
+    "pinyin": [
+      "yundongxie"
+    ],
+    "english": [
+      "sneakers"
+    ],
+    "char": "运动鞋",
+    "frequency_index": 1511
+  },
+  "皮鞋": {
+    "pinyin": [
+      "pixie"
+    ],
+    "english": [
+      "leather shoes"
+    ],
+    "char": "皮鞋",
+    "frequency_index": 1512
+  },
+  "靴子": {
+    "pinyin": [
+      "xuezi"
+    ],
+    "english": [
+      "boots"
+    ],
+    "char": "靴子",
+    "frequency_index": 1513
+  },
+  "拖鞋": {
+    "pinyin": [
+      "tuoxie"
+    ],
+    "english": [
+      "slippers",
+      "sandals"
+    ],
+    "char": "拖鞋",
+    "frequency_index": 1514
+  },
+  "帽子": {
+    "pinyin": [
+      "maozi"
+    ],
+    "english": [
+      "hat"
+    ],
+    "char": "帽子",
+    "frequency_index": 1515
+  },
+  "围巾": {
+    "pinyin": [
+      "weijin"
+    ],
+    "english": [
+      "scarf"
+    ],
+    "char": "围巾",
+    "frequency_index": 1516
+  },
+  "手套": {
+    "pinyin": [
+      "shoutao"
+    ],
+    "english": [
+      "gloves"
+    ],
+    "char": "手套",
+    "frequency_index": 1517
+  },
+  "袜子": {
+    "pinyin": [
+      "wazi"
+    ],
+    "english": [
+      "socks"
+    ],
+    "char": "袜子",
+    "frequency_index": 1518
+  },
+  "内衣": {
+    "pinyin": [
+      "neiyi"
+    ],
+    "english": [
+      "underwear"
+    ],
+    "char": "内衣",
+    "frequency_index": 1519
+  },
+  "胸罩": {
+    "pinyin": [
+      "xiongzhao"
+    ],
+    "english": [
+      "bra"
+    ],
+    "char": "胸罩",
+    "frequency_index": 1520
+  },
+  "内裤": {
+    "pinyin": [
+      "neiku"
+    ],
+    "english": [
+      "underpants"
+    ],
+    "char": "内裤",
+    "frequency_index": 1521
+  },
+  "睡衣": {
+    "pinyin": [
+      "shuiyi"
+    ],
+    "english": [
+      "pajamas"
+    ],
+    "char": "睡衣",
+    "frequency_index": 1522
+  },
+  "睡裤": {
+    "pinyin": [
+      "shuiku"
+    ],
+    "english": [
+      "sleep pants"
+    ],
+    "char": "睡裤",
+    "frequency_index": 1523
+  },
+  "背心": {
+    "pinyin": [
+      "beixin"
+    ],
+    "english": [
+      "tank top"
+    ],
+    "char": "背心",
+    "frequency_index": 1524
+  },
+  "夹克": {
+    "pinyin": [
+      "jiake"
+    ],
+    "english": [
+      "windbreaker"
+    ],
+    "char": "夹克",
+    "frequency_index": 1525
+  },
+  "运动裤": {
+    "pinyin": [
+      "yundongku"
+    ],
+    "english": [
+      "sweatpants"
+    ],
+    "char": "运动裤",
+    "frequency_index": 1526
+  },
+  "游泳衣": {
+    "pinyin": [
+      "youyongyi"
+    ],
+    "english": [
+      "swimsuit"
+    ],
+    "char": "游泳衣",
+    "frequency_index": 1527
+  },
+  "睡袍": {
+    "pinyin": [
+      "shuipao"
+    ],
+    "english": [
+      "bathrobe"
+    ],
+    "char": "睡袍",
+    "frequency_index": 1528
+  },
+  "牛仔外套": {
+    "pinyin": [
+      "niuzaiwaitao"
+    ],
+    "english": [
+      "denim jacket"
+    ],
+    "char": "牛仔外套",
+    "frequency_index": 1529
+  },
+  "﻿你好": {
+    "pinyin": [
+      "nihao"
+    ],
+    "english": [
+      "hello"
+    ],
+    "char": "﻿你好",
+    "frequency_index": 30
+  },
+  "怎么了": {
+    "pinyin": [
+      "zenmele"
+    ],
+    "english": [
+      "what's up?",
+      "what happened?"
+    ],
+    "char": "怎么了",
+    "frequency_index": 2
+  },
+  "网站": {
+    "pinyin": [
+      "wangzhan"
+    ],
+    "english": [
+      "website"
+    ],
+    "char": "网站",
+    "frequency_index": 3
+  },
+  "下载": {
+    "pinyin": [
+      "xiazai"
+    ],
+    "english": [
+      "download"
+    ],
+    "char": "下载",
+    "frequency_index": 4
+  },
+  "打印": {
+    "pinyin": [
+      "dayin"
+    ],
+    "english": [
+      "print"
+    ],
+    "char": "打印",
+    "frequency_index": 5
+  },
+  "另存为": {
+    "pinyin": [
+      "lingcunwei"
+    ],
+    "english": [
+      "save as"
+    ],
+    "char": "另存为",
+    "frequency_index": 6
+  },
+  "选项": {
+    "pinyin": [
+      "xuanxiang"
+    ],
+    "english": [
+      "options"
+    ],
+    "char": "选项",
+    "frequency_index": 7
+  },
+  "网址": {
+    "pinyin": [
+      "wangzhi"
+    ],
+    "english": [
+      "web address"
+    ],
+    "char": "网址",
+    "frequency_index": 9
+  },
+  "浏览器": {
+    "pinyin": [
+      "liulanqi"
+    ],
+    "english": [
+      "browser"
+    ],
+    "char": "浏览器",
+    "frequency_index": 10
+  },
+  "点击": {
+    "pinyin": [
+      "dianji"
+    ],
+    "english": [
+      "click"
+    ],
+    "char": "点击",
+    "frequency_index": 11
+  },
+  "账号": {
+    "pinyin": [
+      "zhanghao"
+    ],
+    "english": [
+      "account"
+    ],
+    "char": "账号",
+    "frequency_index": 12
+  },
+  "密码": {
+    "pinyin": [
+      "mima"
+    ],
+    "english": [
+      "password"
+    ],
+    "char": "密码",
+    "frequency_index": 13
+  },
+  "登录": {
+    "pinyin": [
+      "denglu"
+    ],
+    "english": [
+      "login"
+    ],
+    "char": "登录",
+    "frequency_index": 14
+  },
+  "注册": {
+    "pinyin": [
+      "zhuce"
+    ],
+    "english": [
+      "register"
+    ],
+    "char": "注册",
+    "frequency_index": 15
+  },
+  "设置": {
+    "pinyin": [
+      "shezhi"
+    ],
+    "english": [
+      "settings"
+    ],
+    "char": "设置",
+    "frequency_index": 16
+  },
+  "搜索": {
+    "pinyin": [
+      "sousuo"
+    ],
+    "english": [
+      "search"
+    ],
+    "char": "搜索",
+    "frequency_index": 17
+  },
+  "分享": {
+    "pinyin": [
+      "fenxiang"
+    ],
+    "english": [
+      "share"
+    ],
+    "char": "分享",
+    "frequency_index": 18
+  },
+  "关注": {
+    "pinyin": [
+      "guanzhu"
+    ],
+    "english": [
+      "follow"
+    ],
+    "char": "关注",
+    "frequency_index": 19
+  },
+  "取消": {
+    "pinyin": [
+      "quxiao"
+    ],
+    "english": [
+      "cancel"
+    ],
+    "char": "取消",
+    "frequency_index": 20
+  },
+  "确认": {
+    "pinyin": [
+      "queren"
+    ],
+    "english": [
+      "confirm"
+    ],
+    "char": "确认",
+    "frequency_index": 21
+  },
+  "删除": {
+    "pinyin": [
+      "shanchu"
+    ],
+    "english": [
+      "delete"
+    ],
+    "char": "删除",
+    "frequency_index": 22
+  },
+  "更新": {
+    "pinyin": [
+      "gengxin"
+    ],
+    "english": [
+      "update"
+    ],
+    "char": "更新",
+    "frequency_index": 23
+  },
+  "软件": {
+    "pinyin": [
+      "ruanjian"
+    ],
+    "english": [
+      "software"
+    ],
+    "char": "软件",
+    "frequency_index": 24
+  },
+  "程序": {
+    "pinyin": [
+      "chengxu"
+    ],
+    "english": [
+      "program",
+      "procedure"
+    ],
+    "char": "程序",
+    "frequency_index": 25
+  },
+  "文件": {
+    "pinyin": [
+      "wenjian"
+    ],
+    "english": [
+      "file"
+    ],
+    "char": "文件",
+    "frequency_index": 26
+  },
+  "文件夹": {
+    "pinyin": [
+      "wenjianjia"
+    ],
+    "english": [
+      "folder"
+    ],
+    "char": "文件夹",
+    "frequency_index": 27
+  },
+  "网络": {
+    "pinyin": [
+      "wangluo"
+    ],
+    "english": [
+      "internet",
+      "network"
+    ],
+    "char": "网络",
+    "frequency_index": 28
+  },
+  "链接": {
+    "pinyin": [
+      "lianjie"
+    ],
+    "english": [
+      "link"
+    ],
+    "char": "链接",
+    "frequency_index": 29
+  }
+}
