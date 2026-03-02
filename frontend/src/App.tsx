@@ -167,7 +167,7 @@ function App() {
     lastFlipTime.current = Date.now();
   };
 
-  const updateProgress = (char: string, isCorrect: boolean) => {
+  const updateProgress = (char: string, isCorrect: boolean, isCorrection: boolean = false) => {
     setProgress(prev => {
       const newProgress = { ...prev };
       
@@ -175,12 +175,17 @@ function App() {
         newProgress.stats[char] = { right: 0, wrong: 0 };
       }
 
-      if (isCorrect) {
+      if (isCorrection) {
+        newProgress.stats[char].wrong = Math.max(0, newProgress.stats[char].wrong - 1);
         newProgress.stats[char].right += 1;
       } else {
-        newProgress.stats[char].wrong += 1;
-        if (!newProgress.missed.includes(char)) {
-          newProgress.missed.push(char);
+        if (isCorrect) {
+          newProgress.stats[char].right += 1;
+        } else {
+          newProgress.stats[char].wrong += 1;
+          if (!newProgress.missed.includes(char)) {
+            newProgress.missed.push(char);
+          }
         }
       }
 
@@ -220,7 +225,7 @@ function App() {
   const handleManualCorrect = () => {
     if (!activeWord) return;
     setResult(prev => prev ? { ...prev, isCorrect: true, message: 'Corrected! (Typo ignored)' } : null);
-    updateProgress(activeWord.char, true);
+    updateProgress(activeWord.char, true, true);
     if (drillMode.includes(activeWord.char)) {
         setDrillMode(prev => prev.filter(c => c !== activeWord.char));
     }
